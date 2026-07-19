@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.1",
-    "notes":  "Blenk Voice Desktop Update",
-    "pub_date":  "2026-07-19T17:53:34.9345955+00:00",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZCTWlZL1JZOUdYUU9icFFocG9iTXNzWm9WS2Eyb1RyRCtPRGR0L2hxa1FLdmszT0dzM3dyY1ZJZ1RrQi9MNnh4Vk83d1VRTkFVYmxyNGJ3d3hpT1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDgzNjE0CWZpbGU6QmxlbmsgVm9pY2VfMC4zLjFfeDY0LXNldHVwLmV4ZQoxcDZBekZ1QVFvam1rU2Nrck9pNGFtWUdFU3d1TGh3ek5LbndLV2NpdllIaHIrZE1FY1pUNCtPdGtKeStZT0lpOUFneEorQThVR2dkMXc0bWMvbElBdz09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.3.1/BlenkVoice-0.3.1-windows-x86_64-setup.exe"
-                                         }
-                  }
+  "version": "0.3.2",
+  "notes": "Echte Serverteilnehmer, gespeicherte Verbindungsdaten, schnelleres Wiederverbinden und stabile Opus-Pakete.",
+  "pub_date": "2026-07-19T18:26:07.2651932+00:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGo2RmZtaDBaQngvOHRJMDB6RVJmQ2JJVVRldVBrNTRtU2tiOXVBVnM1ZUZocyt5dVlYVHk0U1NsZm4wZHRJazhVeEpRNm03U2s4RzA3R3FzdWEwUWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDg1NTY2CWZpbGU6QmxlbmsgVm9pY2VfMC4zLjJfeDY0LXNldHVwLmV4ZQo4bGlmK0VOVVdmemg2THhQS2poeitndGYzRjBQd2h6N21iTEVUN3BuS1d6NldvZnBkYjkvUW5LdUMvUWhvZXAvNlJiK3F5RXVJZGJxKzdnTzhVbCtCdz09Cg==",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.3.2/BlenkVoice-0.3.2-windows-x86_64-setup.exe"
+    }
+  }
 }
