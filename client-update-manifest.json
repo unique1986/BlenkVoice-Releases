@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Blenk Voice Desktop Update",
+    "pub_date":  "2026-07-19T16:33:17.7747974+00:00",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHNEdDVMOHVWMDl5bVhIZXRCTGJBR0VrUHNoeXBZS0VnOE1TWjk0YlJSbTFobU9sU2tmMlkvOHY4TVRQUHlneDJiOHI0WERWdWJxMWlDUVBZT0g5ekFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDc4Nzk3CWZpbGU6QmxlbmsgVm9pY2VfMC4zLjBfeDY0LXNldHVwLmV4ZQp6ak8vWnRCQTF3eEtBVkh6cVpjemQwK0haaHBkOVdWUTAxdEVQM2VJNzNrWHVSYmdQK1pBWmZHeXk2ZlF0ai95STlWdVl3MWNSNi9TcGRyekhMa3ZCZz09Cg==",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.3.0/BlenkVoice-0.3.0-windows-x86_64-setup.exe"
+                                         }
+                  }
+}
