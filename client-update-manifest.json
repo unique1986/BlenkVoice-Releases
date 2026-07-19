@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Echte Serverteilnehmer, gespeicherte Verbindungsdaten, schnelleres Wiederverbinden und stabile Opus-Pakete.",
-  "pub_date": "2026-07-19T18:26:07.2651932+00:00",
+  "version": "0.3.3",
+  "notes": "Gespeicherte Audioqualität und Geräteauswahl sowie echte Sprecheranzeige für lokale und entfernte Teilnehmer.",
+  "pub_date": "2026-07-19T19:19:13.5082657+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGo2RmZtaDBaQngvOHRJMDB6RVJmQ2JJVVRldVBrNTRtU2tiOXVBVnM1ZUZocyt5dVlYVHk0U1NsZm4wZHRJazhVeEpRNm03U2s4RzA3R3FzdWEwUWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDg1NTY2CWZpbGU6QmxlbmsgVm9pY2VfMC4zLjJfeDY0LXNldHVwLmV4ZQo4bGlmK0VOVVdmemg2THhQS2poeitndGYzRjBQd2h6N21iTEVUN3BuS1d6NldvZnBkYjkvUW5LdUMvUWhvZXAvNlJiK3F5RXVJZGJxKzdnTzhVbCtCdz09Cg==",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.3.2/BlenkVoice-0.3.2-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpQOE1HZ1E2VWVmR2hrQ0duVmExN3JUSGZCQUkxdVFkOTV6Vy9PSWZvdkxIeThOTXMvOGkyWUdPRm1vYklJYXVlUUxQS1gzZkgralYyODVubkg1Ync4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDg4NzUyCWZpbGU6QmxlbmsgVm9pY2VfMC4zLjNfeDY0LXNldHVwLmV4ZQpsbzhIcHpvd3F1SU5paDlFd0p6WFBja1VFK0FHZE5QOUFSRTlBLzVOSE5OMUtCc3NaQjFaZk1QVWhHTi9pSFVVU2VXTURSYkhWaUd4ZXV5Rk8vT2xCZz09Cg==",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.3.3/BlenkVoice-0.3.3-windows-x86_64-setup.exe"
     }
   }
 }
