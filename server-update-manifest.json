@@ -1,4 +1,23 @@
 {
+  "schemaVersion": 1,
+  "product": "Blenk Voice Server",
+  "generatedAtUtc": "2026-07-19T18:48:20.2720683+00:00",
+  "releases": [
+    {
+      "version": "0.1.1",
+      "channel": "beta",
+      "publishedAtUtc": "2026-07-19T18:48:20.2670681+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.1.1/BlenkVoice.Server-0.1.1-win-x64.zip",
+      "sizeBytes": 2767870,
+      "sha256": "1fbfc67fa5a7fb3e927f67b32e2a9bda26934a1aca7553192a31d5e6b0f7aa96",
+      "signature": "LTshcvxWYR/dkzByiiupk/H8zH2k1P8ytE4kz0FoPES+SqGOIp2JPZTHpuul5Xcvku7NzT58bUfmM3kGBTBzvxWcxHEXAbMyy2tT0ZL6jquwKeE6FIVDNeNPR1t+lwyc8JNS59iyUqWxNCBP9BA00c5X8c/tG+UIXaLNyd6vV7hFn2uaOUaf8IvVYqyFnOoaSied+SkymOEJP8s7PlTigLlT7e+8l0T0dgjTsoG4LOMOlTsP9Z5P9+H3raWYHvgD655oDq7N9UB0S303DczuzCgnh1N2cKN0oO5VjBOCueek/qwdz6pMj55DPnpQToUtcMV1hIcC4yr5JLch/7zJURjCNrhUoSvKET/Mu6qF4dFVGjxtDo1zeiqJ1hWlYawwZE1Lt6rSWbjttlTJ16ELhVkILxX/3rX2E0DrworwV78rkA7vWXtO/NzAEGX8yQ6FcYtbyR21reB0sqsYgZvNm3yok2fo9S30SzJiD/H/HhEg4MTM3IfblRzP8ejvZb0c",
+      "releaseNotes": [
+        "Sofortige Wiederverbindung durch serverseitige Sitzungsübernahme"
+      ]
+    }
+  ]
+}
+{
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
     "generatedAtUtc":  "2026-07-19T16:32:09.6819441+00:00",
