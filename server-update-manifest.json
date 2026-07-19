@@ -17,22 +17,3 @@
     }
   ]
 }
-{
-    "schemaVersion":  1,
-    "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-19T16:32:09.6819441+00:00",
-    "releases":  [
-                     {
-                         "version":  "0.1.0",
-                         "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-19T16:32:09.6689196+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.1.0/BlenkVoice.Server-0.1.0-win-x64.zip",
-                         "sizeBytes":  2764158,
-                         "sha256":  "01ec9a51d02a2c345606f37e87090c5392f30b9a7de97a3d4bc35fbd997e1f6a",
-                         "signature":  "RtWHVi6O5yIw/qrxJWvBv9aitVsQGvorr3T473D5l+tGwlqv+m4lDj8iKtNXYWBtegN78F2zz/4B3CHMq1Lo9Ir+KYGfNamvAog3urulz8xIPoboiLBtJD+gZUG5asoWhrKNyJRFtRUSWgWMcT0+bJgr/qQz1v6RicXYMQY+4F9h1sUSzKxRKxHiQsV/YKg/RRnctOLcOeNPpMzKuIjIyjjlanX8UeCgY18pBRHJmxVFnhkxUewSfXR9kgtl51bjncL36NUmRhKoegKUApIbZGG5St9Y1nW36Db4Kiy7Ff3QkK8jhGZMsOR97WRoK0o68A8bqI7QmtVNSTLDahqgAtwHh2XbE7If6ZY9/4FwWhxgD5JAXy7QYZD2JaRaJoDKrXGsOezozyQwuPpTfUAyHoM7dfKvlsJLowIonBJ4zfKrmgRkY6eaLw/uoy2Av9ZWNs0jv1eywxMj/7o+lo9ub2TYiQQxqPRxYxvRNxAjeXGO2frD4mRW1v4Ol6P3b6+u",
-                         "releaseNotes":  [
-                                              "Nativer Blenk Voice Server"
-                                          ]
-                     }
-                 ]
-}
