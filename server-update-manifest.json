@@ -1,18 +1,20 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-20T17:02:14.4175513+00:00",
+    "generatedAtUtc":  "2026-07-20T17:50:42.8950002+00:00",
     "releases":  [
                      {
-                         "version":  "0.5.0",
+                         "version":  "0.5.1",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-20T17:02:14.4094519+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.0/BlenkVoice.Server-0.5.0-win-x64.zip",
-                         "sizeBytes":  3201457,
-                         "sha256":  "813c86e7e7da9e2aa7cf4e644ded6eb8a856a1c16654f929d4d6e5686bd15468",
-                         "signature":  "j0kaaYm9elTLLtbT5KXUoVSJPg3MV6MlH6HkCRUOQwZuAuzS5enGcTJFle4sRwM4idyEBkiHO/dWdkYGqmAvv0GnZbLeG0MFHvVKc4g7j2IK/ZW/h9LOTS+Ah7nW/zKiySeNkEzYvPFIqP1RBfqZHWYOOAIqRrPuZDqYzRAT5y4PyDaVk4z+HigSkkiQF4a+I+VMsEeZe62OrzJn+DTavmtpBXZyieUojvupbjx/PD2MCTctnJRT1aq3spih2Cr6g1mLrj0+RucrdTxjHPADoPP3LFffHz8X+ky3MV8o3UgmUpjknwYakC4AxcoehxGs3RVAutz3yG4khBOXR/idpVkh7bJQeaWLSMcgLBCik8vTxbZLel42bCyFi6IgiuTlkoPgb4PNWdOZdueohateDqjo3kf+aFIxD9Y0t306c1x5syZBbU2CCMfp5M1UH+QiMR25p1MeOUF//ShOA0J9VkTLKyAtSkmUybWtahGIo8LXDgLGUSI8FQSxpL8LLq7K",
+                         "publishedAtUtc":  "2026-07-20T17:50:42.8881228+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.1/BlenkVoice.Server-0.5.1-win-x64.zip",
+                         "sizeBytes":  3202484,
+                         "sha256":  "bead4e2a53a2c855ec3fc27e44763810557c80a574f1244f8594296b1fb8cd96",
+                         "signature":  "CPTvvFEjPHLPAtbl7crxlLSDUHoB5Jr3fROu5viux9KKW3WTBsor/KxEJXsqL0XZ5zX4S8PwmZhmcewb3qU/i2fKzIPTsLY+FFSeMUygLhEFMQK7TOC7YfdTgPIgaQ6fsmSRBvWrdWSm+vLFYZhrKWhCZv8P7RaGFNeYOGs5CjvEWr9NnpOspyWx+GTosW8tx+oYlKo70GYAazJ9qDricL5cWHOYNq2JLJqQ6C9tjYQK3gWMVZQNiWwnFGdV6o9jRYENG8OuGi7hwHS/yFr1PvZSt7RW0O/aGMznhf6A5V5MifK7nH5jtpoyzHRXxSLLzxK4ZORztsME2U4XFOtBMfmf0n2P5psk/4Pwopge3PxIwwGXOuZPiyiUnXpdWixGfUAriecGMJBXDJOv54/uDnrphRthu9PQNTNsEzYpBd4qh8J7WTWBRRNaM2spPIYvvSLZ9hTckZg0v+vSe/v8XdZdf2TOchWR5Wrm/ORS28NgKUeV6vInQCDdU5uRPpWA",
                          "releaseNotes":  [
-                                              "Serverseitige Konten mit Argon2 und Base-Verwaltung,Direkte Client-Erkennung über TCP 7001,Raumkategorien und echte Unterräume,Ready-API meldet Prozess-ID für sichere Wiedererkennung"
+                                              "Besitzeridentität wird in der Kontenverwaltung angezeigt",
+                                              "Lokale Besitzeridentität kann in ein E-Mail-Konto umgewandelt werden",
+                                              "Besitzer bleibt bei Übernahmen eindeutig und geschützt"
                                           ]
                      }
                  ]
