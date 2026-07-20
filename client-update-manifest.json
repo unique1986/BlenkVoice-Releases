@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Echter Raumchat, verbesserte Audiofilter und automatische Mikrofon-Pegelregelung, globales Push-to-Talk sowie schnelleres Wiederverbinden.",
-  "pub_date": "2026-07-20T00:59:38.6668976+00:00",
+  "version": "0.5.0",
+  "notes": "Echte Bildschirm- und Fensterfreigabe, Server-Relay, Hardwarebewertung und adaptive Streamprofile.",
+  "pub_date": "2026-07-20T09:12:26.1197007+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGo4ei8yZjdaRzZ4YXNBMEJ2cXFnMVBJVkpZR1B6Z1BDbWRVVzZPbmRaQm05WVlWMWVrUlVzbktzMlhTZ2ZlWUdya0R3UEZ6aFQ1TUV5ZXM3bmlXZlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTA5MTc4CWZpbGU6QmxlbmsgVm9pY2VfMC40LjBfeDY0LXNldHVwLmV4ZQorSjI5Q21lNXloZ1Rzb0hoT1RQcWIxVnRsb1JWUldpeUJsMHdFREQrTFJPR2sxakZDTzA0YkRrSlNZSXRJOVlCYXNzKzAreFplUHVvamttVTNzNldDQT09Cg==",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.4.0/BlenkVoice-0.4.0-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHM2YWNGblFmWWhFUGl6NU0wS01ndXkzTzNSRHM3OENkMnF2SThwVlJOUFBoeWR4ZjJrSDFOdUg5aDQwV2hCY2FSdFRMMEwwSmlENHFOQ2VsM2YxWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTM4NzQ1CWZpbGU6QmxlbmsgVm9pY2VfMC41LjBfeDY0LXNldHVwLmV4ZQpGc2VWWVpRRjFhYVlFem5GM2FneTZwRWxjcXZ1MGlqYU1hS01aWEJzcjV2UkJFdVd4ZGdhMmJ4ZDFkeVlocDJNL01BUDhmZXU4TXVMZXVHZVFoTTVDZz09Cg==",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.5.0/BlenkVoice-0.5.0-windows-x86_64-setup.exe"
     }
   }
 }

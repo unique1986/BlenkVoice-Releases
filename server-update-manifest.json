@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-07-20T00:55:58.8858876+00:00",
+  "generatedAtUtc": "2026-07-20T09:09:06.4823594+00:00",
   "releases": [
     {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "channel": "beta",
-      "publishedAtUtc": "2026-07-20T00:55:58.8808323+00:00",
-      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.2.0/BlenkVoice.Server-0.2.0-win-x64.zip",
-      "sizeBytes": 2779361,
-      "sha256": "638a618043f2d707d3851449c02b07435ddf6b20a360b8b9605ad85a477f3977",
-      "signature": "M/+uq0O9T1ohUKFNlDK8A3GtARGrn2niEJ9DFzy/7XjuBO28uVfz8TjR1Ik1qilTZv9A7+tSBBuyc0sV4TGZbkWZKgfPSp2IC5KUU/sRYyCe2bQcxeW7GmAGd753tC2nIVHgrXe24KMb/NivG5gK1Rxhi+6N7tMq8Yw0s/+u+QxzuQgLkcOwDJs3pLhRy1Xi/gyZjGW04/AbRrDCKhFXfPdHUGY3ByXbpj8ZX5ZDdkSGYTDBWgOernHLz5tcqzj8R6d8TEb+K9OUZundIu/ELzUVsjtW39ig0iYZf1JMaJlaWliYwDG2wXk7bAY8g4qyENa899dXVx6IOjHRoVDbGvVGkY1VZpCnsC4tjGFAVWft8Mwh5+vrhTwMLYSm5+9bE7mFU6TCZPXafTtdS+0495C5WevSdW/IY5GsznpVyLFobpSwXZRMU9VK0RZWKei8fc+sH8i2vrdMsKXu+Md8QQoO1xq1G48CVvnan78wV30a7DJCnyKrxZjZLV7kZpZG",
+      "publishedAtUtc": "2026-07-20T09:09:06.4772159+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.3.0/BlenkVoice.Server-0.3.0-win-x64.zip",
+      "sizeBytes": 3067379,
+      "sha256": "d453f510cbb77f7d76dae7229c0a020ad550723a8d418bf09e06c0a875549e47",
+      "signature": "ZcVBrPoOCbPeA6F8KbLbJUSfmQ0NjkfLJQLJ4+nGtTUtT9yljv+Qq+zA+ZRQz7iMryoBaugjRjKXAJabOXQkJGYioYpt/ZYALme1RFjRVBEd5rWEkDy6EB7CXrCGaAhVzA50euMiitPGM46StDQ2luM3BzPeOexn57gp3YGC9HyK0oljUm01AKI65oyo69R54Q2z1hG6jaTqql3xNAATtpFHW1sTn6dx0Vl9JWfpAID00J+manW7IAN+X/uPnoUz/SUxyvtWEgLV9PefLpnuwOSYkNi+OTldZceSDtXnMAZYNZUnnnjrnLrVtuzWF2HwFDcYn2qJuLQE2eTkQxZ+ptZG/NEanalHTTikSOiG72KvMcybxI6cn18Nx54pspdWbk2pqbML+kzYXu+ZfO5psw+iAVwjXmluiiR+u2a649GNagKAKhgIIUssLzi0aNJzQOlfEQxDqdeJWJaRcFycDRJdMRQoTMA1/5encpcEglzVNGfKZQlFtqXAo7twQgQ5",
       "releaseNotes": [
-        "Echter Raumchat mit serverbestätigter Identität",
-        "Protokollversion 2 für Client 0.4.0",
-        "Konfigurierbare Instanzkapazität statt fester Zwei-Personen-Grenze"
+        "Bildschirmstreams ohne Serverdatei",
+        "Streamrechte und konfigurierbare Raumlimits",
+        "Kompatibel mit Client 0.5.0 und Protokoll 12"
       ]
     }
   ]
