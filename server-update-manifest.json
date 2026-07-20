@@ -12,7 +12,8 @@
                          "sha256":  "1448ddd4f730de8ef240f92cc93eee1940b47ad49a8efd33cd9d1ae0add68012",
                          "signature":  "QEzwiv/1jIysSXWCjLxsOQEQ4LbP1axUws0AgUb1Z4X4FPcUkOoh+rLxYG1KELWzfXpyvdU3bMJzk7o5wbpIobF9f7MU5w8vXvlhhmvozIJLud9VoGbbBk6r9wMsKxKs7N8C56ovlfbJdcH0h1hZEshTx9y12k7F6NACHQSptHGsPYDabSJLOy2tGl0JIMRMmfKJE9chmZO/XDc8p1tuoeMfaxrI8DE6Jp6aDZwz+/Hb7j4+/STqgnFfPs3xZWF8eUCOgAdreLL5QfR9rZr5PdmEUwVi0f/Niz2/hTnsrdmZdq9Ag6Z5+DECLgN1S9XsBp5ue9xzxTxubBqxqBbxCf5WhHtTTOLrMucY5zqb2kNJ2u0UASOk2w02lC4VwZDo0m9KB9xXlaWosq4m4Vx59vXfHHCyVWDv09bNUqBSpvWJ3hedEhj5qC3oZcRjxUQ7hULTAY/59bdS1b5PqUH0EKEWVFiXm2oa7y5JFH20Mo/5i7N/gINcOR4WXN4Qh0Ci",
                          "releaseNotes":  [
-                                              "Zuschauerzahl synchron in allen Clients,Kompatibel mit Client 0.8.0"
+                                              "Zuschauerzahl synchron in allen Clients",
+                                              "Kompatibel mit Client 0.8.0"
                                           ]
                      }
                  ]
