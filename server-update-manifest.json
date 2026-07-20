@@ -1,21 +1,19 @@
 {
-  "schemaVersion": 1,
-  "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-07-20T09:09:06.4823594+00:00",
-  "releases": [
-    {
-      "version": "0.3.0",
-      "channel": "beta",
-      "publishedAtUtc": "2026-07-20T09:09:06.4772159+00:00",
-      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.3.0/BlenkVoice.Server-0.3.0-win-x64.zip",
-      "sizeBytes": 3067379,
-      "sha256": "d453f510cbb77f7d76dae7229c0a020ad550723a8d418bf09e06c0a875549e47",
-      "signature": "ZcVBrPoOCbPeA6F8KbLbJUSfmQ0NjkfLJQLJ4+nGtTUtT9yljv+Qq+zA+ZRQz7iMryoBaugjRjKXAJabOXQkJGYioYpt/ZYALme1RFjRVBEd5rWEkDy6EB7CXrCGaAhVzA50euMiitPGM46StDQ2luM3BzPeOexn57gp3YGC9HyK0oljUm01AKI65oyo69R54Q2z1hG6jaTqql3xNAATtpFHW1sTn6dx0Vl9JWfpAID00J+manW7IAN+X/uPnoUz/SUxyvtWEgLV9PefLpnuwOSYkNi+OTldZceSDtXnMAZYNZUnnnjrnLrVtuzWF2HwFDcYn2qJuLQE2eTkQxZ+ptZG/NEanalHTTikSOiG72KvMcybxI6cn18Nx54pspdWbk2pqbML+kzYXu+ZfO5psw+iAVwjXmluiiR+u2a649GNagKAKhgIIUssLzi0aNJzQOlfEQxDqdeJWJaRcFycDRJdMRQoTMA1/5encpcEglzVNGfKZQlFtqXAo7twQgQ5",
-      "releaseNotes": [
-        "Bildschirmstreams ohne Serverdatei",
-        "Streamrechte und konfigurierbare Raumlimits",
-        "Kompatibel mit Client 0.5.0 und Protokoll 12"
-      ]
-    }
-  ]
+    "schemaVersion":  1,
+    "product":  "Blenk Voice Server",
+    "generatedAtUtc":  "2026-07-20T15:14:14.6792742+00:00",
+    "releases":  [
+                     {
+                         "version":  "0.4.0",
+                         "channel":  "beta",
+                         "publishedAtUtc":  "2026-07-20T15:14:14.6739144+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.4.0/BlenkVoice.Server-0.4.0-win-x64.zip",
+                         "sizeBytes":  3071327,
+                         "sha256":  "75ddab24f7d4598f8365e7b3f89c73439f2291a5f35fce22709680398dd1d4cd",
+                         "signature":  "fBM3dWS26LmI22H1tFQAGr1zaO0tMUviqmnDMXTITLDgXcv9RjbEVzVVxBpHhJHU6j7r+Zu4whioKgcf5e2bSKn6gyBPwru2dtgl3S7nlXeQEVgXfbf5F9RDA+pIK8z7F6kvWBShOz9SyPUPlnW7v8SMPIS0lQ/o6sYkYuao0gtTRpryq8yQuRTTDbh9Wu0nkLSjuV+WfDwORwk/V8FHuCXB5R9kLJDlv/DTpN+6Xqbtp3j30G/fb5C6DU/KZB1CgWI1Tel2e1Nz6DvSkvn0UCAdTYlsizRL0nBNr7WR2yoyilbzPIJoEmDcNSAfViJ+5mtB0blvBJH89Xhh4jqnXK0zdcgPCXVVVs1mp6QzWyITOGz009FfG8nedEeQYxw8UIaUvpe1lziGf9FFFH7R2fYTOQW1ni19F6ww5Ex1tr4M1fgk8MwkKw6jGqmNLNy5JL9sg1xCoUDpR4CKKf1PkMGb+t53HBNJFtaF9WWvlojmrJxTp+2/W1EZ6hqwJJq8",
+                         "releaseNotes":  [
+                                              "QUIC-Keepalive verhindert Leerlauf-Disconnects; kompatibel mit Client 0.6.0 und Protokoll 12"
+                                          ]
+                     }
+                 ]
 }
