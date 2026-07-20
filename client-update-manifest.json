@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Echte Bildschirm- und Fensterfreigabe, Server-Relay, Hardwarebewertung und adaptive Streamprofile.",
-  "pub_date": "2026-07-20T09:12:26.1197007+00:00",
+  "version": "0.5.1",
+  "notes": "Einladungslinks bleiben bis zur Bestätigung sichtbar; geprüfte Besitzer-Links führen verständlich zur Verbindung.",
+  "pub_date": "2026-07-20T11:43:40.0014843+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHM2YWNGblFmWWhFUGl6NU0wS01ndXkzTzNSRHM3OENkMnF2SThwVlJOUFBoeWR4ZjJrSDFOdUg5aDQwV2hCY2FSdFRMMEwwSmlENHFOQ2VsM2YxWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTM4NzQ1CWZpbGU6QmxlbmsgVm9pY2VfMC41LjBfeDY0LXNldHVwLmV4ZQpGc2VWWVpRRjFhYVlFem5GM2FneTZwRWxjcXZ1MGlqYU1hS01aWEJzcjV2UkJFdVd4ZGdhMmJ4ZDFkeVlocDJNL01BUDhmZXU4TXVMZXVHZVFoTTVDZz09Cg==",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.5.0/BlenkVoice-0.5.0-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZNSGRxNkVZMGo4dCs2NTd1YTBveWtuRG5YKzlYYU1FZlhFYlVzMHl4OS82Qm9IeFFhQjY1czdOYTRrZmVlby9rTy9UWEdLSTNqcDZmVXhmRElFM2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ3ODE5CWZpbGU6QmxlbmsgVm9pY2VfMC41LjFfeDY0LXNldHVwLmV4ZQo3OUl2citvWldqZk5aTktoTzBIb1dSVmFPS2NERUx4VnUzaDBubG5rSHBaYjBCeHpUbU9GQ0daR1lzaHd5eERidDB2REtaRWNOSUxhTDV1aFZsUldCZz09Cg==",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.5.1/BlenkVoice-0.5.1-windows-x86_64-setup.exe"
     }
   }
 }
