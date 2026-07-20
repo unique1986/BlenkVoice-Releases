@@ -1,20 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-20T17:50:42.8950002+00:00",
+    "generatedAtUtc":  "2026-07-20T18:49:52.0738966+00:00",
     "releases":  [
                      {
-                         "version":  "0.5.1",
+                         "version":  "0.5.2",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-20T17:50:42.8881228+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.1/BlenkVoice.Server-0.5.1-win-x64.zip",
-                         "sizeBytes":  3202484,
-                         "sha256":  "bead4e2a53a2c855ec3fc27e44763810557c80a574f1244f8594296b1fb8cd96",
-                         "signature":  "CPTvvFEjPHLPAtbl7crxlLSDUHoB5Jr3fROu5viux9KKW3WTBsor/KxEJXsqL0XZ5zX4S8PwmZhmcewb3qU/i2fKzIPTsLY+FFSeMUygLhEFMQK7TOC7YfdTgPIgaQ6fsmSRBvWrdWSm+vLFYZhrKWhCZv8P7RaGFNeYOGs5CjvEWr9NnpOspyWx+GTosW8tx+oYlKo70GYAazJ9qDricL5cWHOYNq2JLJqQ6C9tjYQK3gWMVZQNiWwnFGdV6o9jRYENG8OuGi7hwHS/yFr1PvZSt7RW0O/aGMznhf6A5V5MifK7nH5jtpoyzHRXxSLLzxK4ZORztsME2U4XFOtBMfmf0n2P5psk/4Pwopge3PxIwwGXOuZPiyiUnXpdWixGfUAriecGMJBXDJOv54/uDnrphRthu9PQNTNsEzYpBd4qh8J7WTWBRRNaM2spPIYvvSLZ9hTckZg0v+vSe/v8XdZdf2TOchWR5Wrm/ORS28NgKUeV6vInQCDdU5uRPpWA",
+                         "publishedAtUtc":  "2026-07-20T18:49:52.0638907+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.2/BlenkVoice.Server-0.5.2-win-x64.zip",
+                         "sizeBytes":  3202628,
+                         "sha256":  "1448ddd4f730de8ef240f92cc93eee1940b47ad49a8efd33cd9d1ae0add68012",
+                         "signature":  "QEzwiv/1jIysSXWCjLxsOQEQ4LbP1axUws0AgUb1Z4X4FPcUkOoh+rLxYG1KELWzfXpyvdU3bMJzk7o5wbpIobF9f7MU5w8vXvlhhmvozIJLud9VoGbbBk6r9wMsKxKs7N8C56ovlfbJdcH0h1hZEshTx9y12k7F6NACHQSptHGsPYDabSJLOy2tGl0JIMRMmfKJE9chmZO/XDc8p1tuoeMfaxrI8DE6Jp6aDZwz+/Hb7j4+/STqgnFfPs3xZWF8eUCOgAdreLL5QfR9rZr5PdmEUwVi0f/Niz2/hTnsrdmZdq9Ag6Z5+DECLgN1S9XsBp5ue9xzxTxubBqxqBbxCf5WhHtTTOLrMucY5zqb2kNJ2u0UASOk2w02lC4VwZDo0m9KB9xXlaWosq4m4Vx59vXfHHCyVWDv09bNUqBSpvWJ3hedEhj5qC3oZcRjxUQ7hULTAY/59bdS1b5PqUH0EKEWVFiXm2oa7y5JFH20Mo/5i7N/gINcOR4WXN4Qh0Ci",
                          "releaseNotes":  [
-                                              "Besitzeridentität wird in der Kontenverwaltung angezeigt",
-                                              "Lokale Besitzeridentität kann in ein E-Mail-Konto umgewandelt werden",
-                                              "Besitzer bleibt bei Übernahmen eindeutig und geschützt"
+                                              "Zuschauerzahl synchron in allen Clients,Kompatibel mit Client 0.8.0"
                                           ]
                      }
                  ]

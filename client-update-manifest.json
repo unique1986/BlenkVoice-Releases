@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.0",
-    "notes":  "Serverseitige Konten, sichere Kennwortspeicherung, direkte Verbindung per IP und Port, professionelle Kanalbilder, Kategorien und Unterräume sowie getrennte Einstellungen und Administration.",
-    "pub_date":  "2026-07-20T17:05:40.3736866+00:00",
+    "version":  "0.8.0",
+    "notes":  "Neue Community-, Raum- und Fokusansichten; stabilere Sprache bei Paketverlust; reparierte Streamwiedergabe; sichtbarere Raumgrafiken",
+    "pub_date":  "2026-07-20T18:53:58.2550030+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHU4VUpib0Jqbm5ZdVVIbFlQcXhkL29FTEdoYncwZ3pUUmxCcG44NVo2WkVybnNkYTRySVczcnprMS90elJkN2pmR0s3ZFUwMllxcEdybGY3QlZ3cmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY3MTQwCWZpbGU6QmxlbmsgVm9pY2VfMC43LjBfeDY0LXNldHVwLmV4ZQpyLy9DeXUxeXo0eEZmemloWHBrQmJZTFJ3YnlSMnFuT0pabG4zSHZFVkNoOWFzbWZKTkZEeXZncGZuYzJxTzFvTk5MdTB0VGJOdEhIZE5WbTRicXBBZz09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.7.0/BlenkVoice-0.7.0-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlSMllVNlNKaVhzZ29aT3Bid0pDYlJhdFRDVElvUjZLRUZxQkVqZGpESXNSekxVM2dIRXZSUG04eGpTT2tqRlZvVWZ5T25pMTgrRmw2bmN4Zmd0dlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTczNjM3CWZpbGU6QmxlbmsgVm9pY2VfMC44LjBfeDY0LXNldHVwLmV4ZQo4dVpFUEJSTGtiTlZxYW1ZS2xxd1c4WTVjWWdYOFR5Z1luSHRlZ3BZeENZaEZGVEZnM3pxR2RYRFpSbThXUFduc3k3Q1RUSHdZZGdIMVBNemhHWm5DUT09Cg==",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.8.0/BlenkVoice-0.8.0-windows-x86_64-setup.exe"
                                          }
                   }
 }
