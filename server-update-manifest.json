@@ -1,18 +1,20 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-07-19T18:48:20.2720683+00:00",
+  "generatedAtUtc": "2026-07-20T00:55:58.8858876+00:00",
   "releases": [
     {
-      "version": "0.1.1",
+      "version": "0.2.0",
       "channel": "beta",
-      "publishedAtUtc": "2026-07-19T18:48:20.2670681+00:00",
-      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.1.1/BlenkVoice.Server-0.1.1-win-x64.zip",
-      "sizeBytes": 2767870,
-      "sha256": "1fbfc67fa5a7fb3e927f67b32e2a9bda26934a1aca7553192a31d5e6b0f7aa96",
-      "signature": "LTshcvxWYR/dkzByiiupk/H8zH2k1P8ytE4kz0FoPES+SqGOIp2JPZTHpuul5Xcvku7NzT58bUfmM3kGBTBzvxWcxHEXAbMyy2tT0ZL6jquwKeE6FIVDNeNPR1t+lwyc8JNS59iyUqWxNCBP9BA00c5X8c/tG+UIXaLNyd6vV7hFn2uaOUaf8IvVYqyFnOoaSied+SkymOEJP8s7PlTigLlT7e+8l0T0dgjTsoG4LOMOlTsP9Z5P9+H3raWYHvgD655oDq7N9UB0S303DczuzCgnh1N2cKN0oO5VjBOCueek/qwdz6pMj55DPnpQToUtcMV1hIcC4yr5JLch/7zJURjCNrhUoSvKET/Mu6qF4dFVGjxtDo1zeiqJ1hWlYawwZE1Lt6rSWbjttlTJ16ELhVkILxX/3rX2E0DrworwV78rkA7vWXtO/NzAEGX8yQ6FcYtbyR21reB0sqsYgZvNm3yok2fo9S30SzJiD/H/HhEg4MTM3IfblRzP8ejvZb0c",
+      "publishedAtUtc": "2026-07-20T00:55:58.8808323+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.2.0/BlenkVoice.Server-0.2.0-win-x64.zip",
+      "sizeBytes": 2779361,
+      "sha256": "638a618043f2d707d3851449c02b07435ddf6b20a360b8b9605ad85a477f3977",
+      "signature": "M/+uq0O9T1ohUKFNlDK8A3GtARGrn2niEJ9DFzy/7XjuBO28uVfz8TjR1Ik1qilTZv9A7+tSBBuyc0sV4TGZbkWZKgfPSp2IC5KUU/sRYyCe2bQcxeW7GmAGd753tC2nIVHgrXe24KMb/NivG5gK1Rxhi+6N7tMq8Yw0s/+u+QxzuQgLkcOwDJs3pLhRy1Xi/gyZjGW04/AbRrDCKhFXfPdHUGY3ByXbpj8ZX5ZDdkSGYTDBWgOernHLz5tcqzj8R6d8TEb+K9OUZundIu/ELzUVsjtW39ig0iYZf1JMaJlaWliYwDG2wXk7bAY8g4qyENa899dXVx6IOjHRoVDbGvVGkY1VZpCnsC4tjGFAVWft8Mwh5+vrhTwMLYSm5+9bE7mFU6TCZPXafTtdS+0495C5WevSdW/IY5GsznpVyLFobpSwXZRMU9VK0RZWKei8fc+sH8i2vrdMsKXu+Md8QQoO1xq1G48CVvnan78wV30a7DJCnyKrxZjZLV7kZpZG",
       "releaseNotes": [
-        "Sofortige Wiederverbindung durch serverseitige Sitzungsübernahme"
+        "Echter Raumchat mit serverbestätigter Identität",
+        "Protokollversion 2 für Client 0.4.0",
+        "Konfigurierbare Instanzkapazität statt fester Zwei-Personen-Grenze"
       ]
     }
   ]
