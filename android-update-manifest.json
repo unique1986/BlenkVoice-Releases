@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.11.4",
-  "versionCode": 11004,
+  "version": "0.11.5",
+  "versionCode": 11005,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.4/BlenkVoice-Android-v0.11.4-arm64.apk",
-  "sha256": "e3c3820c1b4b3b94654772f928f461e2a4689e611c107e089e2260f3664c0b0f",
-  "sizeBytes": 52630313,
-  "notes": "Rohmikrofon- und Opus-Hoertest bleiben sichtbar und stellen eine pausierte Sprachverbindung automatisch wieder her. Server 0.7.0 bleibt kompatibel."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.5/BlenkVoice-Android-v0.11.5-arm64.apk",
+  "sha256": "0bbc8594cc626be6bb885a4b1100fd6d934ca4d34e88088c08d5da96ab9362be",
+  "sizeBytes": 52629873,
+  "notes": "Echter verschluesselter Server-Rundlauf mit Paket-, Latenz- und Verlustdiagnose. Server 0.7.1 erforderlich."
 }

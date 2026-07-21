@@ -1,11 +1,11 @@
 {
-  "version": "0.11.4",
-  "notes": "Rohmikrofon- und Opus-Hoertest bleiben sichtbar und stellen eine pausierte Sprachverbindung automatisch wieder her.",
-  "pub_date": "2026-07-21T13:22:16.4172129+00:00",
+  "version": "0.11.5",
+  "notes": "Echter verschluesselter Server-Rundlauf mit Paket-, Latenz- und Verlustdiagnose.",
+  "pub_date": "2026-07-21T13:52:54.2331455+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZQLzVPeGV5dkNZOFloUEF2VS96LzJJYzBubnN5VzJrVzkzT0hQNTNKSGlPeFpEczhQR3g0QlRDK3lxQ2k3TzdlT292WlNqWXlxUlUvOFZIbUJ3Q0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQwMTM2CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS40X3g2NC1zZXR1cC5leGUKSGtJckRtNlM0aXMxVXB4YXg5emJTdmcwT21obFB3RzgzNVhPeERZNXVLbi94UHE5LzJDdzNocFBzSGIvYXZLYkRzRkd3UWhna0FyV1hLRGpIUk9hQWc9PQo=",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.4/BlenkVoice-0.11.4-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZ2eUJzWDM2Nk9sNEFNZjJsZ3JRYzVkNjVjMEczVHlPUGJGUzh1cERHWTlhWVRiSEhpS3V0b0Vhei9Fa1dWaEFZZDRrOFFuak1tTXRuTG1ySXhzR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQxOTc0CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS41X3g2NC1zZXR1cC5leGUKTkFRWCtONWRhTlRHUTFmSitBYWliek54aEJLU1ZCVEJnRmtEbUNtRnk0SWs1MmVHWjNiaU04dzZqK05iUVlUQnI3UU0xOHB2YndnODJQbksvZlNaQkE9PQo=",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.5/BlenkVoice-0.11.5-windows-x86_64-setup.exe"
     }
   }
 }
