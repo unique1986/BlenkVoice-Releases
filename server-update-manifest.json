@@ -1,19 +1,19 @@
 {
-  "schemaVersion": 1,
-  "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-07-21T13:50:49.8472463+00:00",
-  "releases": [
-    {
-      "version": "0.7.1",
-      "channel": "beta",
-      "publishedAtUtc": "2026-07-21T13:50:49.8407829+00:00",
-      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.7.1/BlenkVoice.Server-0.7.1-win-x64.zip",
-      "sizeBytes": 3269542,
-      "sha256": "c1ad472b711798e04a52096f9f9d143d75b277651a86e1d24f7ef4d6898cd34e",
-      "signature": "FI4M8g5HkjPww1LHjcGY3B+CME1qvtxMEpAaM6Z+07ypzNagvoSJU0m48PWq/Om1fPrAyy4+fwQgYB0wD3fPjHwIEsZTFn2tFNxh2GLGn6ggQqQWfsCUdOVkIV9r6W6nDzEmCqiKutw27PgMy84sJvUtLNK5/O4gaEzvFe+g4GaqEh8Uz5A8Ph2ZXETXOug8aDUviuSUu/0SydZpWd1MBkGtSRbroDwfYE3hDXuwjgjP5QaUSWP17csVVwGgZ3eUSHdQRQOulqsXFgLbEFq+R1XKYxtHGqoVWWhJzIirzi8IOUrSzwCLK3hoCpcs2sjJQrFwUqanza9rNCwNJZMreqPeSospfCzIQCHSD8vp1YxDUqaKlJehK+Wz+tJw8gzOtuK7glglywgDJTNeQkd2//LrCSXXYhS3PWikpuZft/y/yyR7CNhdilbZrSI9X7CamPpoq2JwE7n+IeYHQL3NUHn3f/bm86npFaIOMy+1UsTRthIAmjYD+LL4cEUPtXZm",
-      "releaseNotes": [
-        "Isolierter verschluesselter Voice-Server-Rundlauf nur zum authentifizierten Absender"
-      ]
-    }
-  ]
+    "schemaVersion":  1,
+    "product":  "Blenk Voice Server",
+    "generatedAtUtc":  "2026-07-21T17:46:16.1105646+00:00",
+    "releases":  [
+                     {
+                         "version":  "0.8.0",
+                         "channel":  "beta",
+                         "publishedAtUtc":  "2026-07-21T17:46:16.1038551+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.0/BlenkVoice.Server-0.8.0-win-x64.zip",
+                         "sizeBytes":  3301400,
+                         "sha256":  "1296e75917c3d01153b666eced4184cce3b5744a71a18c0e9983a5bad4a792f0",
+                         "signature":  "PO81UJE+O5lQgnKundbsib1nkszAUogP15bMm/VCxEK89Pv0Q19xVzX+xKzRlCK85HuvO5uS1UXCL7hc5/1oYhZwKyU3krwWNzgh84GJFhXCdUeDigyy6cb3kOpXI0c5YId4dXvXQYN9lAgIbkSqwrjCa5u7d+XBgZdVYDMhZEpsSoWD1tmBxQ9L3QxFEdExvxwo+G10FP8CiV1oex/G3it0oKyMnz0Ha4mheU/+yuOa05neYdJP72TMEzurbH9yUsuyMm69HGp4NmP/VvpxyjzCZoblMjQIKw4kAI3OBOpSYQsiEGho1fXIBrqlj92mgWNZmDXGYEes49frbbmeZQGagPbI6uITlvDYo4SjBj0sgQlPKFaA1tvAmxe3eesu7ufpZrRsrEUm1oJeqZTDD69d6ScPE9ffki6Qqc8VZcARLiWOCwW59/wIttXxeJ40mcxd6O7YABQCnOfNToZcDzgKs+0mj/72Uu5qcyC97KFEdN2zgdbX+CzQFGugB4OS",
+                         "releaseNotes":  [
+                                              "Servergespeicherte persoenliche Profile, Protokoll 16 und Live-Profilabgleich."
+                                          ]
+                     }
+                 ]
 }

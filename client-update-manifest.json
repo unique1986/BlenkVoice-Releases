@@ -1,11 +1,11 @@
 {
-  "version": "0.12.1",
-  "notes": "Fotorealistische Lounge-Mitglieder, genutzte Sofas und Sessel sowie eine datengetriebene Basis für weitere thematische Raum-Szenen.",
-  "pub_date": "2026-07-21T16:49:32.2823838+00:00",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG1FQUNjVjBqRVNjQVU3MCtCVlNWSTc4TEZVS25TMWI5SnRZVzEwME43ejlIcXdqMWVITTFpN1F0RHB2cE4zZzlGRWg3Vmo5NmRlS21iSzA5WFRudkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjUyNTcyCWZpbGU6QmxlbmsgVm9pY2VfMC4xMi4xX3g2NC1zZXR1cC5leGUKaGtieisybUxjWmdIYjhNOXRGdkhrRm5weFZ4Sml5QytHaWk5aE0wSUFOb0lzN1FlRzdyNVc2Yi9TTGgwYWp5SVB6eldlNzZIaXVDazFyTzRpNGVDQlE9PQo=",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.12.1/BlenkVoice-0.12.1-windows-x86_64-setup.exe"
-    }
-  }
+    "version":  "0.13.0",
+    "notes":  "Persönliches servergespeichertes Profil, neue Lounge-Platzbelegung mit Hocker und größeren Personen sowie Pegelschutz für laute Sprache. Benötigt Server 0.8.0.",
+    "pub_date":  "2026-07-21T17:52:07.7213337+00:00",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGhMV2s2YUIxVC9YZ2I2SmtnN2t4Uk1LVmkzbnRGZyszNk9PNHQ1byt3QU1LWDIxVVN4SjFXWkJjTmRkWjk5NlZhTnhtQUhReWFPNEQzSkZkWmZZZndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjU2MzI3CWZpbGU6QmxlbmsgVm9pY2VfMC4xMy4wX3g2NC1zZXR1cC5leGUKU2JuUGhjNFZoa1hDdllqY2swN2ZNbm1nTFdjVnluZTYyQnFCaVNEVXgrbUp3YzgvT25NaklBeDBDak53YStXR2RyRG5vUTYxUFAxb2dSUm9VYXlIQVE9PQo=",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.0/BlenkVoice-0.13.0-windows-x86_64-setup.exe"
+                                         }
+                  }
 }
