@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.4",
-    "notes":  "Korrigiert Sitzpositionen in der Lounge mit festen Bildkoordinaten, Moebel-Vordergrundmasken und scharfen Namensfeldern.",
-    "pub_date":  "2026-07-21T19:52:43.9419681+00:00",
+    "version":  "0.13.5",
+    "notes":  "Behebt graue Bildschirmstreams durch freigegebene lokale Medienquellen und stabilisiert mehrstuendige Wiedergabe.",
+    "pub_date":  "2026-07-21T20:26:41.2792445+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpHeWd0UWxIcjZNa2RTV0VmdjUzb1VXbDhrOGVTbncrVkhWbFRmVHhITEkvQTZxSHVhMlpoUlcxR3VKQjZRSkd5VU1iTnFlS3pzemNaVU5VQ1c4SWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYzNTYzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuNF94NjQtc2V0dXAuZXhlCnBTM0FRNUV5aVZoUnlWS3hmUjF4OGJNMTRHZm90c0dQZXFVbnZlckZNMEJ5RUYyM0JZdW9ITTB1YjE2QzhuNHlRZ2xrSXlNd2pSLzA2NHF5UXBpWEN3PT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.4/BlenkVoice-0.13.4-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZTQTE3UmJ6Q2s2Y1NEekRqN2NkS1ZsTkN5TTc5amwrODlJbXpLRkdIL1JCQjNLaUFuUCtkRStZMmdaZ3gzaEtJNXMrTXVOUXVpK2dOaXpGM1hiYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjY1NjAxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuNV94NjQtc2V0dXAuZXhlCkdyN0ltVTBzUmhJU2o1NHhqbThMVW5OSEVwdFQyWnRhdzRXMUdKcHphT05iZ1N0VXRvZTVIK2FpWHNhSHNMcVRwamJCSXlRV0FkM1BnckVDeGhoQkFRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.5/BlenkVoice-0.13.5-windows-x86_64-setup.exe"
                                          }
                   }
 }
