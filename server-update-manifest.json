@@ -1,19 +1,19 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-21T18:40:48.5310045+00:00",
+    "generatedAtUtc":  "2026-07-21T19:27:30.1837577+00:00",
     "releases":  [
                      {
-                         "version":  "0.8.1",
+                         "version":  "0.8.2",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-21T18:40:48.5253321+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.1/BlenkVoice.Server-0.8.1-win-x64.zip",
-                         "sizeBytes":  3301712,
-                         "sha256":  "69e033d9ba64db3ce44d97846b4ad8ec4bd8fa39e617abc48b1f5c304a8596cb",
-                         "signature":  "Gvbx7nPkeYn2nhdVkkmjih+IN1sq5OV/fjw5kmaFoP+ohe0aCvA5gqXRPznmf8Ij57l7xl6jU1vPnyaDHwdw3HJLo46Btxsht5WL/KjzbiX4eQGlpYbWvQbdy9lcVhpBq0H2puU7cS8Jv86X4XUeUlrhB+ttSn+lKoC7cq3YrP73yCtzx5vmSkiBtsHzkdd5gw0DYUaT5gw+hiF3+NivbUHaVH7dPaw4XgxtNjF+NG82AxEHbMOFiOZyGJJTmbUJcnzrk+1cM6cbNafrpl8Bhp2CyNS4byYJ53pOccMkxXKaKnDS8ULySsPhbLNx/kLhEpek/JosBl3KPBBlwwVQDX2DhtBUx+DeWc72ITuYebGQazlciCYTJlH9ZXUNZ5HP8ZOyem/5Hi6PjXJ37zgs9xODCYSSB2167lmu3VtGPxUOXBbS4WPq2CS/mx91fbsOF1x3b81r7s6PpPy5dA1obNLkNL/RLXkyl/TGuJZtx4nPf195W3G2CbqwD6cYCSmo",
+                         "publishedAtUtc":  "2026-07-21T19:27:30.1782310+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.2/BlenkVoice.Server-0.8.2-win-x64.zip",
+                         "sizeBytes":  3301939,
+                         "sha256":  "9d6acadd94c8bd6c6a5b439047a8ca780bdf5b9a3e6d69f4c547d934bc065ab9",
+                         "signature":  "fqr0s8FkTq9ePXASOctpfdgPLL5ZJzPuASYvD92LS4gQQ4IU2nAiLYQujak2IEf1KvPwFW2Ub/T+KdD1Z8Ek6Og2lMqnz6H3n1z7Lko/ELZPc4rDX6YCZ9lgwY/tzxc24wx5JkRqLvOvoH3bniskxAK0BsN7WADyk+FYdHrd4lmN9/ZciVGA5Kon35dvRU7pM6I7cDUZlXzOW5ZqrlQLKTBxjLxfqXUVO9gs8T7xqQTgFN/E0glmvc+VMHa+oNsKObuIQwqaF09IsuJou6nIDQar+DPubs6XDgjWytZj6quQjjXODyWYxFifxT5ldB83Uf7fn5D2LaSGK8eJZww6kjt/84U+XVK1OgwkXAGXqWfZLRYfXkTCfsam6VQ9+dpRgh6IVjFxPCGBElSIRSxyF9XVhh39/k0Rj/blup0r+Sx/AXOZXB8X5eYKMOLU6IsD4FV/P2NtBzS9EeSnKHDXXKD8O9Yn0XfnnHVs45CVc0d6pyLjP+hCflx/zx+UCwe0",
                          "releaseNotes":  [
-                                              "Streamweiterleitung fuer WebM mit Opus-Systemton.",
-                                              "Servergespeicherte zugeschnittene Profilbilder bis 150 KB."
+                                              "Neue Dachmarke: blnk - Voice",
+                                              "Protokoll und bestehende Installationen bleiben kompatibel."
                                           ]
                      }
                  ]
