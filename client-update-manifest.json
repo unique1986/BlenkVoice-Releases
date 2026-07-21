@@ -1,11 +1,11 @@
 {
-  "version": "0.11.3",
-  "notes": "Windows-Wiedergabepuffer, verspaetungsfreundliche Paketreihenfolge sowie getrennte Rohmikrofon- und Opus-Diagnose.",
-  "pub_date": "2026-07-21T13:00:37.3348939+00:00",
+  "version": "0.11.4",
+  "notes": "Rohmikrofon- und Opus-Hoertest bleiben sichtbar und stellen eine pausierte Sprachverbindung automatisch wieder her.",
+  "pub_date": "2026-07-21T13:22:16.4172129+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHA1NVZlUjJzSjZxVGpUTUlLZjB4Smd4TDl2eTdYM3ZrOGJYaFRDSWc5YlIzY3ZrVnV6S1d5dmp1NTQ0N250b2FtNmVrSFI2eWh3K044NkZkUHVUL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM4ODM3CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4zX3g2NC1zZXR1cC5leGUKZHI5RnFaZkJqTHFUaXR2RzcwZnBFOXEzMzBnY3F4WlI5V21wMGh0VGEvb3B4NTJtV3gvUlk1MkNKTWY4elJmaTJ1K2RpTFdvcm5vZklaRTlKQ1lCREE9PQo=",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.3/BlenkVoice-0.11.3-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZQLzVPeGV5dkNZOFloUEF2VS96LzJJYzBubnN5VzJrVzkzT0hQNTNKSGlPeFpEczhQR3g0QlRDK3lxQ2k3TzdlT292WlNqWXlxUlUvOFZIbUJ3Q0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQwMTM2CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS40X3g2NC1zZXR1cC5leGUKSGtJckRtNlM0aXMxVXB4YXg5emJTdmcwT21obFB3RzgzNVhPeERZNXVLbi94UHE5LzJDdzNocFBzSGIvYXZLYkRzRkd3UWhna0FyV1hLRGpIUk9hQWc9PQo=",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.4/BlenkVoice-0.11.4-windows-x86_64-setup.exe"
     }
   }
 }
