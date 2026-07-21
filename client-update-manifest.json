@@ -1,11 +1,11 @@
 {
-  "version": "0.11.6",
-  "notes": "Windows-Audiopfad entblockiert, driftfeste Wiedergabe und erweiterte Diagnose.",
-  "pub_date": "2026-07-21T15:42:46.9976234+00:00",
+  "version": "0.12.0",
+  "notes": "Stabilere Windows-Sprachwiedergabe mit kontinuierlichem Playout sowie eine neue cineastische Lounge mit dynamischen Mitgliederplätzen.",
+  "pub_date": "2026-07-21T16:31:32.8225186+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG5LZk9jQUl0ZGJUSGRjMlJkTTZNYzFXVEJQdy8yWXgrTmpiZ3hlckRxZlZRU0VFY0tYQ216aWJlandPMjRCUjduVS9kaVNmbTFkTFNSNDUzN1h1endrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ4NTY2CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS42X3g2NC1zZXR1cC5leGUKTG11SlU2VW9PelJlYTdlVkRCSmVWa1k0RFp6TG9vN3J5a1V2clM2R29keUxDRFZuSnlsNHJ6clpGLzNJMjFBZU9HYlRmajlLZnZacFZjeHN1dFA1QlE9PQo=",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.6/BlenkVoice-0.11.6-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHAvZ2duUW5rcWgvOU0zYzNucEM4OGd5MjFnVEc0SFdsSWV2RjFZWWhseiswTGRSWXdZZXVWNTk2NDNQcWdMQ0xtS1pTSGtPYVZLRHIxRkdkS01oR3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjUxNDkyCWZpbGU6QmxlbmsgVm9pY2VfMC4xMi4wX3g2NC1zZXR1cC5leGUKQ1NFRzdGMmtiRlhOUzZjcnMxMGkwcGh5Rm54ODhPbEZ5TnNxRmYvQklnYU1hT2hqSTRLaUlSaFNhRkIrcWtsNnJDVjZYMzV0MEVUdHgySERMR1VCREE9PQo=",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.12.0/BlenkVoice-0.12.0-windows-x86_64-setup.exe"
     }
   }
 }
