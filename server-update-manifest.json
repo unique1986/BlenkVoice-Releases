@@ -1,19 +1,21 @@
 {
-    "schemaVersion":  1,
-    "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-21T02:07:41.5576914+00:00",
-    "releases":  [
-                     {
-                         "version":  "0.5.5",
-                         "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-21T02:07:41.5536865+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.5/BlenkVoice.Server-0.5.5-win-x64.zip",
-                         "sizeBytes":  3208248,
-                         "sha256":  "863c3cf1f4ad554f1e815c849667a464f4f30ae1927f033b2f80bf2544dd0ce6",
-                         "signature":  "oYx/Um7DFJTM0TqBfzISNfe0hA4oUfwtgwWKW/VR0CfM6sbK1ZMIzceJC1/+PDoZKxTu9fwqddbHViKWFor3Gh5Q13ZP4RzH4KoBYqhOnDy15VXuRBplU0VYkY4wpqpiLIrTocc28/UDqIHgi1YzmKxU6r6KHrKX48rdkWCPC5xmj3x+rDpz9T1iWzxFILIqVlTiUDFCQaiH4DOio82+zuGAMTP8+/190WFpaKw7mwyIKF1KoAooWPI/LpG+4hAJ7bq1OlYZbbQMyH/WKvFN9j3oWWS3EB/rOjP24lhAgIKcRx6juVvOybwKQEFDGbNl/x9YqV58DJMbdtxvo8wXFhGXWDQz1PSvP00DKeJwQSbRykP1DN4wifwJ7xaZCH10PCfz1YMCpE8b41oCuxSix+9Z/hczb4UGd0jo01/tbjyoVjQ/FOffENb5qiRhsAtSUoKpSYqEjScZxR28TjQJeWnMPosqTBVHQFPWZ4pcmtQz70yl8nBP7BA3fScUFc82",
-                         "releaseNotes":  [
-                                              "Besitzerkonten können in Blenk Base angelegt und mit E-Mail, Anzeigename und Kennwort vollständig bearbeitet werden"
-                                          ]
-                     }
-                 ]
+  "schemaVersion": 1,
+  "product": "Blenk Voice Server",
+  "generatedAtUtc": "2026-07-21T05:39:07.6569365+00:00",
+  "releases": [
+    {
+      "version": "0.6.0",
+      "channel": "beta",
+      "publishedAtUtc": "2026-07-21T05:39:07.6527165+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.6.0/BlenkVoice.Server-0.6.0-win-x64.zip",
+      "sizeBytes": 3260566,
+      "sha256": "98c749d8a977ddacc459f7eaac043b63eddd113483b037a6979c99ddb0cda872",
+      "signature": "bM0Z+JjO4NJwLmG3GuvVDLasdPO6Oxb1KWXdzNghdkX7I/NvjOqOVk0r6W7sknh8gPifkxW0kf12kXlO6uc3+guHK+nYRGT3YPcWpG4bm8DOaT0LAgSl546FGV69xsG/8BpWJwMom23zBJj1H7W1iQOIhz53mlpycdnF/jvNmvbFbh/pLFTGMNbp3ih2fT6l4S9bdm4v9C3FAJVQOecjsO3/FVYahp9YznvL0tNKxCb3X/vPRAdgYjwCoX6N7dNPSLzhlMFm6nfH9TMY99Nj4Egd9anr6ZHTLlDNS9E/t6bo6LWTuuvdOtOwN7VYXiimMso9qRWE6kah6531eMflRMrNf6D06ybjyJiiwq6BkJjVFzcBDH0YC0282rf8absTW208rVQJ+5Pa5a7/gAoFHt/m9JtvDt11adljIt1YPgH1fqntWqQ1+jQRekjsj5XDs3mBowQ5n4vmRsxrOJUTGAvCBaQMl4SkQHFbTloeQNYXSstK4DPnQzVq33oZfhLr",
+      "releaseNotes": [
+        "Kompatibles Protokoll 14 für Android-Client 0.10.2",
+        "Private Sprachräume pro Mitglied und erweiterte Kanalbanner",
+        "Protokollbereich wird bei der direkten Servererkennung veröffentlicht"
+      ]
+    }
+  ]
 }
