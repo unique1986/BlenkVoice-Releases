@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "product": "Blenk Voice Android",
+  "version": "0.9.0",
+  "versionCode": 9000,
+  "minSdk": 26,
+  "architecture": "arm64-v8a",
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.9.0/BlenkVoice-Android-v0.9.0-arm64.apk",
+  "sha256": "de15d252b653191256baa28ace399c7ddb65dab54694f479cb2a3063f30da873",
+  "sizeBytes": 31884529,
+  "notes": "Erste Android-Testversion mit Serverkonto, Registrierung, Gastzugang, Räumen, Textchat, Voice und sicherer automatischer Update-Prüfung."
+}
