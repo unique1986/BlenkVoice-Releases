@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.2",
-    "notes":  "Grauen Stream behoben: vollstaendiger WebM-Initialisierungsblock, sicherer stummer Videostart und explizites Einschalten des Systemtons. Sender und Zuschauer benoetigen 0.13.2; Server 0.8.1 bleibt unveraendert.",
-    "pub_date":  "2026-07-21T18:59:10.9567244+00:00",
+    "version":  "0.13.3",
+    "notes":  "Behebt graue Streams beim spaeteren Beitritt und repariert Profilfoto-Zuschnitt sowie bestaetigtes Speichern.",
+    "pub_date":  "2026-07-21T19:25:19.5300295+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHRlQUc2bGNSbnhpMGlLTnlSYU11UEN4L0M4ZkV2T1h2bW1XczUwTUwrbG9kQ0IraWVqd0tzQzFMM1kvYi9YOTQybG9XNVB3dkRIRDZuY3ZlZTN2YUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYwMzUwCWZpbGU6QmxlbmsgVm9pY2VfMC4xMy4yX3g2NC1zZXR1cC5leGUKZjZxUWtjckdSaG5nT0NhNW01WXRXbFFBeWRONEdQZW9SSGludGpLT0pWRE9RbTJydFViNnBOMmhBVi8rVjNYVHh6a2RHTWlhMjFMZmZEYXF1NHkyREE9PQo=",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.2/BlenkVoice-0.13.2-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGcrU2NTd0JObGtsQTYwNnBoSUc1Qkx5UHBnOGRTZU8xdHExSkZWM2JKQ2JPeFZWRkVFQUk4Si9XZVQ4VHNYR2VHakZMc3hsYW1vRnVaTmx4VnF4YWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYxOTE5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuM194NjQtc2V0dXAuZXhlCmVZYmVoWFprdHdiUHllL3BJWHV5MmlzMkJJOE9BdE9Ma3JaQkRIRnVQelFEU3hYeFNZWHdJOEhUckRJVktFYVI4ZjRLWEgrNjI4RFRpMzI2aVhMR0RBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.3/BlenkVoice-0.13.3-windows-x86_64-setup.exe"
                                          }
                   }
 }
