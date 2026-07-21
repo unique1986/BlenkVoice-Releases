@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.11.0",
-  "versionCode": 11000,
+  "version": "0.11.1",
+  "versionCode": 11001,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.0/BlenkVoice-Android-v0.11.0-arm64.apk",
-  "sha256": "e3a3edbbebcabb8892ed90ce6e07a09799a61ded43596b4a614b284f2339e793",
-  "sizeBytes": 52603673,
-  "notes": "Kompatibel mit Server 0.7.0 und Protokoll 15. Enthält die neue Serveradresslogik, Live-Audioeinstellungen, stabilere Bildschirmstreams, gespeicherte Fenster- und Zugangsdaten sowie zusätzliche Kanalbilder."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.1/BlenkVoice-Android-v0.11.1-arm64.apk",
+  "sha256": "61dbf973a10b6f1b11f528586fbf3f30bb25eae05db2cc7567b90857d13e5722",
+  "sizeBytes": 52618729,
+  "notes": "Korrigierter einheitlicher 20-ms-Audiotakt, höhere Sprachbitraten, natürlichere Rauschfilterung und priorisierte Voice-Verarbeitung. Server 0.7.0 bleibt kompatibel."
 }

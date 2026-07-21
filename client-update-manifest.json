@@ -1,11 +1,11 @@
 {
-    "version":  "0.11.0",
-    "notes":  "Kennwort- und Serveradressspeicherung, stabiler Bildschirmstream, Live-Audioeinstellungen, Mono-Mikrofon im Stereo-Profil, Fensterzustand und Einzelinstanz.",
-    "pub_date":  "2026-07-21T11:52:39.8475429+00:00",
+    "version":  "0.11.1",
+    "notes":  "Korrigierter einheitlicher 20-ms-Audiotakt, Sprache mit 128 kbit/s, Studio mit 192 kbit/s, natürlichere Filterung und priorisierte Voice-Verarbeitung.",
+    "pub_date":  "2026-07-21T12:18:55.6820831+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHJZYlRUN2FnSTZRa2ZLMXdaRDBtTEREd1lwMDN6UTBWS2hKMG4zQ0FZRGZyZGFpQUVONWFxSHlHQXFYVmtWQndvYXNmWnlvSktVSjNmS2RZeHZRRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0NzU5CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4wX3g2NC1zZXR1cC5leGUKQjNFcElrb3psSkxLazNPRXZEU2M0M0JYUHMyZG1jWUcxMEV0NElLYzA2TDNYUCtiSmltUDlHYzRaTlVSVXRmNy9wYnpQcTN2RWRmNzVtRWZPeGlMQWc9PQo=",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.0/BlenkVoice-0.11.0-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG80OW1sYkZkRWVMUmd4TkpWS0xiUE5oa1hSRzVqdEErSDNFcGVDSWRzdW9lRVJ5N0tZaW5BMjVHNVc3RExBblA3Um9RczJ2WkowMEJudUxId3pqOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM2MzM1CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4xX3g2NC1zZXR1cC5leGUKNDBkdXByN1dEQ3ZYTmlKcFpXaW9uRlBNbXhqZGdxNHZjQ2xCT1ZPWW9uSzhvL1FOdTlFamVCUHhqN05ZSVZ1d0ZhRGk1YlpFQnFiYmY2Y1A1eFFwQ1E9PQo=",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.1/BlenkVoice-0.11.1-windows-x86_64-setup.exe"
                                          }
                   }
 }
