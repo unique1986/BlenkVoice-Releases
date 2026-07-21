@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.11.5",
-  "versionCode": 11005,
+  "version": "0.11.6",
+  "versionCode": 11006,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.5/BlenkVoice-Android-v0.11.5-arm64.apk",
-  "sha256": "0bbc8594cc626be6bb885a4b1100fd6d934ca4d34e88088c08d5da96ab9362be",
-  "sizeBytes": 52629873,
-  "notes": "Echter verschluesselter Server-Rundlauf mit Paket-, Latenz- und Verlustdiagnose. Server 0.7.1 erforderlich."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.6/BlenkVoice-Android-v0.11.6-arm64.apk",
+  "sha256": "3b100622c1756fdf7254eabe561e623e4beef9e473133477efc0cb09357ec30c",
+  "sizeBytes": 52700337,
+  "notes": "Nichtblockierender Echtzeit-Audiopfad, driftfeste Wiedergabe und erweiterte Audio-Diagnose. Kompatibel mit Server 0.7.1."
 }
