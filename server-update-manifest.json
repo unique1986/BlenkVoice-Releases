@@ -1,19 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-20T18:49:52.0738966+00:00",
+    "generatedAtUtc":  "2026-07-21T01:13:32.7446207+00:00",
     "releases":  [
                      {
-                         "version":  "0.5.2",
+                         "version":  "0.5.3",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-20T18:49:52.0638907+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.2/BlenkVoice.Server-0.5.2-win-x64.zip",
-                         "sizeBytes":  3202628,
-                         "sha256":  "1448ddd4f730de8ef240f92cc93eee1940b47ad49a8efd33cd9d1ae0add68012",
-                         "signature":  "QEzwiv/1jIysSXWCjLxsOQEQ4LbP1axUws0AgUb1Z4X4FPcUkOoh+rLxYG1KELWzfXpyvdU3bMJzk7o5wbpIobF9f7MU5w8vXvlhhmvozIJLud9VoGbbBk6r9wMsKxKs7N8C56ovlfbJdcH0h1hZEshTx9y12k7F6NACHQSptHGsPYDabSJLOy2tGl0JIMRMmfKJE9chmZO/XDc8p1tuoeMfaxrI8DE6Jp6aDZwz+/Hb7j4+/STqgnFfPs3xZWF8eUCOgAdreLL5QfR9rZr5PdmEUwVi0f/Niz2/hTnsrdmZdq9Ag6Z5+DECLgN1S9XsBp5ue9xzxTxubBqxqBbxCf5WhHtTTOLrMucY5zqb2kNJ2u0UASOk2w02lC4VwZDo0m9KB9xXlaWosq4m4Vx59vXfHHCyVWDv09bNUqBSpvWJ3hedEhj5qC3oZcRjxUQ7hULTAY/59bdS1b5PqUH0EKEWVFiXm2oa7y5JFH20Mo/5i7N/gINcOR4WXN4Qh0Ci",
+                         "publishedAtUtc":  "2026-07-21T01:13:32.7405433+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.3/BlenkVoice.Server-0.5.3-win-x64.zip",
+                         "sizeBytes":  3206303,
+                         "sha256":  "dc39c7a3751d3099f72ca48ae6395261619c2b72f44e18f29a018f7f7410a419",
+                         "signature":  "CJWWxaHaeLB5PRDYdw6DMaKRyvM/XOhpdFuTAalbwXqXMxr925gHThU8gAo/zSsB06h1nuS+0j+T89D1QgnZ1ArRN4gtH6k/5TCvnNOtlJCQF1QpuYUQFjJ3tWKswOsV1VEVrH3K5USNpQ1kQT16vMG1ZGGylHnSbnrHkn77gGGCVLT7jUaGhlGCGVK3OZKFCaajcL8khpSFXYWivolzpgtnTYklOqPMoWFQm15GBzfWIV90CIcMc49jBRf/coJc5c1rdkjsxgId8cDpgsAl6SNY9knV+eXB/Zbfnf3YOAU2khTrY0wlbXMBJ4pTSXfpRzcaJtpPOKP8rj7ZsheKjmNuX0xN5zFjIUhNH1QNicK1D1TdGeoPSFr6SrJzHH0Q0TGjfjn4rXKq+eLFaLzUudXHUjvwOJ20SZFCKDb5vzPUf40Qcqmm5WEd4XdFKBcOKClz4IDkQyQXUCkcGK7VeN3VzpR2c8NHM9LoZ/df/R57pAgZqBWBTsBU8E1yED2T",
                          "releaseNotes":  [
-                                              "Zuschauerzahl synchron in allen Clients",
-                                              "Kompatibel mit Client 0.8.0"
+                                              "Repariert doppelte kryptografische Benutzeridentitäten beim Start und bewahrt die ursprüngliche Mitgliederdatei als members.json.pre-repair"
                                           ]
                      }
                  ]
