@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.9.1",
-  "versionCode": 9001,
+  "version": "0.10.1",
+  "versionCode": 10001,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.9.1/BlenkVoice-Android-v0.9.1-arm64.apk",
-  "sha256": "393b4d7712e21a2303de9739133ca49d8b80ef454b51c24ead0cda34097739a9",
-  "sizeBytes": 31861633,
-  "notes": "Behebt den sofortigen Absturz beim App-Start durch die korrekte Initialisierung des nativen Android-Audiokontexts."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.10.1/BlenkVoice-Android-v0.10.1-arm64.apk",
+  "sha256": "f4dc84964c654af3a69fe8b3c4b6f019f9f7fb2d0ce2284427dbad9cd24e5ae6",
+  "sizeBytes": 43250109,
+  "notes": "Korrigiert die mobile Ein-Ansicht-Navigation und Android-Zurück-Funktion, verdichtet die Community-Ansicht und liefert das neue Blenk-Voice-App-Symbol aus."
 }
