@@ -1,11 +1,11 @@
 {
-    "version":  "0.11.1",
-    "notes":  "Korrigierter einheitlicher 20-ms-Audiotakt, Sprache mit 128 kbit/s, Studio mit 192 kbit/s, natürlichere Filterung und priorisierte Voice-Verarbeitung.",
-    "pub_date":  "2026-07-21T12:18:55.6820831+00:00",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG80OW1sYkZkRWVMUmd4TkpWS0xiUE5oa1hSRzVqdEErSDNFcGVDSWRzdW9lRVJ5N0tZaW5BMjVHNVc3RExBblA3Um9RczJ2WkowMEJudUxId3pqOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM2MzM1CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4xX3g2NC1zZXR1cC5leGUKNDBkdXByN1dEQ3ZYTmlKcFpXaW9uRlBNbXhqZGdxNHZjQ2xCT1ZPWW9uSzhvL1FOdTlFamVCUHhqN05ZSVZ1d0ZhRGk1YlpFQnFiYmY2Y1A1eFFwQ1E9PQo=",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.1/BlenkVoice-0.11.1-windows-x86_64-setup.exe"
-                                         }
-                  }
+  "version": "0.11.2",
+  "notes": "Stabilerer Empfang bei kurzen Paketverzoegerungen, aktive Mikrofonkanalwahl und vollstaendiges Beenden ueber X.",
+  "pub_date": "2026-07-21T12:38:32.8912688+00:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVxbkVQSHc0VkZsU3k3bVRBV3Z4a1BxUE9DN3lwUmhqKzJOM002YmI0MHplcG1yRXRWRW9XZGpKTmRTczhkbWFuQ1pqbWJSUldEL2Y1SXZhVjZNN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM3NTEyCWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4yX3g2NC1zZXR1cC5leGUKUUJ0V1VjUzA4dFk0SEsxQ21BUGJGSVhBb2duMS93YStFV01MUXV5WEpzTlNod0N4dTYxaWtQQ0xwc21uVEVEamd4eXE2RXZneUhLOWw4UDBxZFhOQmc9PQo=",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.2/BlenkVoice-0.11.2-windows-x86_64-setup.exe"
+    }
+  }
 }
