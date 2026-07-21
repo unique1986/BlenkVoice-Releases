@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.11.2",
-  "versionCode": 11002,
+  "version": "0.11.3",
+  "versionCode": 11003,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.2/BlenkVoice-Android-v0.11.2-arm64.apk",
-  "sha256": "e58df4e4b54abfdff8f59347893bdc90ae3b2ea3aff8e25568cb242e5580cf60",
-  "sizeBytes": 52575417,
-  "notes": "Stabilerer Empfang bei kurzen Paketverzoegerungen und aktive Mikrofonkanalwahl. Server 0.7.0 bleibt kompatibel."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.11.3/BlenkVoice-Android-v0.11.3-arm64.apk",
+  "sha256": "38fcc92c984a44b4279d0b23c0b9abe7516a14f335570c71c057b44ad16d8ab4",
+  "sizeBytes": 52630433,
+  "notes": "Windows-Wiedergabepuffer, verspaetungsfreundliche Paketreihenfolge und getrennte Rohmikrofon-/Opus-Diagnose. Server 0.7.0 bleibt kompatibel."
 }

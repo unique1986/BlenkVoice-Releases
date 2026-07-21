@@ -1,11 +1,11 @@
 {
-  "version": "0.11.2",
-  "notes": "Stabilerer Empfang bei kurzen Paketverzoegerungen, aktive Mikrofonkanalwahl und vollstaendiges Beenden ueber X.",
-  "pub_date": "2026-07-21T12:38:32.8912688+00:00",
+  "version": "0.11.3",
+  "notes": "Windows-Wiedergabepuffer, verspaetungsfreundliche Paketreihenfolge sowie getrennte Rohmikrofon- und Opus-Diagnose.",
+  "pub_date": "2026-07-21T13:00:37.3348939+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVxbkVQSHc0VkZsU3k3bVRBV3Z4a1BxUE9DN3lwUmhqKzJOM002YmI0MHplcG1yRXRWRW9XZGpKTmRTczhkbWFuQ1pqbWJSUldEL2Y1SXZhVjZNN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM3NTEyCWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4yX3g2NC1zZXR1cC5leGUKUUJ0V1VjUzA4dFk0SEsxQ21BUGJGSVhBb2duMS93YStFV01MUXV5WEpzTlNod0N4dTYxaWtQQ0xwc21uVEVEamd4eXE2RXZneUhLOWw4UDBxZFhOQmc9PQo=",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.2/BlenkVoice-0.11.2-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHA1NVZlUjJzSjZxVGpUTUlLZjB4Smd4TDl2eTdYM3ZrOGJYaFRDSWc5YlIzY3ZrVnV6S1d5dmp1NTQ0N250b2FtNmVrSFI2eWh3K044NkZkUHVUL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM4ODM3CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4zX3g2NC1zZXR1cC5leGUKZHI5RnFaZkJqTHFUaXR2RzcwZnBFOXEzMzBnY3F4WlI5V21wMGh0VGEvb3B4NTJtV3gvUlk1MkNKTWY4elJmaTJ1K2RpTFdvcm5vZklaRTlKQ1lCREE9PQo=",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.3/BlenkVoice-0.11.3-windows-x86_64-setup.exe"
     }
   }
 }
