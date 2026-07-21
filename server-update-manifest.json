@@ -1,18 +1,19 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-21T17:46:16.1105646+00:00",
+    "generatedAtUtc":  "2026-07-21T18:40:48.5310045+00:00",
     "releases":  [
                      {
-                         "version":  "0.8.0",
+                         "version":  "0.8.1",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-21T17:46:16.1038551+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.0/BlenkVoice.Server-0.8.0-win-x64.zip",
-                         "sizeBytes":  3301400,
-                         "sha256":  "1296e75917c3d01153b666eced4184cce3b5744a71a18c0e9983a5bad4a792f0",
-                         "signature":  "PO81UJE+O5lQgnKundbsib1nkszAUogP15bMm/VCxEK89Pv0Q19xVzX+xKzRlCK85HuvO5uS1UXCL7hc5/1oYhZwKyU3krwWNzgh84GJFhXCdUeDigyy6cb3kOpXI0c5YId4dXvXQYN9lAgIbkSqwrjCa5u7d+XBgZdVYDMhZEpsSoWD1tmBxQ9L3QxFEdExvxwo+G10FP8CiV1oex/G3it0oKyMnz0Ha4mheU/+yuOa05neYdJP72TMEzurbH9yUsuyMm69HGp4NmP/VvpxyjzCZoblMjQIKw4kAI3OBOpSYQsiEGho1fXIBrqlj92mgWNZmDXGYEes49frbbmeZQGagPbI6uITlvDYo4SjBj0sgQlPKFaA1tvAmxe3eesu7ufpZrRsrEUm1oJeqZTDD69d6ScPE9ffki6Qqc8VZcARLiWOCwW59/wIttXxeJ40mcxd6O7YABQCnOfNToZcDzgKs+0mj/72Uu5qcyC97KFEdN2zgdbX+CzQFGugB4OS",
+                         "publishedAtUtc":  "2026-07-21T18:40:48.5253321+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.1/BlenkVoice.Server-0.8.1-win-x64.zip",
+                         "sizeBytes":  3301712,
+                         "sha256":  "69e033d9ba64db3ce44d97846b4ad8ec4bd8fa39e617abc48b1f5c304a8596cb",
+                         "signature":  "Gvbx7nPkeYn2nhdVkkmjih+IN1sq5OV/fjw5kmaFoP+ohe0aCvA5gqXRPznmf8Ij57l7xl6jU1vPnyaDHwdw3HJLo46Btxsht5WL/KjzbiX4eQGlpYbWvQbdy9lcVhpBq0H2puU7cS8Jv86X4XUeUlrhB+ttSn+lKoC7cq3YrP73yCtzx5vmSkiBtsHzkdd5gw0DYUaT5gw+hiF3+NivbUHaVH7dPaw4XgxtNjF+NG82AxEHbMOFiOZyGJJTmbUJcnzrk+1cM6cbNafrpl8Bhp2CyNS4byYJ53pOccMkxXKaKnDS8ULySsPhbLNx/kLhEpek/JosBl3KPBBlwwVQDX2DhtBUx+DeWc72ITuYebGQazlciCYTJlH9ZXUNZ5HP8ZOyem/5Hi6PjXJ37zgs9xODCYSSB2167lmu3VtGPxUOXBbS4WPq2CS/mx91fbsOF1x3b81r7s6PpPy5dA1obNLkNL/RLXkyl/TGuJZtx4nPf195W3G2CbqwD6cYCSmo",
                          "releaseNotes":  [
-                                              "Servergespeicherte persoenliche Profile, Protokoll 16 und Live-Profilabgleich."
+                                              "Streamweiterleitung fuer WebM mit Opus-Systemton.",
+                                              "Servergespeicherte zugeschnittene Profilbilder bis 150 KB."
                                           ]
                      }
                  ]

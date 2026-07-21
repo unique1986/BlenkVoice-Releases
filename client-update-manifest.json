@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.0",
-    "notes":  "Persönliches servergespeichertes Profil, neue Lounge-Platzbelegung mit Hocker und größeren Personen sowie Pegelschutz für laute Sprache. Benötigt Server 0.8.0.",
-    "pub_date":  "2026-07-21T17:52:07.7213337+00:00",
+    "version":  "0.13.1",
+    "notes":  "Streamtransport stabilisiert; Qualitaetswahl 480p bis 4K; optionaler Systemton; realistische Lounge-Sessel- und Hockerplaetze; scharfe Namensanzeigen; Profilfoto-Zuschnitt. Benoetigt Server 0.8.1.",
+    "pub_date":  "2026-07-21T18:39:44.2623747+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGhMV2s2YUIxVC9YZ2I2SmtnN2t4Uk1LVmkzbnRGZyszNk9PNHQ1byt3QU1LWDIxVVN4SjFXWkJjTmRkWjk5NlZhTnhtQUhReWFPNEQzSkZkWmZZZndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjU2MzI3CWZpbGU6QmxlbmsgVm9pY2VfMC4xMy4wX3g2NC1zZXR1cC5leGUKU2JuUGhjNFZoa1hDdllqY2swN2ZNbm1nTFdjVnluZTYyQnFCaVNEVXgrbUp3YzgvT25NaklBeDBDak53YStXR2RyRG5vUTYxUFAxb2dSUm9VYXlIQVE9PQo=",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.0/BlenkVoice-0.13.0-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVoRlVDOE5VUDJ5VnFKRmxsTlNmVWFIenpsYnhBeDMyUklKR2pGN3RrbXpMQjFMMlhCM3p6Z3JhU0dZVVlzQ2ZhMkp5bk9RdjNiQ08rVm94aTN4VlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjU5MTg0CWZpbGU6QmxlbmsgVm9pY2VfMC4xMy4xX3g2NC1zZXR1cC5leGUKcUNEdzU0UG43UDN6MDNoWW1nUWJocVdTTFhQNmxMWGxBSTAxTDdkekNibGFUSy9FWEdJMmNlVWFGR0Fydi9pdmd6ZnBlbUl4Y2J0L3NMUkFTNUtiQWc9PQo=",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.1/BlenkVoice-0.13.1-windows-x86_64-setup.exe"
                                          }
                   }
 }
