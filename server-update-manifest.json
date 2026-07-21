@@ -1,18 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-21T01:52:20.0372747+00:00",
+    "generatedAtUtc":  "2026-07-21T02:07:41.5576914+00:00",
     "releases":  [
                      {
-                         "version":  "0.5.4",
+                         "version":  "0.5.5",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-21T01:52:20.0327757+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.4/BlenkVoice.Server-0.5.4-win-x64.zip",
-                         "sizeBytes":  3205790,
-                         "sha256":  "7d329e4a33a4c804dc2fce8bce901a53728e8270ce47c368ba7e35c1ea1e6f89",
-                         "signature":  "g13us+4oHxY92RDhgncukPvGAc85UXtWe/uo+zJK4KlIgn892yhicjzW5jDp3yCrWZhKYQygF5Lni0ACGeAJ9HH8EmGHgPy+sKhE7SC623L8Ye0/fboz4SUwqz+lpV19ooLZNOShREUj2UlzAI1uMvte0qUxxM0aTMk90lBoir7HxeQMWREaBKHQ2Fkuworsn5q9MRX5mBVuBp5tSHdX9w5D6aPbDdx7Erpd10H2abpF0XF+K1UJPZlr8RRiRRj2VxsDhs9oxi2YzOndd2pmwEFVfurfT3G+GEIJDEidH8LqNmkIgmIsM4DdvnF0twlPWsvZM9yBmMquWIL1K71V2M00N+ZpbkXah6hDtotGe/jCfIk1idKHvsaFsXArpSZ41X3wCeoABZvc/40bheOh4Z93P/atVXKNpWs0ZTdljq5pWoO+CzQipvDpxeVianWDNnntYG+ZUm+44LmXBo1fMLX+AttuavjhOKpZPJuMn3PYADjIoIRK3kz9HIECs0BS",
+                         "publishedAtUtc":  "2026-07-21T02:07:41.5536865+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.5.5/BlenkVoice.Server-0.5.5-win-x64.zip",
+                         "sizeBytes":  3208248,
+                         "sha256":  "863c3cf1f4ad554f1e815c849667a464f4f30ae1927f033b2f80bf2544dd0ce6",
+                         "signature":  "oYx/Um7DFJTM0TqBfzISNfe0hA4oUfwtgwWKW/VR0CfM6sbK1ZMIzceJC1/+PDoZKxTu9fwqddbHViKWFor3Gh5Q13ZP4RzH4KoBYqhOnDy15VXuRBplU0VYkY4wpqpiLIrTocc28/UDqIHgi1YzmKxU6r6KHrKX48rdkWCPC5xmj3x+rDpz9T1iWzxFILIqVlTiUDFCQaiH4DOio82+zuGAMTP8+/190WFpaKw7mwyIKF1KoAooWPI/LpG+4hAJ7bq1OlYZbbQMyH/WKvFN9j3oWWS3EB/rOjP24lhAgIKcRx6juVvOybwKQEFDGbNl/x9YqV58DJMbdtxvo8wXFhGXWDQz1PSvP00DKeJwQSbRykP1DN4wifwJ7xaZCH10PCfz1YMCpE8b41oCuxSix+9Z/hczb4UGd0jo01/tbjyoVjQ/FOffENb5qiRhsAtSUoKpSYqEjScZxR28TjQJeWnMPosqTBVHQFPWZ4pcmtQz70yl8nBP7BA3fScUFc82",
                          "releaseNotes":  [
-                                              "Repariert fehlende, mehrfache, gesperrte und unterschiedlich geschriebene Besitzer- und Identitätseinträge älterer Installationen"
+                                              "Besitzerkonten können in Blenk Base angelegt und mit E-Mail, Anzeigename und Kennwort vollständig bearbeitet werden"
                                           ]
                      }
                  ]
