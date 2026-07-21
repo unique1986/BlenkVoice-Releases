@@ -1,11 +1,11 @@
 {
-    "version":  "0.10.2",
-    "notes":  "Kompatibel mit Blenk Voice Server 0.6.0; Protokollprüfung vor dem Verbindungsaufbau; aktuelle Raum-, Rechte-, Stream- und Android-Paritätsfunktionen",
-    "pub_date":  "2026-07-21T10:29:22.1997714+00:00",
+    "version":  "0.11.0",
+    "notes":  "Kennwort- und Serveradressspeicherung, stabiler Bildschirmstream, Live-Audioeinstellungen, Mono-Mikrofon im Stereo-Profil, Fensterzustand und Einzelinstanz.",
+    "pub_date":  "2026-07-21T11:52:39.8475429+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGhmZmFqSkx2bnlnOFBaLzZwYmtEd1V5cXplN3AwdFBuSmRyNlFobURsazVLY2lMWFFmYWJPeG5LQ3U2M3UxRmdLcER4SytWUmp0cjRxb3lkQ0NFTkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI5NzYyCWZpbGU6QmxlbmsgVm9pY2VfMC4xMC4yX3g2NC1zZXR1cC5leGUKSGJWT0oyQ3lvSHF3QWFHclZUdDVNVzIxa0trZndzWSs4bW1Xdm1QTDRBc2tUTWcreEM1QnQ0U2k3NjJRZk4rZHNUeVJGQ1VoeFlObTdON3BSMDZqQWc9PQo=",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.10.2/BlenkVoice-0.10.2-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHJZYlRUN2FnSTZRa2ZLMXdaRDBtTEREd1lwMDN6UTBWS2hKMG4zQ0FZRGZyZGFpQUVONWFxSHlHQXFYVmtWQndvYXNmWnlvSktVSjNmS2RZeHZRRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0NzU5CWZpbGU6QmxlbmsgVm9pY2VfMC4xMS4wX3g2NC1zZXR1cC5leGUKQjNFcElrb3psSkxLazNPRXZEU2M0M0JYUHMyZG1jWUcxMEV0NElLYzA2TDNYUCtiSmltUDlHYzRaTlVSVXRmNy9wYnpQcTN2RWRmNzVtRWZPeGlMQWc9PQo=",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.11.0/BlenkVoice-0.11.0-windows-x86_64-setup.exe"
                                          }
                   }
 }

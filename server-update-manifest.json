@@ -1,21 +1,19 @@
 {
-  "schemaVersion": 1,
-  "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-07-21T05:39:07.6569365+00:00",
-  "releases": [
-    {
-      "version": "0.6.0",
-      "channel": "beta",
-      "publishedAtUtc": "2026-07-21T05:39:07.6527165+00:00",
-      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.6.0/BlenkVoice.Server-0.6.0-win-x64.zip",
-      "sizeBytes": 3260566,
-      "sha256": "98c749d8a977ddacc459f7eaac043b63eddd113483b037a6979c99ddb0cda872",
-      "signature": "bM0Z+JjO4NJwLmG3GuvVDLasdPO6Oxb1KWXdzNghdkX7I/NvjOqOVk0r6W7sknh8gPifkxW0kf12kXlO6uc3+guHK+nYRGT3YPcWpG4bm8DOaT0LAgSl546FGV69xsG/8BpWJwMom23zBJj1H7W1iQOIhz53mlpycdnF/jvNmvbFbh/pLFTGMNbp3ih2fT6l4S9bdm4v9C3FAJVQOecjsO3/FVYahp9YznvL0tNKxCb3X/vPRAdgYjwCoX6N7dNPSLzhlMFm6nfH9TMY99Nj4Egd9anr6ZHTLlDNS9E/t6bo6LWTuuvdOtOwN7VYXiimMso9qRWE6kah6531eMflRMrNf6D06ybjyJiiwq6BkJjVFzcBDH0YC0282rf8absTW208rVQJ+5Pa5a7/gAoFHt/m9JtvDt11adljIt1YPgH1fqntWqQ1+jQRekjsj5XDs3mBowQ5n4vmRsxrOJUTGAvCBaQMl4SkQHFbTloeQNYXSstK4DPnQzVq33oZfhLr",
-      "releaseNotes": [
-        "Kompatibles Protokoll 14 für Android-Client 0.10.2",
-        "Private Sprachräume pro Mitglied und erweiterte Kanalbanner",
-        "Protokollbereich wird bei der direkten Servererkennung veröffentlicht"
-      ]
-    }
-  ]
+    "schemaVersion":  1,
+    "product":  "Blenk Voice Server",
+    "generatedAtUtc":  "2026-07-21T11:53:26.6622810+00:00",
+    "releases":  [
+                     {
+                         "version":  "0.7.0",
+                         "channel":  "beta",
+                         "publishedAtUtc":  "2026-07-21T11:53:26.6558494+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.7.0/BlenkVoice.Server-0.7.0-win-x64.zip",
+                         "sizeBytes":  3269522,
+                         "sha256":  "445e0b6684b9bb2512622e1eb703a443a5adb74d2d7f8bc313c85ea82597fcd3",
+                         "signature":  "NUuLXH0KHLwVhAP/LnWjjvBypGU2Lerq1iCKlbwsSPmvOlwnynuucAsg3nzf+eBJsEkQl08X6l1gUUJZy4Zf6j1XbeEFVdfOBvoZjjonVtvc5WBeyaEdh4LwgjHm/iOraRRA/9EyaOcoC+mSZK20HlSnVG8QT9obRPHQULbhzwC/TrDb7sSUWfvrRL+1jTqbytLhteSB+i0JjlW7vTdLtQoko1capUHf6L7KmbElIyvesAttH2vTH0nRsoCsM0GpgUCIlm8iointPkRByu+h+m/8BupTWSFUYTnS+Eb3KQUsTIS5RR5mq/TXLoSTuGm0QxbsOusXQVnSs+mGs86qJTv99cGwvIqr+XrQjycOWmPFlV4GKzJPMZ4WHB8QymS24lpKdJAxG0ex9mOxZHc3AVvpO3HRcBjZm2NxoBvBDbnLRqTA70gquCPjkaIiDIphh2wh0yekEhbnLzfxDWElJ50c6YhQ/37L/ax/oK8yCZm7o6OS6CTLfDKQ97wEAqgj",
+                         "releaseNotes":  [
+                                              "Protokoll 15, persistenter Servername und stabilere Stream-Aushandlung für Client 0.11.0"
+                                          ]
+                     }
+                 ]
 }
