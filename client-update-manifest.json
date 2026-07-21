@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.3",
-    "notes":  "Behebt graue Streams beim spaeteren Beitritt und repariert Profilfoto-Zuschnitt sowie bestaetigtes Speichern.",
-    "pub_date":  "2026-07-21T19:25:19.5300295+00:00",
+    "version":  "0.13.4",
+    "notes":  "Korrigiert Sitzpositionen in der Lounge mit festen Bildkoordinaten, Moebel-Vordergrundmasken und scharfen Namensfeldern.",
+    "pub_date":  "2026-07-21T19:52:43.9419681+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGcrU2NTd0JObGtsQTYwNnBoSUc1Qkx5UHBnOGRTZU8xdHExSkZWM2JKQ2JPeFZWRkVFQUk4Si9XZVQ4VHNYR2VHakZMc3hsYW1vRnVaTmx4VnF4YWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYxOTE5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuM194NjQtc2V0dXAuZXhlCmVZYmVoWFprdHdiUHllL3BJWHV5MmlzMkJJOE9BdE9Ma3JaQkRIRnVQelFEU3hYeFNZWHdJOEhUckRJVktFYVI4ZjRLWEgrNjI4RFRpMzI2aVhMR0RBPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.3/BlenkVoice-0.13.3-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpHeWd0UWxIcjZNa2RTV0VmdjUzb1VXbDhrOGVTbncrVkhWbFRmVHhITEkvQTZxSHVhMlpoUlcxR3VKQjZRSkd5VU1iTnFlS3pzemNaVU5VQ1c4SWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYzNTYzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuNF94NjQtc2V0dXAuZXhlCnBTM0FRNUV5aVZoUnlWS3hmUjF4OGJNMTRHZm90c0dQZXFVbnZlckZNMEJ5RUYyM0JZdW9ITTB1YjE2QzhuNHlRZ2xrSXlNd2pSLzA2NHF5UXBpWEN3PT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.4/BlenkVoice-0.13.4-windows-x86_64-setup.exe"
                                          }
                   }
 }
