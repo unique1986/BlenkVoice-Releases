@@ -1,19 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-21T19:27:30.1837577+00:00",
+    "generatedAtUtc":  "2026-07-22T17:57:36.6433113+00:00",
     "releases":  [
                      {
-                         "version":  "0.8.2",
+                         "version":  "0.8.3",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-21T19:27:30.1782310+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.2/BlenkVoice.Server-0.8.2-win-x64.zip",
-                         "sizeBytes":  3301939,
-                         "sha256":  "9d6acadd94c8bd6c6a5b439047a8ca780bdf5b9a3e6d69f4c547d934bc065ab9",
-                         "signature":  "fqr0s8FkTq9ePXASOctpfdgPLL5ZJzPuASYvD92LS4gQQ4IU2nAiLYQujak2IEf1KvPwFW2Ub/T+KdD1Z8Ek6Og2lMqnz6H3n1z7Lko/ELZPc4rDX6YCZ9lgwY/tzxc24wx5JkRqLvOvoH3bniskxAK0BsN7WADyk+FYdHrd4lmN9/ZciVGA5Kon35dvRU7pM6I7cDUZlXzOW5ZqrlQLKTBxjLxfqXUVO9gs8T7xqQTgFN/E0glmvc+VMHa+oNsKObuIQwqaF09IsuJou6nIDQar+DPubs6XDgjWytZj6quQjjXODyWYxFifxT5ldB83Uf7fn5D2LaSGK8eJZww6kjt/84U+XVK1OgwkXAGXqWfZLRYfXkTCfsam6VQ9+dpRgh6IVjFxPCGBElSIRSxyF9XVhh39/k0Rj/blup0r+Sx/AXOZXB8X5eYKMOLU6IsD4FV/P2NtBzS9EeSnKHDXXKD8O9Yn0XfnnHVs45CVc0d6pyLjP+hCflx/zx+UCwe0",
+                         "publishedAtUtc":  "2026-07-22T17:57:36.6402822+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.3/BlenkVoice.Server-0.8.3-win-x64.zip",
+                         "sizeBytes":  3301687,
+                         "sha256":  "3c8612b475ecc9ebda81ea87b9099ff2ed948140b34a4da2829caf793994b81d",
+                         "signature":  "fOkGGnlxCkOuI3Rx7oX8jTNWRcC0szsJt+BQik2lq5HRl9ZNS3vjCV3eFQ5CKjTKZackotf2i55QlBEOuf08KQIsHZeo+FavrUlvV4nYGUxYiRmLl/rbWufVZfoRfP69xhR/CtWw4DrdhjKmtVtvU/ciY9mpDBF9+Sab+Hu/xdFC88R4p+ENVnqyshS9KkI5g47ikfc6Mge6zZv2ejjB0uf64RsL3imJrdXkEMGKlUOiG2Ypq5thGvBwB13gMgNV6NJ5AHNJbZiT/ptIXboFM4dwWPAAFpxOUhgZnHvh3kGjoSaWuZKeX5/pwMSFJpFQaIl7+EA76XIyQS8ad1SG/g9kd0aX6aedwZWbfPFjUKeCo9G4h6H3yDI1d1grUbZwLiynBlMZyV+6rGBu3eeGon2N7ybnE6IrOz9wvd9+q2pj4gKVVCEsm+d1JlrlxLbkMSxzhfg0qSiwxlAtDsnUasPh/ZbjOU//82j6Fl4+Z7lAeKuqeLy9ffRLOOG9QdUe",
                          "releaseNotes":  [
-                                              "Neue Dachmarke: blnk - Voice",
-                                              "Protokoll und bestehende Installationen bleiben kompatibel."
+                                              "Beendet verwaiste Bildschirmstreams beim Reconnect und gibt alte Streamplätze frei."
                                           ]
                      }
                  ]

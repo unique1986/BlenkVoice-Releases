@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.10",
-    "notes":  "Stabile Lounge-TV-Wiedergabe, nahtloser Wechsel in die Fokusansicht und korrigierte Namensanker.",
-    "pub_date":  "2026-07-22T17:31:50.0255682+00:00",
+    "version":  "0.13.11",
+    "notes":  "Blendet verwaiste Streams ohne aktiven Sender aus und verhindert Geisterstream-Abonnements.",
+    "pub_date":  "2026-07-22T18:00:23.5459892+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG5USmZVNk9BSERHci9Mb2ppblY3eG5HN2MrZVIvMTc3UzZ6L1FCb1FPUFp6enZ0QTk5dGd2bXcyWTYvK0pSMjRGM3hMVks5aFUwT0QzbzZKVjAwdEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQxNTA5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuMTBfeDY0LXNldHVwLmV4ZQpha2tTZVp5S1VPL25Cd0sxSXhFMkNoNjd2bWVrT3N4c0pBZHZwYnI1SkhmT2JFVS9udnpwckxsQURDUmtBb2NGRGNFZmJIaEkxME44S1ptNDhFQ3dCUT09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.10/BlenkVoice-0.13.10-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVaQmVJVnF6OE9LWFplNENNUTVLYjRwT0I4SGwzWW9ZYXllS3luTFJSdWpSd0hncTRLT2hlUEVEVXpqSGxjNEZOeExzdjdXeVUwejVoSVJ4c0UyUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQzMjIzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuMTFfeDY0LXNldHVwLmV4ZQprUkpYVTlLK3pYVWJ4WW1Ya3Y3TktBeGNOK2dUMkt5NDNPTEVEelZ4NUU1aXBaQU9lRUM1c0ZnM0R6aXpRVlZxVHVtL1N2dVlDeTV4eUdyVkpQbGtEQT09Cg==",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.11/BlenkVoice-0.13.11-windows-x86_64-setup.exe"
                                          }
                   }
 }
