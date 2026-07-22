@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.8",
-    "notes":  "Fotorealistische Lounge bis 8 Personen, automatische Streams im Lounge-TV, Kerzenflackern und blnk-Labs-Kennzeichnung.",
-    "pub_date":  "2026-07-22T16:56:32.4834009+00:00",
+    "version":  "0.13.9",
+    "notes":  "Hotfix fuer direkten Streamstart im Lounge-TV, automatisch schliessenden Streamdialog, stabilen MediaSource-Wechsel und korrekt positionierte Namensschilder.",
+    "pub_date":  "2026-07-22T17:16:23.2630270+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpsTlAwL21weEY2WmNKU3pIcmZsekV2YUVaNm8wcjJ2YjY4SmZYbkJ5Z094b3BpaEp2bmxXb0hFNlU2TEpML3RGdGlKOEpBbld3dTFhZlloTjEyM2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM5MzkyCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuOF94NjQtc2V0dXAuZXhlCnF1TXM0WWY2UjFxSk54UHc0QlBBdDlFV2piZFltU0R1YVptT3hkOEZiSE5jeDRxbzlyak1tdFV2aldtVmZ1eW5OUTd6SE8yQm8xSVR5VGtINDhUekJnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.8/BlenkVoice-0.13.8-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHM1UmZSdTMwT2xFNGhTQnh6NkhYeHRTcW1XWG83RHAxSHdrMWRWSGRZT3YydzZEN0RDbVJ2ZDNrbi91eUYyTEZSVHppQjFrVnhjY3doa2JDbVlJeWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQwNTgzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuOV94NjQtc2V0dXAuZXhlCjBZSm5ETVdncGpzMFg3V2pneTVRUjJ3RXkwaUdyYUdCa0kvTU9pT09QZXVnTk1neDU0WC9HZjlQK0lMVkVUcUdnckxTVlJDbXlGZnBDeW9KZ1QwRERBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.9/BlenkVoice-0.13.9-windows-x86_64-setup.exe"
                                          }
                   }
 }
