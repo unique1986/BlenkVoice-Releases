@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Android",
-  "version": "0.13.3",
-  "versionCode": 13003,
+  "version": "0.13.7",
+  "versionCode": 13007,
   "minSdk": 26,
   "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.13.3/BlenkVoice-Android-v0.13.3-arm64.apk",
-  "sha256": "b5f5be604f547c03260d2c05090e25db62099a446a9f6629ae66124647929265",
-  "sizeBytes": 62056049,
-  "notes": "Behebt graue Streams bei späterem Beitritt und aktualisiert die sichtbare Marke auf blnk - Voice."
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.7/BlenkVoice-Android-v0.13.7-arm64.apk",
+  "sha256": "c7d959aa909b8eb86ab8835d9b1d9caaf52977364b07fc8b9a761cd740fc93df",
+  "sizeBytes": 62083809,
+  "notes": "Gemeinsamer Clientstand 0.13.7. Android haelt den Bildschirm waehrend Voice, Stream und Diagnose wach und entfernt das Flag danach wieder."
 }
