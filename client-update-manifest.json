@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.5",
-    "notes":  "Behebt graue Bildschirmstreams durch freigegebene lokale Medienquellen und stabilisiert mehrstuendige Wiedergabe.",
-    "pub_date":  "2026-07-21T20:26:41.2792445+00:00",
+    "version":  "0.13.6",
+    "notes":  "Sauberer Abschluss jedes Sprechabschnitts verhindert kurze robotische oder kratzige Artefakte an Sprachpausen und PTT-Enden, ohne die Gesprächslatenz zu erhöhen.",
+    "pub_date":  "2026-07-22T00:35:17.4843088+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZTQTE3UmJ6Q2s2Y1NEekRqN2NkS1ZsTkN5TTc5amwrODlJbXpLRkdIL1JCQjNLaUFuUCtkRStZMmdaZ3gzaEtJNXMrTXVOUXVpK2dOaXpGM1hiYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjY1NjAxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuNV94NjQtc2V0dXAuZXhlCkdyN0ltVTBzUmhJU2o1NHhqbThMVW5OSEVwdFQyWnRhdzRXMUdKcHphT05iZ1N0VXRvZTVIK2FpWHNhSHNMcVRwamJCSXlRV0FkM1BnckVDeGhoQkFRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.5/BlenkVoice-0.13.5-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHQxWEVaWVA0Rlg5c0pYcGRqV0swSmhmWHdrQWM2ZFhtRWlzN0VJaEwvVGF2UDlMVFJCdWpkMWFjOHZQUnBsMkNtR3ZBUmE1SU9pdEw5SVVFQmJJUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjgwNTE3CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuNl94NjQtc2V0dXAuZXhlClcvRzRiUit3eFhJQjYwWXRYVkNmbTExWGduQXNmbFBKa3lSWlFiUTRpK0JNSjFzRkVORFhUaUJHODJ5WnhLWDFWTmViTFkwWjZMMTN5aE80Q2libERRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.6/BlenkVoice-0.13.6-windows-x86_64-setup.exe"
                                          }
                   }
 }
