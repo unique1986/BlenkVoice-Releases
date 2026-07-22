@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.11",
-    "notes":  "Blendet verwaiste Streams ohne aktiven Sender aus und verhindert Geisterstream-Abonnements.",
-    "pub_date":  "2026-07-22T18:00:23.5459892+00:00",
+    "version":  "0.13.12",
+    "notes":  "Stream-Fokus repariert, TV-Standby-Screen und Profiluebertragung korrigiert.",
+    "pub_date":  "2026-07-22T18:33:25.5725853+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVaQmVJVnF6OE9LWFplNENNUTVLYjRwT0I4SGwzWW9ZYXllS3luTFJSdWpSd0hncTRLT2hlUEVEVXpqSGxjNEZOeExzdjdXeVUwejVoSVJ4c0UyUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQzMjIzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuMTFfeDY0LXNldHVwLmV4ZQprUkpYVTlLK3pYVWJ4WW1Ya3Y3TktBeGNOK2dUMkt5NDNPTEVEelZ4NUU1aXBaQU9lRUM1c0ZnM0R6aXpRVlZxVHVtL1N2dVlDeTV4eUdyVkpQbGtEQT09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.11/BlenkVoice-0.13.11-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGsvaXhsRzJ6RFgzb2F5bS9rc2owcSsyTHl2RUl4QXRSWncrd3RaRnBlTWZJcXk3OUNUUkY1SzdSaFQxWWZRQUVVd3p2ckVQYVJYbFluQjB4bStITHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQ1MjA1CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuMTJfeDY0LXNldHVwLmV4ZQpINjBPT3ltWWYyRC81VEY1M0lrNnFqakFVTFpTV29XTUkzcGVobkluQ0pzcTNKaVFHMWpvSzlIUHVhcExsRTlCTUpCT3Z6cWNDNmxhQXNyYUVhcW5DZz09Cg==",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.12/BlenkVoice-0.13.12-windows-x86_64-setup.exe"
                                          }
                   }
 }

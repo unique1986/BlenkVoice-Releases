@@ -1,18 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-22T17:57:36.6433113+00:00",
+    "generatedAtUtc":  "2026-07-22T18:34:21.3987818+00:00",
     "releases":  [
                      {
-                         "version":  "0.8.3",
+                         "version":  "0.8.4",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-22T17:57:36.6402822+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.3/BlenkVoice.Server-0.8.3-win-x64.zip",
-                         "sizeBytes":  3301687,
-                         "sha256":  "3c8612b475ecc9ebda81ea87b9099ff2ed948140b34a4da2829caf793994b81d",
-                         "signature":  "fOkGGnlxCkOuI3Rx7oX8jTNWRcC0szsJt+BQik2lq5HRl9ZNS3vjCV3eFQ5CKjTKZackotf2i55QlBEOuf08KQIsHZeo+FavrUlvV4nYGUxYiRmLl/rbWufVZfoRfP69xhR/CtWw4DrdhjKmtVtvU/ciY9mpDBF9+Sab+Hu/xdFC88R4p+ENVnqyshS9KkI5g47ikfc6Mge6zZv2ejjB0uf64RsL3imJrdXkEMGKlUOiG2Ypq5thGvBwB13gMgNV6NJ5AHNJbZiT/ptIXboFM4dwWPAAFpxOUhgZnHvh3kGjoSaWuZKeX5/pwMSFJpFQaIl7+EA76XIyQS8ad1SG/g9kd0aX6aedwZWbfPFjUKeCo9G4h6H3yDI1d1grUbZwLiynBlMZyV+6rGBu3eeGon2N7ybnE6IrOz9wvd9+q2pj4gKVVCEsm+d1JlrlxLbkMSxzhfg0qSiwxlAtDsnUasPh/ZbjOU//82j6Fl4+Z7lAeKuqeLy9ffRLOOG9QdUe",
+                         "publishedAtUtc":  "2026-07-22T18:34:21.3947398+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.4/BlenkVoice.Server-0.8.4-win-x64.zip",
+                         "sizeBytes":  3302489,
+                         "sha256":  "87b789d1727d1b4a4b64788ef4ca9b181a9228b83051b20cdbabdbda2f14866d",
+                         "signature":  "nOWSPcUGNuRmyykBFGr2NquqwAFhtcowb9Itr2wkk48dxrhLpsI2ry6W1QF6/tjQl+htS5GmnJ30JYEE14EXzLwr6pzz2Bn/In9jzL8HvmTTTib+k20QGCyN4oryXJOkHVxF1ofF0zn8MiljovUb2Ymi1Wp4QjtA0VO+WpLTMtC7qXoMiSLmG8Hik9+RxDGkM6kMvkXuAD8esQvj9Z5mo9ZH+Kw3hRC4ZIVji9sB/z8V4GW+TGSy2bHAg+6zPNfId6f3xxKpSY7P7uhWyFlYtkru8Klx7u0yA0//kOlojPfC51GkbJJ86vVlNhUGFbs6mVgzq8ZVrUmkTRku8pzMRNKnWm8O6GxPA7cSPT17QFC95wzJp51nm3gz2MeyZ3BbqFOV4MrJLpOlByJ2tBBpc/uKqjz5ApMsAt/jULJhfrPqRtvmNFiQSuc2fJwgMlxM5VDoI9JhqMW9KRA223T673QMQYvq1+HCMIBzGmKOJ1YyaZ4KdDX5ou1JUD8QElDp",
                          "releaseNotes":  [
-                                              "Beendet verwaiste Bildschirmstreams beim Reconnect und gibt alte Streamplätze frei."
+                                              "Profilgeschlecht bei Kontoumwandlung erhalten und Client-Kompatibilitaet aktualisiert."
                                           ]
                      }
                  ]
