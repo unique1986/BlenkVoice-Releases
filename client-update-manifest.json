@@ -1,11 +1,11 @@
 {
-    "version":  "0.13.13",
-    "notes":  "Stream bleibt beim Wechsel zwischen Lounge-TV und Grossansicht ohne Decoder-Neustart aktiv.",
-    "pub_date":  "2026-07-22T18:51:29.5077317+00:00",
+    "version":  "0.14.0",
+    "notes":  "Servergespeicherte Profile, serverweite Kanalbilder, Android-Paritaet und Raumstruktur-Sicherungen. Erfordert Server 0.9.0.",
+    "pub_date":  "2026-07-23T01:13:37.7973610+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHEzbWJvT1lKaGFrWmk5NzBqYzc1L3dORzU1MzZrRDUwZlY2aExvQ0ZTSTVYUXI0aEN2U3lUZ2dRK1R0VmdpVlFmbUZjZitQTTQ3RnZVYlBUdU1jSndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQ2Mjg5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTMuMTNfeDY0LXNldHVwLmV4ZQpyLzhHUDNlQTZQVjN6NCtENFA3Z1VPUG0wNStvQ3A1N1d6N1AwcDhyQVFkdkE5MU0vcTJKTkY1K3ZsalBDS2paakFMN3Y2SkxMOHlaTlZ1V01JK0ZCZz09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.13.13/BlenkVoice-0.13.13-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGtRelpIbG0vdWM5akc4bFNQa3ZZNzdhZWYraW9aSUxSbW1NVEhvSzJUbGMyclladXd1OFVFbTlFT25RMGFuTHdTK2swSFlMSjR1U0J4SEZlWGdTU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzY5MjE3CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMF94NjQtc2V0dXAuZXhlCkFRMVN3VjBxNENXSHB4c3RwUFMzZFJ4TkNLRENOejVCcW96SldOS0g0bVhMUmVBVDY5Yzd5SVkyMlBaQUxISmk4OGNhU3JXL09kdUREYklVdTZuVUJRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.0/BlenkVoice-0.14.0-windows-x86_64-setup.exe"
                                          }
                   }
 }

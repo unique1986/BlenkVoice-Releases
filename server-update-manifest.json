@@ -1,18 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-22T18:34:21.3987818+00:00",
+    "generatedAtUtc":  "2026-07-23T01:14:23.5354762+00:00",
     "releases":  [
                      {
-                         "version":  "0.8.4",
+                         "version":  "0.9.0",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-22T18:34:21.3947398+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.8.4/BlenkVoice.Server-0.8.4-win-x64.zip",
-                         "sizeBytes":  3302489,
-                         "sha256":  "87b789d1727d1b4a4b64788ef4ca9b181a9228b83051b20cdbabdbda2f14866d",
-                         "signature":  "nOWSPcUGNuRmyykBFGr2NquqwAFhtcowb9Itr2wkk48dxrhLpsI2ry6W1QF6/tjQl+htS5GmnJ30JYEE14EXzLwr6pzz2Bn/In9jzL8HvmTTTib+k20QGCyN4oryXJOkHVxF1ofF0zn8MiljovUb2Ymi1Wp4QjtA0VO+WpLTMtC7qXoMiSLmG8Hik9+RxDGkM6kMvkXuAD8esQvj9Z5mo9ZH+Kw3hRC4ZIVji9sB/z8V4GW+TGSy2bHAg+6zPNfId6f3xxKpSY7P7uhWyFlYtkru8Klx7u0yA0//kOlojPfC51GkbJJ86vVlNhUGFbs6mVgzq8ZVrUmkTRku8pzMRNKnWm8O6GxPA7cSPT17QFC95wzJp51nm3gz2MeyZ3BbqFOV4MrJLpOlByJ2tBBpc/uKqjz5ApMsAt/jULJhfrPqRtvmNFiQSuc2fJwgMlxM5VDoI9JhqMW9KRA223T673QMQYvq1+HCMIBzGmKOJ1YyaZ4KdDX5ou1JUD8QElDp",
+                         "publishedAtUtc":  "2026-07-23T01:14:23.5319563+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.9.0/BlenkVoice.Server-0.9.0-win-x64.zip",
+                         "sizeBytes":  3340828,
+                         "sha256":  "c005cadc8bbfab625e70272832111c3dfc48e2b8d6d7b0ba19e66c6d112e7dab",
+                         "signature":  "gi9UdiaFQ1cgqaPLOPP6+NjMcTJchoFkfHaaonXm2WjAgcfk+0EdClKlq8i10WqS/YNUyOzhiGQrGIit3vXc9PAwLHWefImPzmcnCcLvUS3Preq46fdocFyn7PBFfKBQ176MoXfgLAAxUQgyQb4FMZlzpBlyKU4bphBnB6lF8F4hwS6ypZcjgBRMrGtwj62xcLXnofBzbGVCTD5WAbx85dMTBwlpChz3JJlAyoazCNjA/JSWQMijAtFwHsu6EKCd60PcJ7ilhgUWpjplMQ9rAIf0TP7Ws7hmmoioIfX5ngcJd+gqZtMJ3Sw84lYJ++sOoSgN4HfvIzn6/udfttdJ6JeoIsBm49yt81/q9oQFbd5o8DCmWgfe+84zPm8PGXOq6CBrPFfSh2+AF6Qc2QG3+KyjqaHVizpTgBV7L97gQWzhRjhZQiUw6fb56fwjSXuM9zBigA23YPDMzbJJtYHQqfLLKhP+tXZuC2fEl2Lj8Xnnb+oXt1x59+HNHKgobOd8",
                          "releaseNotes":  [
-                                              "Profilgeschlecht bei Kontoumwandlung erhalten und Client-Kompatibilitaet aktualisiert."
+                                              "Protokoll 17 fuer serverweite Kanalbilder, vollstaendigen Profilabgleich und versionierte Raumstruktur-Sicherungen; kompatibel mit Client 0.14.0 und blnk Base 0.7.0-preview.17."
                                           ]
                      }
                  ]
