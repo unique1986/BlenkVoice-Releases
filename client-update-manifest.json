@@ -1,11 +1,11 @@
 {
-  "version": "0.14.2",
-  "notes": "Voice-Diagnose fuer Jitter, bestaetigte Paketluecken sowie spaete und umsortierte Pakete; Codec und Streaming unveraendert.",
-  "pub_date": "2026-07-23T03:01:55.9782496+00:00",
+  "version": "0.14.3",
+  "notes": "Live-Audiogeraetewechsel mit automatischer Wiederverbindung, Geraete-Rollback und Erhalt der laufenden Bildschirmquelle.",
+  "pub_date": "2026-07-23T03:20:50.3833599+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG5rMVl3R2VDQ2ZpNUpZb2ZsK0owYlB2NTZiSzl1aERBbk1vQ3REMkJBdHlyejlUa291VzdoeGJhcUg2U2pPRnlRVHNPeUh3aGNkZHpPbHRXR2xreHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc1NzE1CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMl94NjQtc2V0dXAuZXhlCmxOSkJmU2Z3azE3SmMvZTFLQzV1N0hiWXQ1Uks4Y2NMMFZ0NHU1YnZVd3g3b1NRR21ORTRuS25zSmVLMXMzMytiSDdoWG5JSDZyTTFmaEZDY0d2T0FBPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.2/BlenkVoice-0.14.2-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHJnVXdSZDJkSmRMQjErakw3T3NuUlp5L1NpV2oydjFRM3Z2d0tDZkxmRDFEUnNXaytjL3NONUlCNE9oTnE0UFF6ZFJZR0o5aGh0ZWZCVDlzWURHRWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc2ODUwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuM194NjQtc2V0dXAuZXhlCmdKSmllNHl6bDRYdzM3RERnYXJFSXpicEtqdjhId3VybDNLUjM2NTNMT2lYUTc1bWZIeDFLQTlBSWxiQSt6djBaYmoyMTdRc3Z2Y3VnWlJxdEE0Z0JBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.3/BlenkVoice-0.14.3-windows-x86_64-setup.exe"
     }
   }
 }
