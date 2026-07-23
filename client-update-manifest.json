@@ -1,11 +1,11 @@
 {
-    "version":  "0.14.0",
-    "notes":  "Servergespeicherte Profile, serverweite Kanalbilder, Android-Paritaet und Raumstruktur-Sicherungen. Erfordert Server 0.9.0.",
-    "pub_date":  "2026-07-23T01:13:37.7973610+00:00",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGtRelpIbG0vdWM5akc4bFNQa3ZZNzdhZWYraW9aSUxSbW1NVEhvSzJUbGMyclladXd1OFVFbTlFT25RMGFuTHdTK2swSFlMSjR1U0J4SEZlWGdTU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzY5MjE3CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMF94NjQtc2V0dXAuZXhlCkFRMVN3VjBxNENXSHB4c3RwUFMzZFJ4TkNLRENOejVCcW96SldOS0g0bVhMUmVBVDY5Yzd5SVkyMlBaQUxISmk4OGNhU3JXL09kdUREYklVdTZuVUJRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.0/BlenkVoice-0.14.0-windows-x86_64-setup.exe"
-                                         }
-                  }
+  "version": "0.14.1",
+  "notes": "Stabilere Windows-Mikrofonkanalwahl; Audiofilter und Pegel ohne Verbindungs- oder Streamabbruch aktualisieren.",
+  "pub_date": "2026-07-23T02:06:49.8822917+00:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGtTMU81STZtVTZOTi9aL01maGdBNVd2NUg5eGNMcForNExwOFZBaGtPWXFTUWlRVkRFbXlSeUNheFo1ZlF5ZnlQc3B2YWJNVk1TZmdHK3FDbWdZNlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzcyNDA5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMV94NjQtc2V0dXAuZXhlClBYQUJSNS8yMm5BZTVaSDJaUVJCNU5oem5BZVVGMVRqWEY2Q3FMU3VCRE1wWkpWeUpPTW9PS0E2NG03RC9YSzNjLzdLYnFpVEVwRG5telVsUjhxNkNnPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.1/BlenkVoice-0.14.1-windows-x86_64-setup.exe"
+    }
+  }
 }
