@@ -1,11 +1,11 @@
 {
-  "version": "0.14.7",
-  "notes": "Neue gefuehrte 20-Sekunden-Qualitaetsmessung ueber den verschluesselten Server-Rundlauf mit nachvollziehbarer Transportbewertung und exportierbarem Diagnosebericht.",
-  "pub_date": "2026-07-23T05:22:20.0398305+00:00",
+  "version": "0.14.8",
+  "notes": "Lokaler Messverlauf, Vorher-Nachher-Vergleich, privater 10-Minuten-Stabilitaetslauf und ehrliche Kennzeichnung bei zu wenig Sprachmaterial.",
+  "pub_date": "2026-07-23T05:59:40.8165877+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHR0K3lCYjlrTTdtWGRpd1hpZVU2MmI5cGVSb2tVYWVJemRmTE5Eamx0aEdoYnFONUI3UCtZV1AzYVZtempwYXJrQnluNWFTTGdaQy9CLytZMlZqbndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzg0MTM5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuN194NjQtc2V0dXAuZXhlCnRuWHRLV2Z3bm9RSElaemFDbDNZNzMxTFRlT3F2U3JtbG5kbE4wdm9wOE9hSyt1YnpJMiswVllMVlNQVHFnMkpZNEF0Nk5YV05UVXh4OUlGQXRKL0J3PT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.7/BlenkVoice-0.14.7-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHRZckw4WjhkRDBOL2o3TjN1b3dUWGVOK3Zaa1lpYksxSTl5aC9Pak1yZUh2TWxjRFg4VmFGaEZkOWwzWExKNSt6Y2RibmtuZkFZanZ6Z2dkZWc2MGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzg2MzgwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuOF94NjQtc2V0dXAuZXhlCnhMWDAydVdOVENWMWl1YVhBUnRRTkU2dGJXNVhwTlR0c0ZjMlBhazVYbTJoZGVUeVg0WThXblRLNDlsckJHQkRFbXh6MllVbEdLOWZZZklNaXZRUUNRPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.8/BlenkVoice-0.14.8-windows-x86_64-setup.exe"
     }
   }
 }
