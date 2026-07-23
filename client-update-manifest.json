@@ -1,11 +1,11 @@
 {
-  "version": "0.14.5",
-  "notes": "Adaptiver Voice-Jitterpuffer mit unveraenderter Basislatenz und zusaetzlicher Netzreserve nur bei messbaren Schwankungen.",
-  "pub_date": "2026-07-23T04:02:22.7078031+00:00",
+  "version": "0.14.6",
+  "notes": "Empfaengerbasierte Opus-Anpassung mit dynamischem Fehlerschutz, aktiver Encoder-Bitrate und sichtbarer Zuhoerer-Rueckmeldung.",
+  "pub_date": "2026-07-23T04:34:50.0039619+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpEeFpyeEMwTWtOZXpndnVkdUhVaklmOXpKcXJTMk5qUjRNTVh4MHgyR2IyVG43VmJCR3hjc1V2em1SanBkN2lac0JibjlhQkQzRXVqdnRycHRHSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc5MzQyCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuNV94NjQtc2V0dXAuZXhlClVYV0V2NmZLV2VQeWdFanB0cWRXZ1hiSnZCSTIwWXJad0NEZCswZlR5UmNuNjQ1dkF1eCtyZWJhNW1EZHR3VW16U0RKa0M2YTFLY0V0NjBCdnZsbkNnPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.5/BlenkVoice-0.14.5-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG1uaEUxRE0vSjU4WWpvSTEwNSt6RWV6TXVoSWRpNWdocjN4SThUODJsRFJzTFJBbGllZG9NZXVBZHlqR05TZ0xUZFVGMXZEQ2JXaytwbHZXc1c1QUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzgxMjg5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuNl94NjQtc2V0dXAuZXhlCnVvWXc2ZmlJOVU3UWpvUC9qb1ZCQUhzSGdBK0ovOHJjRkFjOFhvdG9aVnZMM0RUUTA1QWVqcmlQeWxWQnJDWmRPWVBKelBjQWo2TTE0QTZ4UFFNL0NnPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.6/BlenkVoice-0.14.6-windows-x86_64-setup.exe"
     }
   }
 }
