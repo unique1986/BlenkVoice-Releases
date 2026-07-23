@@ -1,11 +1,11 @@
 {
-  "version": "0.14.10",
-  "notes": "Neue lokale Opus-Verlustsimulation mit reproduzierbarer FEC- und PLC-Auswertung fuer alle Qualitaetsprofile.",
-  "pub_date": "2026-07-23T07:36:25.1205761+00:00",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHR0MWVxOGg3Z1o2aUYwMlVFcjc2UDdLZDVFVVA4dFA1aFBVbVIxaWNXOGVHMmRDOWorYW94eEJMbitvdDJEUC8zQTQwNzVUdzR4T2I0YTRGK1ZzMUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzkyMTg0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMTBfeDY0LXNldHVwLmV4ZQpDaEZCdEdsbWw4QUd3ZWd4YzZIdHN5bHlKbHB5MzJIckpJeDBzaEd2MURRanlrTkJIRVpIRmhTZTBWWnFmcmdQMVUxaTB1NWsrWVdqT3pHUUhGb25BUT09Cg==",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.10/BlenkVoice-0.14.10-windows-x86_64-setup.exe"
-    }
-  }
+    "version":  "0.14.12",
+    "notes":  "Lounge-Medienleiste, sofortiges Verlassen, Voice-Dock-Auswahl und native StreamauflÃ¶sung.",
+    "pub_date":  "2026-07-23T13:17:11.8540533+00:00",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHBsem1tbXpMV2k4aGI1c2hWSGF0czZKS2tTYWl2dkJER2x5WFU4elV0NW1wUGx4eGRQMDhnTk02NWQvVVRTNGZmeUQvdklpODFSOThvZXVvdnhOV1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODEyNjMxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMTJfeDY0LXNldHVwLmV4ZQpFZWdFaVBObDhrNHNwaVdSS3hNeEEra01SSmUzWmlKTEJNSVZYZDRZWkZvQzVjeWZOU2tCN1dnNnNUd20zZUpqZWI4NDR0YXJLcGg1ZkQ1aDQzVzFDUT09Cg==",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.12/BlenkVoice-0.14.12-windows-x86_64-setup.exe"
+                                         }
+                  }
 }
