@@ -1,11 +1,11 @@
 {
-  "version": "0.14.8",
-  "notes": "Lokaler Messverlauf, Vorher-Nachher-Vergleich, privater 10-Minuten-Stabilitaetslauf und ehrliche Kennzeichnung bei zu wenig Sprachmaterial.",
-  "pub_date": "2026-07-23T05:59:40.8165877+00:00",
+  "version": "0.14.9",
+  "notes": "Objektive lokale Codec-Signalintegritaetspruefung fuer stille Frames, Uebersteuerungen, Signalspruenge und reproduzierbare Profilabweichungen.",
+  "pub_date": "2026-07-23T06:53:34.8423143+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHRZckw4WjhkRDBOL2o3TjN1b3dUWGVOK3Zaa1lpYksxSTl5aC9Pak1yZUh2TWxjRFg4VmFGaEZkOWwzWExKNSt6Y2RibmtuZkFZanZ6Z2dkZWc2MGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzg2MzgwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuOF94NjQtc2V0dXAuZXhlCnhMWDAydVdOVENWMWl1YVhBUnRRTkU2dGJXNVhwTlR0c0ZjMlBhazVYbTJoZGVUeVg0WThXblRLNDlsckJHQkRFbXh6MllVbEdLOWZZZklNaXZRUUNRPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.8/BlenkVoice-0.14.8-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZQNkhFcVpQbnJXRFVSNlRPRUhkcHVqc1I2SitXKy8vclVyb3VyM0VuU2twbTR4aDNvNkN0NFMzSGtZNEh5SEhydUhrZ1ZrR2puUUFBeVpTa3RYYWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzg5NTY5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuOV94NjQtc2V0dXAuZXhlCnBKcnM5OWR2aUsrRWFWQjFUanNERWMwSzJFWXFsVCtOWFpPQ1gzbm5Yd1h0bzVTSE5xNTd5cm1yN2czazRnUmZmS1BRK2cxNklLN3VpOXFvV20vOUNBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.9/BlenkVoice-0.14.9-windows-x86_64-setup.exe"
     }
   }
 }
