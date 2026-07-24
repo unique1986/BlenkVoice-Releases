@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.4",
-    "notes":  "Freigegebene zweigeteilte Desktop-Anmeldung, klar getrennte UpdateprÃ¼fung und Installation nur nach ausdrÃ¼cklicher BestÃ¤tigung",
-    "pub_date":  "2026-07-24T17:31:30.5292818+00:00",
+    "version":  "0.17.5",
+    "notes":  "Besitzer kÃ¶nnen aktive Mitglieder direkt Ã¼ber die Personenleiste vom Server kicken",
+    "pub_date":  "2026-07-24T17:48:02.0839605+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGsxTVBWSXp1RUVTMHlIemFyalpHQ25LeDZTc0ZER0RMcVVWUy80Q3FNUXA2NTlwcmFtQjI3OUNlMkZ6TnZVRmVveWcyTWMvd1dwVVQwaU8xcGdsM0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE0MjkwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNF94NjQtc2V0dXAuZXhlCmZCY1dxY3Z3Zldmclp5SHRuY0lsNG13b3lsZXhRODhpTFRrUklTRmxYOVNQQUh2b1JqUXVHOGZlTVo2ZWdWalFlSUFvc0llUGp3eGU2V092V1h5SEFnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.4/BlenkVoice-0.17.4-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHNRMGR6SC94QnhoQkFvQXQxUFVKUk5NYitvSlpGUW8yeE5meU9RU2FzL255RUYya05PNEMxSjdvaFV2ZEJ6bWlERUl1dnJkZkVhZUloRjlSQWp2Unc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE1MjgxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNV94NjQtc2V0dXAuZXhlCkxZVlp1aWV1dEJPV2xCN0hHNkFacXJOT1ZtU09PSzIrdm1tUmhzWnJiZGxRUlJLTTBPemd1ZmUxbHVJV1F5YmkwWkozbGRZOFlKT0hITTg5aittckJRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.5/BlenkVoice-0.17.5-windows-x86_64-setup.exe"
                                          }
                   }
 }

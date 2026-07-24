@@ -1,9 +1,9 @@
 {
-    "version":  "0.17.4",
-    "versionCode":  17004,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.4/BlenkVoice-Android-v0.17.4-arm64.apk",
-    "sha256":  "ac45899a72e838e20706a78cf23c48ef52256beefe1161b13d42f0ace93d9716",
-    "notes":  "Freigegebene zweigeteilte Desktop-Anmeldung, klar getrennte UpdateprÃ¼fung und Installation nur nach ausdrÃ¼cklicher BestÃ¤tigung",
+    "version":  "0.17.5",
+    "versionCode":  17005,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.5/BlenkVoice-Android-v0.17.5-arm64.apk",
+    "sha256":  "aef56f219e4811f17450dd646e6dcef5615f9ff7aa112b6dc3288e4bececc865",
+    "notes":  "Besitzer kÃ¶nnen aktive Mitglieder direkt Ã¼ber die Personenleiste vom Server kicken",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2"
 }
