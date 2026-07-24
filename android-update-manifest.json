@@ -1,12 +1,7 @@
 {
-  "schemaVersion": 1,
-  "product": "blnk Voice Android",
-  "version": "0.14.12",
-  "versionCode": 14012,
-  "minSdk": 26,
-  "architecture": "arm64-v8a",
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.12/BlenkVoice-Android-v0.14.12-arm64.apk",
-  "sha256": "e7041fc956d858d4e8857f84e190723c1205104ca85533382453be1ffc332b23",
-  "sizeBytes": 80366933,
-  "notes": "Lounge-Medienleiste, sofortiges Verlassen, Voice-Dock-Auswahl und native Streamauflösung. Kompatibel mit blnk Voice Server 0.9.1."
+    "version":  "0.15.0",
+    "versionCode":  15000,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.15.0/BlenkVoice-Android-v0.15.0-arm64.apk",
+    "sha256":  "1037eefdafe6937658194fcd33bc9f449d802e62063d0bb16c6cbe619a504368",
+    "notes":  "Lebendige Survival-, Shooter- und FestivalrÃ¤ume; servergespeicherter Status; native Audioformate"
 }
