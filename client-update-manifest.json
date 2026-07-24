@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.3",
-    "notes":  "Korrigierte Verbindungsansicht ohne weiÃŸe Scrollleisten und fotorealistisches Survival-Feuer ohne kÃ¼nstliche Zusatzflammen",
-    "pub_date":  "2026-07-24T17:00:15.0323509+00:00",
+    "version":  "0.17.4",
+    "notes":  "Freigegebene zweigeteilte Desktop-Anmeldung, klar getrennte UpdateprÃ¼fung und Installation nur nach ausdrÃ¼cklicher BestÃ¤tigung",
+    "pub_date":  "2026-07-24T17:31:30.5292818+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGdIOEJmOVBFbnZCUWlENW14SHhlc0p5dUJlMjJubUgzdjZTZG02TFRwRHQwWS8zZmlLd3VkaXBicVA2VDVnTkhiTDRCOEZHcENuU1NRRXc3SlhNK0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTEyNDE0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuM194NjQtc2V0dXAuZXhlClNza1ozRExwdURoSWhvVmp5UVFONjJ2V3ozOHNJMUZGbS9iaWk4Wi9zTXZsSjdpQS9Zb0hBbithT0ZYaGVRUHB4MTUvTW1CM01PVkw2YWRSTUVFQ0JRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.3/BlenkVoice-0.17.3-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGsxTVBWSXp1RUVTMHlIemFyalpHQ25LeDZTc0ZER0RMcVVWUy80Q3FNUXA2NTlwcmFtQjI3OUNlMkZ6TnZVRmVveWcyTWMvd1dwVVQwaU8xcGdsM0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE0MjkwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNF94NjQtc2V0dXAuZXhlCmZCY1dxY3Z3Zldmclp5SHRuY0lsNG13b3lsZXhRODhpTFRrUklTRmxYOVNQQUh2b1JqUXVHOGZlTVo2ZWdWalFlSUFvc0llUGp3eGU2V092V1h5SEFnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.4/BlenkVoice-0.17.4-windows-x86_64-setup.exe"
                                          }
                   }
 }
