@@ -1,18 +1,20 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-23T04:35:38.5638370+00:00",
+    "generatedAtUtc":  "2026-07-24T10:52:10.1071054+00:00",
     "releases":  [
                      {
-                         "version":  "0.9.1",
+                         "version":  "0.10.0",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-23T04:35:38.5584500+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.9.1/BlenkVoice.Server-0.9.1-win-x64.zip",
-                         "sizeBytes":  3344710,
-                         "sha256":  "f97539f486faea6da7c095fa623d0a55860c3578726d60ad38b4f553aff947b2",
-                         "signature":  "O83R10tPSFoAWzKUERnit5eYSr2M+QjyHGP0WvwnmIY0G2DuVH5vWSnJqcYXMH+wcjeVCBQqshRBZPNWraFWWlQlLC24F1BMDgJpAIbovJQyL1gzdDtiV9H7ZlET3oF6ncxLCuBPC8ndBii0pkvHrotgNxAOXpQZih0UG/g//1vbjlamEKmiE2Ay9y1vjCCv718BMPS4XPOGhqs0wd3UpBbsW5+MbhnhiKdlMSG7oNlZxCu47hCXrKa4OWsbaUHyK591p5Xgm08JdWsHW1ajBYXsaQKcvmTMW4Neqgy1HqyS8fSFbFtQBDhDm+HtyDP3X7+Ta/+ocAo/z6n17MKaSLBkvlY2mblqSFUQA5bg0YZLGOOSkCSFNHiexxaoEIjql2ul/+yNPDAnF+TMCnTUZmzCJGH9sHUr4NVR+uDZNavYZ1NgA3RJ+5+6d8Bn0MvL1VxKcRR9JO958NMKQiOfjshHPp9LjNQOxndoe/jAXkLhofDH98WZxZX0U4GK8H1G",
+                         "publishedAtUtc":  "2026-07-24T10:52:10.1055409+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.10.0/BlenkVoice.Server-0.10.0-win-x64.zip",
+                         "sizeBytes":  4288682,
+                         "sha256":  "fa3ce0323f3562fc1bccdaaee8b976b4118a66b47c259ea901c3d07e85713f88",
+                         "signature":  "Q1xzmcM+Nt5p9XEYOd1O3B1DJOw4eJMLJVw1dvvE6ytFfRDjfnV1P2EpZ2pbfmoOE0DCwnK/tCqi8aZefFpM0gOi3C3lDMGxg8PEBNFhOqwc2O/cCz4lDfh/hCtpzMxNCM17Rbq6NHvKXZQ90TDIxlosoTTzRImEOx4S2H2sC8+D17HtyZJWGN1Iijzn7LbFe3Sk9j+IEnP7DFLtdSVY2Zn9oubShLyjznT7u+0ccpBlb8RHYCB9TX3o3pnh+mi9aO/Pz8bdWuaB5gnjFfMdl9Ftgcez/zwXWgKN4JXdkY6qaseqszYHvbnYN/5/0Wsp5L/pmQ59YgTJDBBgPnYKg4N5QHuJwpx3R6iOxc+UJY3KpdE8HgEqzuj19ULuOo3LAhzHpDceXvuTK3oQu9g1GHLliwciocOhkxYOXIz4lRFygt4pApqLZjDib0mTKRSCQye4U3XuAN6QhJRWrIfyufpQR7lyo+V0zbT7vknNi/AH34CeLSNqum7ziPpDeEyz",
                          "releaseNotes":  [
-                                              "Protokoll 18: validierte empfaengerbasierte Voice-Netzberichte werden ausschliesslich an den betroffenen Sprecher weitergeleitet; kompatibel mit Client 0.14.6."
+                                              "Kontrollprotokoll 20 fÃ¼r den servergespeicherten Profilstatus",
+                                              "Kompatibel mit blnk Voice Client 0.15.0",
+                                              "Bestehende Instanzdaten und ServeridentitÃ¤t bleiben erhalten"
                                           ]
                      }
                  ]
