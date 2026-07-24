@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.8",
-    "notes":  "Legacy Windows installations are migrated once to the canonical blnk Voice path",
-    "pub_date":  "2026-07-24T19:19:14.5498341+00:00",
+    "version":  "0.17.9",
+    "notes":  "blnk Bot mit Begruessung, Hilfe, Radio, YouTube, Twitch und optionaler lokaler Ollama-Gespraechs-KI",
+    "pub_date":  "2026-07-24T22:27:58.7338392+00:00",
     "required":  false,
-    "minimumSupportedVersion":  "0.17.2",
+    "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlzZHV4Smh3QjRYeVBvN2xTd0h5Z2NnRnhDbHBFRkh5MXI4SjNpRDk2dlU5Tm12K0hLTldGWlRHTll1M095aW9zMHE1Q2ZDampldldZc1F3R203cFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTIwNzU0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuOF94NjQtc2V0dXAuZXhlCnFrTlpjN3A2bHBBbThMY1h4Z20wbzJoWmVFTUxXUVY5M1NrWFZPejA5U0pMRmJRRW50T1F0bEZteTYxTmlONVFObHB1MFQySDN1UkZGbHExbUVhdkJnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.8/BlenkVoice-0.17.8-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHB0MGFGZFlJN2N3OGE4TXExbWRnc1NZdzhWdU9EK3piTnpoMWNjeWhMYms5TEh0WElvRkZpaGlWdlBQUytQQ0I5b2dCSGlMMXQwQ0RLelViYjFTNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTMyMDc4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuOV94NjQtc2V0dXAuZXhlCkxyRTQ3eVhUa0E1NkQxUmdJcjFhUmdEVWlLSmkyTmo0UkJpNlFOYTVjWFczeVBSYjk2VHlhcGtva053Z3YrUXJHVDRkRVdOUys4aWszWStsVGNLZEJnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.9/BlenkVoice-0.17.9-windows-x86_64-setup.exe"
                                          }
                   }
 }

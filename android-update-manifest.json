@@ -1,9 +1,9 @@
 {
-    "version":  "0.17.7",
-    "versionCode":  17007,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.7/BlenkVoice-Android-v0.17.7-arm64.apk",
-    "sha256":  "6b1282cfea0c760824e21eff3cae0d746dd9674acd7d36d767d88e00b05a2a49",
-    "notes":  "StartprÃ¼fung und Installation strikt getrennt: Updates werden nur noch nach einem echten Klick heruntergeladen und installiert",
+    "version":  "0.17.9",
+    "versionCode":  17009,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.9/BlenkVoice-Android-v0.17.9-arm64.apk",
+    "sha256":  "63480dcc8ec234402242c8a8d46a32962d0173cf775d86a1bb4f5c091045bf76",
+    "notes":  "blnk Bot mit Begruessung, Hilfe, Radio, YouTube, Twitch und optionaler lokaler Ollama-Gespraechs-KI",
     "required":  false,
-    "minimumSupportedVersion":  "0.17.2"
+    "minimumSupportedVersion":  null
 }
