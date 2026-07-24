@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.7",
-    "notes":  "StartprÃ¼fung und Installation strikt getrennt: Updates werden nur noch nach einem echten Klick heruntergeladen und installiert",
-    "pub_date":  "2026-07-24T18:17:04.4017802+00:00",
+    "version":  "0.17.8",
+    "notes":  "Legacy Windows installations are migrated once to the canonical blnk Voice path",
+    "pub_date":  "2026-07-24T19:19:14.5498341+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHRHYXBpMWxzM2Q2MjZwbDE0SGJVWm9OZThrSXBkY0l2cnpwc21XQ2tDNXY2N3Q5aFA2RStaaDJzTGk0LzZrZWUyaExhNm96aXM4NVBUSHBqY3V6cEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE3MDI0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuN194NjQtc2V0dXAuZXhlClc4U0VZVnR3c09hZnZXeXZOSzZ2WklxcytkL3J0SWk4bXg2b2hBcjdxUDZVakkvY3NYUXVERUJXM2NadEhhY0htRHZWVzFReEt4Q0hRZkp2bGFvM0FBPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.7/BlenkVoice-0.17.7-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlzZHV4Smh3QjRYeVBvN2xTd0h5Z2NnRnhDbHBFRkh5MXI4SjNpRDk2dlU5Tm12K0hLTldGWlRHTll1M095aW9zMHE1Q2ZDampldldZc1F3R203cFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTIwNzU0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuOF94NjQtc2V0dXAuZXhlCnFrTlpjN3A2bHBBbThMY1h4Z20wbzJoWmVFTUxXUVY5M1NrWFZPejA5U0pMRmJRRW50T1F0bEZteTYxTmlONVFObHB1MFQySDN1UkZGbHExbUVhdkJnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.8/BlenkVoice-0.17.8-windows-x86_64-setup.exe"
                                          }
                   }
 }
