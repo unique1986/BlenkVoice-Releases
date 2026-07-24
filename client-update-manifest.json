@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.5",
-    "notes":  "Besitzer kÃ¶nnen aktive Mitglieder direkt Ã¼ber die Personenleiste vom Server kicken",
-    "pub_date":  "2026-07-24T17:48:02.0839605+00:00",
+    "version":  "0.17.6",
+    "notes":  "Fotorealistische, tatsÃ¤chlich bewegte Survival-Flammen statt pulsierender FeuerflÃ¤che",
+    "pub_date":  "2026-07-24T18:01:47.2560724+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHNRMGR6SC94QnhoQkFvQXQxUFVKUk5NYitvSlpGUW8yeE5meU9RU2FzL255RUYya05PNEMxSjdvaFV2ZEJ6bWlERUl1dnJkZkVhZUloRjlSQWp2Unc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE1MjgxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNV94NjQtc2V0dXAuZXhlCkxZVlp1aWV1dEJPV2xCN0hHNkFacXJOT1ZtU09PSzIrdm1tUmhzWnJiZGxRUlJLTTBPemd1ZmUxbHVJV1F5YmkwWkozbGRZOFlKT0hITTg5aittckJRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.5/BlenkVoice-0.17.5-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlsNkkzUFgrbUlYTGpnV2MzWlBMK0ZaU1NQcEh5YXZPanRaSVNhT01wUlZyRjdhdEdGSWpvNGsvYTJqNWYrZG1mclI4VE9XeVFQM0xCd1dlWGdlNUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE2MTA2CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNl94NjQtc2V0dXAuZXhlCmlHTXRBZVByM01wK0krN3o0V3RIN3lONU4xdmpWbXk2TUlFZnNPMUJDWFZycFV0TUs4bUx0L2MxQVlKQXRFc2FvcDFOeE5BYUkvV1NGWG9mQUxJb0FnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.6/BlenkVoice-0.17.6-windows-x86_64-setup.exe"
                                          }
                   }
 }
