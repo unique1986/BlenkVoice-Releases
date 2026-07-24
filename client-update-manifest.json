@@ -1,11 +1,11 @@
 {
-    "version":  "0.14.12",
-    "notes":  "Lounge-Medienleiste, sofortiges Verlassen, Voice-Dock-Auswahl und native StreamauflÃ¶sung.",
-    "pub_date":  "2026-07-23T13:17:11.8540533+00:00",
+    "version":  "0.15.0",
+    "notes":  "Lebendige Survival-, Shooter- und FestivalrÃ¤ume; servergespeicherter Status; native Audioformate",
+    "pub_date":  "2026-07-24T10:51:22.8434144+00:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHBsem1tbXpMV2k4aGI1c2hWSGF0czZKS2tTYWl2dkJER2x5WFU4elV0NW1wUGx4eGRQMDhnTk02NWQvVVRTNGZmeUQvdklpODFSOThvZXVvdnhOV1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODEyNjMxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTQuMTJfeDY0LXNldHVwLmV4ZQpFZWdFaVBObDhrNHNwaVdSS3hNeEEra01SSmUzWmlKTEJNSVZYZDRZWkZvQzVjeWZOU2tCN1dnNnNUd20zZUpqZWI4NDR0YXJLcGg1ZkQ1aDQzVzFDUT09Cg==",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.14.12/BlenkVoice-0.14.12-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGk0dFkxQXU3eHhQeEJ3bTdFZW9GV1FPb3NRSUFlOTFkODdQTHZ0eDVySjBqcGZabXQwRVRCZUowQTA0Q3FnWklJNkkrSXYwRUwyMEEwaUVhUTk2K3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODkwMjgyCWZpbGU6YmxuayAtIFZvaWNlXzAuMTUuMF94NjQtc2V0dXAuZXhlCit3cnlwdi85WWI0VmtQbmdyeTFPY0hCcGN5KzM2clBXQzdzckY5bWN4RDhFZkNreEh4WDd6N1Q1N2FSWVUvb3BaOEYvcUxEMkQvS2V0UGgrKzRLdUF3PT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.15.0/BlenkVoice-0.15.0-windows-x86_64-setup.exe"
                                          }
                   }
 }
