@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.2",
-    "notes":  "Keine Update-Schleife mehr, direkter Besitzer-Kick, realistischeres Survival-Feuer und modernisierte Verbindung",
-    "pub_date":  "2026-07-24T16:22:36.6388917+00:00",
+    "version":  "0.17.3",
+    "notes":  "Korrigierte Verbindungsansicht ohne weiÃŸe Scrollleisten und fotorealistisches Survival-Feuer ohne kÃ¼nstliche Zusatzflammen",
+    "pub_date":  "2026-07-24T17:00:15.0323509+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHJEUExUT1I0OHlPOGRORTBRY1hZVVNXU1gzN2wydUdSZnhDU24xM21PdkZ1T2I0ZkUvdVdSci9xUFQ2aXR2c2k1ajdoVFI5VjFiVXRnbXk3U00zR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTEwMTU2CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuMl94NjQtc2V0dXAuZXhlCnYxWUlmYnZoWUhUaXpsdlFBTjRoMmFpOEwrdzVmQjFWTFErNzNVYnlKS0Y1TUxHTDN3L2hnYkJFY1Y0cklZNVBITGdheWpUam9GR2NZbC9DOXVnUEFRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.2/BlenkVoice-0.17.2-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGdIOEJmOVBFbnZCUWlENW14SHhlc0p5dUJlMjJubUgzdjZTZG02TFRwRHQwWS8zZmlLd3VkaXBicVA2VDVnTkhiTDRCOEZHcENuU1NRRXc3SlhNK0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTEyNDE0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuM194NjQtc2V0dXAuZXhlClNza1ozRExwdURoSWhvVmp5UVFONjJ2V3ozOHNJMUZGbS9iaWk4Wi9zTXZsSjdpQS9Zb0hBbithT0ZYaGVRUHB4MTUvTW1CM01PVkw2YWRSTUVFQ0JRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.3/BlenkVoice-0.17.3-windows-x86_64-setup.exe"
                                          }
                   }
 }
