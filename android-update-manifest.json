@@ -1,9 +1,9 @@
 {
-    "version":  "0.17.6",
-    "versionCode":  17006,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.6/BlenkVoice-Android-v0.17.6-arm64.apk",
-    "sha256":  "2adb306911ee517c45d290515894ef0bf133bdfd1d5811d95fcc1a7ecce566c1",
-    "notes":  "Fotorealistische, tatsÃ¤chlich bewegte Survival-Flammen statt pulsierender FeuerflÃ¤che",
+    "version":  "0.17.7",
+    "versionCode":  17007,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.7/BlenkVoice-Android-v0.17.7-arm64.apk",
+    "sha256":  "6b1282cfea0c760824e21eff3cae0d746dd9674acd7d36d767d88e00b05a2a49",
+    "notes":  "StartprÃ¼fung und Installation strikt getrennt: Updates werden nur noch nach einem echten Klick heruntergeladen und installiert",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2"
 }

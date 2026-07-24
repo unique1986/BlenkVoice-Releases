@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.6",
-    "notes":  "Fotorealistische, tatsÃ¤chlich bewegte Survival-Flammen statt pulsierender FeuerflÃ¤che",
-    "pub_date":  "2026-07-24T18:01:47.2560724+00:00",
+    "version":  "0.17.7",
+    "notes":  "StartprÃ¼fung und Installation strikt getrennt: Updates werden nur noch nach einem echten Klick heruntergeladen und installiert",
+    "pub_date":  "2026-07-24T18:17:04.4017802+00:00",
     "required":  false,
     "minimumSupportedVersion":  "0.17.2",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlsNkkzUFgrbUlYTGpnV2MzWlBMK0ZaU1NQcEh5YXZPanRaSVNhT01wUlZyRjdhdEdGSWpvNGsvYTJqNWYrZG1mclI4VE9XeVFQM0xCd1dlWGdlNUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE2MTA2CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuNl94NjQtc2V0dXAuZXhlCmlHTXRBZVByM01wK0krN3o0V3RIN3lONU4xdmpWbXk2TUlFZnNPMUJDWFZycFV0TUs4bUx0L2MxQVlKQXRFc2FvcDFOeE5BYUkvV1NGWG9mQUxJb0FnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.6/BlenkVoice-0.17.6-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHRHYXBpMWxzM2Q2MjZwbDE0SGJVWm9OZThrSXBkY0l2cnpwc21XQ2tDNXY2N3Q5aFA2RStaaDJzTGk0LzZrZWUyaExhNm96aXM4NVBUSHBqY3V6cEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE3MDI0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuN194NjQtc2V0dXAuZXhlClc4U0VZVnR3c09hZnZXeXZOSzZ2WklxcytkL3J0SWk4bXg2b2hBcjdxUDZVakkvY3NYUXVERUJXM2NadEhhY0htRHZWVzFReEt4Q0hRZkp2bGFvM0FBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.7/BlenkVoice-0.17.7-windows-x86_64-setup.exe"
                                          }
                   }
 }
