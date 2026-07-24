@@ -4,6 +4,6 @@
     "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.1/BlenkVoice-Android-v0.17.1-arm64.apk",
     "sha256":  "6803171842827a56a3806a7b1aad179b641c46969e5224fc496dd945436940d9",
     "notes":  "Neuer transparenter Update-Startbildschirm, verpflichtende Kompatibilitaetsupdates und korrigierte Serververwaltung",
-    "required":  true,
+    "required":  false,
     "minimumSupportedVersion":  "0.17.1"
 }
