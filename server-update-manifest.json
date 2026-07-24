@@ -1,19 +1,19 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-24T14:27:13.5477874+00:00",
+    "generatedAtUtc":  "2026-07-24T16:23:39.9422297+00:00",
     "releases":  [
                      {
-                         "version":  "0.12.0",
+                         "version":  "0.12.1",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-24T14:27:13.5467893+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.12.0/BlenkVoice.Server-0.12.0-win-x64.zip",
-                         "sizeBytes":  4448234,
-                         "sha256":  "33a4cfa23cd7f2e437916ea495cee468197ecef99861d228a4aa43710e021c34",
-                         "signature":  "S4vPKjCvAATQn8w2vCOcl+K6DWFTZnwZstXJdvHexvpR93g+YJthOH2a2i+i8/icnLACdjnqxF+l2YvsIsqjTuTszelUlMi/pP9Ey2VgpO9mfg4AQcFuVrgEInZxALpZlquYmRdrp1aY7kHEjDsAMHBGP3kuYMp423ELhRlEYFmLAW57EBszuuyW5bmjiPziLOL/0BB7U+2wqrTiAVg0aGtFkt6ISubapt1mEQ52ItGkyOwJCJX6XOPHlk/hfPkuIgBGKLlX1BeBNAvlF2+v1A4PqTpJr/sQQMd17wOkThRM6xGBBCvDPqJu8BtHoF/O3PhE8Yaj76296z2chMsAHuDLs148EH73sn6nR02l8o/tUx9QT4er9ZBEoJPEBj8nuuT3Hf/NG80bj/NBWNXYw5PJqV2N5DXkyBDoJ9zGOMi0OYreZpVtyGvaY4uLqhkGPOzryj96ogR+OYMJPmQSvimV4eASy4I0BZVLsTX40aAkDX5M4SoUXQKUOv+Hw0nB",
+                         "publishedAtUtc":  "2026-07-24T16:23:39.9402296+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.12.1/BlenkVoice.Server-0.12.1-win-x64.zip",
+                         "sizeBytes":  4447713,
+                         "sha256":  "8eec749322902d824d64606a3b4be55c47427842d33bc1e1e4d20d73c1d0e6ba",
+                         "signature":  "lfTVoBpmJ3bWZRhD5Wu9Fg8MXBuiBBR1HMMCS4SjrnWXtNl6L7WJvJ12sK4CFXzFO8BjKVs/h3+6PBzh/KtN6jdBunmG9+4yhmAJzcPQ3ChsIQ99ovTx8CnG8jYycIUakU/E1P03qWJqH2j1FomcRdkTrNPTR2r6NqPW353X70g0OATF2Kzx4sgGOkdz7bvfOdMQNXxkR7KqTuoC+dnlhxkoiVi6qBGawM+r4QEo9fNzW7Fy1gH50nZE47MSSmR+E3gEs/kDPQ11NapEUwZsCkYJl1yM8J0GkgibYrEW+ou6h9EpQlPjpnsk1s4zbNf7YvRZfnIjwzat7TIkRfPDSKFXzsIbLnH83ERr965w/J5iEAPmIMQ9yXjzwr+q+WlGhaTSAezDsgxSiuQeQhLstrsAGjEvnN3vClXkgm2fMlRR7YOaux9UZB6RztKh7hBF0KxFtSLg8VGJfgn31eWnjLPuN4JBDNgNaY4dYlt728BY0+wkjr1mWiEG8sPjyICJ",
                          "releaseNotes":  [
-                                              "Kontrollprotokoll 22 fÃ¼r direkte Chat-Antworten und servergeprÃ¼fte ErwÃ¤hnungen",
-                                              "Kompatibel mit blnk Voice Client 0.17.0",
+                                              "Kontrollprotokoll 23 fÃ¼r stabile MitgliedsidentitÃ¤ten und direkte Moderation",
+                                              "Kompatibel mit blnk Voice Client 0.17.2",
                                               "Bestehende ChatverlÃ¤ufe werden ohne Datenverlust auf Schema 2 migriert",
                                               "Instanzdaten, ServeridentitÃ¤t und Administration bleiben erhalten"
                                           ]

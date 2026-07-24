@@ -1,9 +1,9 @@
 {
-    "version":  "0.17.1",
-    "versionCode":  17001,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.1/BlenkVoice-Android-v0.17.1-arm64.apk",
-    "sha256":  "6803171842827a56a3806a7b1aad179b641c46969e5224fc496dd945436940d9",
-    "notes":  "Neuer transparenter Update-Startbildschirm, verpflichtende Kompatibilitaetsupdates und korrigierte Serververwaltung",
+    "version":  "0.17.2",
+    "versionCode":  17002,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.2/BlenkVoice-Android-v0.17.2-arm64.apk",
+    "sha256":  "48299d91222e6a057795ab317c7965f6a3bd14150afe4e40bc5046c5b2905845",
+    "notes":  "Keine Update-Schleife mehr, direkter Besitzer-Kick, realistischeres Survival-Feuer und modernisierte Verbindung",
     "required":  false,
-    "minimumSupportedVersion":  "0.17.1"
+    "minimumSupportedVersion":  "0.17.2"
 }
