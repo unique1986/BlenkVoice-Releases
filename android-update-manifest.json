@@ -1,7 +1,7 @@
 {
-    "version":  "0.15.0",
-    "versionCode":  15000,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.15.0/BlenkVoice-Android-v0.15.0-arm64.apk",
-    "sha256":  "1037eefdafe6937658194fcd33bc9f449d802e62063d0bb16c6cbe619a504368",
-    "notes":  "Lebendige Survival-, Shooter- und FestivalrÃ¤ume; servergespeicherter Status; native Audioformate"
+    "version":  "0.17.0",
+    "versionCode":  17000,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.17.0/BlenkVoice-Android-v0.17.0-arm64.apk",
+    "sha256":  "df6447faf7f8a01be601f2b894cbd4732e049212752d17bd4f6d45af7ad72176",
+    "notes":  "Chat-Antworten, servergeprÃ¼fte ErwÃ¤hnungen, Personenansicht und verlustfreie Chatdaten-Migration"
 }
