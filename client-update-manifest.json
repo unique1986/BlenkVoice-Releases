@@ -1,11 +1,13 @@
 {
-    "version":  "0.17.0",
-    "notes":  "Chat-Antworten, servergeprÃ¼fte ErwÃ¤hnungen, Personenansicht und verlustfreie Chatdaten-Migration",
-    "pub_date":  "2026-07-24T14:26:04.4236603+00:00",
+    "version":  "0.17.1",
+    "notes":  "Neuer transparenter Update-Startbildschirm, verpflichtende Kompatibilitaetsupdates und korrigierte Serververwaltung",
+    "pub_date":  "2026-07-24T15:40:33.6510038+00:00",
+    "required":  true,
+    "minimumSupportedVersion":  "0.17.1",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGdxcU9oTVM2bHI4SFhuamVRcnpLVVpNZDFDTFdTQzNNMmdtMHl2UTB2RGhzTVpJaFhmUnMzUUpsamZlVm5SVEJGYzQ5dXJkSWlKYVVhb0dLU3FUcnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTAzMTY0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuMF94NjQtc2V0dXAuZXhlClNBMUVyMFVhUnNoYVNBWEVuSnpHSXFQU3FrQUlmdXJCVGdXdzkvL2IzZG8vbHYxdmwxaCs2NW03T2lKYWVzU1JhcTJaL2FXa2o3S2NoUWswQk5XNkJ3PT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.0/BlenkVoice-0.17.0-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHNlZC9vUU9OTCtwWDBudVJPQ2V2TEJETnNCYjVOeFF0ZVFwUmJFVmExb1RDdVAwaytMK1lsRVBWd0NZZUx5MHdHVGhEK05EQnJQWHVqeVpiRHcrTXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA3NjMzCWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuMV94NjQtc2V0dXAuZXhlCmxtTk84eVB1aFpSTklQTWRvR0xKR2RSQ25oRFd4VjI1SUdiQ3NPeVd5UzQ5WUJiN1FETW1mNEVJLy9xaWg1ME80K1NVWCtSRFVjcmNjQ2Jzay95bUNRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.1/BlenkVoice-0.17.1-windows-x86_64-setup.exe"
                                          }
                   }
 }
