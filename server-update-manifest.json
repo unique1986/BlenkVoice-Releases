@@ -1,22 +1,22 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T07:49:29.2926766+00:00",
+    "generatedAtUtc":  "2026-07-25T08:58:56.6869684+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.1",
+                         "version":  "0.13.2",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T07:49:29.2906754+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.1/BlenkVoice.Server-0.13.1-win-x64.zip",
-                         "sizeBytes":  5016866,
-                         "sha256":  "399a6fc946f922cf4c2ac57b05b8a71256d737f1fbcd7f2c22d5005b7d093451",
-                         "signature":  "VJjz9hwVD720XJ+ICq4H/yhsxZ1AIUAJf/7jmSwVOcA6TdeifD0toVjrh10aR27q9HGI3DRciu2Ef8VG7sVg9Y/2u2UdJEGBm2rc6PwupFdViT65CfTo5BpPw1Fp2ZcEwkFZBJnfmOTw/xeTmThewTAihMD4LgYYk0F7yE2JoWbJsYws8SBE59g4lxCuYET/1bGC89SJrKKLwedqvd5x2nopm125ioGufQQ98+HPQfg13T7uhpvp5HLm1pLy2xcSeeppl+CDTR9XdEZmdw1mdL5oRLGlicr/0Fe2B1n+sTqDd8B3niQkmJ37C1TO5Kje7n1tKmtivnL2ws63TLjcGhZXpITuIdi+TINnnWdPiPwqMDkf+B24UZA8BtcxzPaDBR9rZRrn3Ezf/wZHHECFSGQEMPzYDIeVxbkuUq9Ni9uhZrey87dC5cuVSBZYyYCMevaP1a8la78XL7fAG1SOTQVnlEKXrGiSaLYtdRQ4OnlI/WDWqvqZNzMn2PaAUFCx",
+                         "publishedAtUtc":  "2026-07-25T08:58:56.6834505+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.2/BlenkVoice.Server-0.13.2-win-x64.zip",
+                         "sizeBytes":  60182746,
+                         "sha256":  "1e1e52206044ffafddf274f1667a5559c6efd0cc5ccb31a072f382b14125beeb",
+                         "signature":  "hkGvq+qt2oQ2a3/mtakKe8SJJjM2PT8LZR30fSi97T+Cj5sIKw/SNxdrxKepjhlzU2f4ADXz2CazAZ/8YjzrcjXWGqGK8AGZ+JgfDewIOlT/fzFv0lXkxJCDbvL0k4rwNR/ke2R5LcVb+58+sQTzantchEpEIbwisk33JrAnrolMytCAb4V/pIfsUSonx05eUeNqvM3OFMDo7U/v/jshIb6fSYLPFygfGg9yD1s4/Uk4d1iXD6dIqMHY5Ms8wP9ibc1eYe9u2U2bTMuPP/c/DsHvTgpqL9BOH9hrpEGEgznbno2kGSS4/AP1vPIwuLf9ItwG2XwWxuu5sQZmKlQnvVp1Lkqj2HIEyIb/uFHPVc2YdEMg8pzYDdkjiDJuFVm68TFLOryRTCO/uYO76IQ265TQyVlW6ZwBP3wLZonaYnpX3ux4qcI9k3vlUjbw5vwPJe/LBaZ/HREDNYIUJISWGz7AIywbsQ7y/lALxOZrTOFxij5UBSAaztHzW4WB8Tyn",
                          "releaseNotes":  [
-                                              "Kontrollprotokoll 25 mit vollstaendigem persistentem Chat",
-                                              "Kompatibel mit blnk Voice Client 0.18.2",
-                                              "Raum-, Text-, Direkt- und Gruppenchats inklusive Antworten, Erwaehnungen, Bearbeiten und Loeschen",
-                                              "Lokale Ollama-Gespraechs-KI mit Modellvorwaermung, Streaming-Antworten und belastbaren Zeitlimits",
-                                              "blnk denkt wird waehrend laengerer Antworten sichtbar und anschliessend durch die Antwort ersetzt",
+                                              "Kontrollprotokoll 26 mit getrennten Musik-Sitzungen je Channel",
+                                              "Kompatibel mit blnk Voice Client 0.18.3",
+                                              "Unterschiedliche Radiosender koennen gleichzeitig in mehreren Channels laufen",
+                                              "FFmpeg und yt-dlp werden portabel im signierten Serverpaket mitgeliefert",
+                                              "Lokale Ollama-Gespraechs-KI mit laengerer Modellvorwaermung und kompakterem Kontext",
                                               "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
                                           ]
                      }

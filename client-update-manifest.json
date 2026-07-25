@@ -1,13 +1,13 @@
 {
-    "version":  "0.18.2",
-    "notes":  "Mobiler Chat mit Touch-Scroll und intelligenter Automatik; stabile lokale KI mit Modellvorwaermung, Streaming und sichtbarem Antwortstatus",
-    "pub_date":  "2026-07-25T07:48:20.1381905+00:00",
+    "version":  "0.18.3",
+    "notes":  "Mehrraum-Musikbot mit eigenem Radio-Autostart je Channel, mitgelieferter Medien-Engine und schnellerer lokaler KI",
+    "pub_date":  "2026-07-25T08:54:01.2617937+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG1ZUktzc1hwRWFsaVcrK2pGWmMraFloTUdRalpQME9GTDhnOHJ4MmVIbGErS0VLV09yc2pXK2phM3EzYVJwZEpRMWRCR1hUOU9CaHFWeVVGTlhKcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY1Njk5CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguMl94NjQtc2V0dXAuZXhlCm9aZTdMOXNxVEhyZlpoR1BXdExwT2JZSWRwSDNLNFNNTnVZR2hpOE1DTE5XdDFyQkVyMVNzRFFCZlhuL0Flbml5dGZEc3RjZzBtSmQ2ZzErWE1OZEFRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.2/BlenkVoice-0.18.2-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlkeU1OQ244ZituSjFDclE5cDZ1bEc4UENZbXFpQWdkbStOZDJFTTVhZUZQMWpDeXlLWmt0M2hrL3ZTc2lCOGQ1SEllRVBUa0J4Mkk4RDcza3F2WUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY5NjQxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTguM194NjQtc2V0dXAuZXhlCjZBWGF0WWNCTUcyeUxQWWpnaisvMktCcWNJR2xmRCtBWFpMWFZCNk1udWVOM2RvV2R5ZnZKTTBNOFArZk9CblBPWE5NNWVhZnF5YzVZOXlZb0pGZkJnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.3/BlenkVoice-0.18.3-windows-x86_64-setup.exe"
                                          }
                   }
 }
