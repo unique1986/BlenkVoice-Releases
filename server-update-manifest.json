@@ -1,24 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T20:13:18.3508916+00:00",
+    "generatedAtUtc":  "2026-07-25T21:04:28.9406788+00:00",
     "releases":  [
                      {
-                         "version":  "0.14.0",
+                         "version":  "0.14.1",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T20:13:18.3463734+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.14.0/BlenkVoice.Server-0.14.0-win-x64.zip",
-                         "sizeBytes":  111886704,
-                         "sha256":  "2ef9c0ee3fde394541c215f14c271fe85536707c462cd4ec99da230d5e7e17e6",
-                         "signature":  "GDsFSlE5RL1qBx3odCgC7WJvh55E7vTHqJyAekEcbHvifY8R4ADuJmTF4sUVhXlqt61YoC4rnR1JG9GBzvacOnP3wbjggmjO3A6jd2UZJjdOf3vLensNK/eIHa0Zp7mJqT8bJMmFGp1Wuqs4zMs5zad4oC+T6IJeYc/EnFAbArHrrtLWCDkuA35348giQ6m+RIBkQM0IOoZTnN3tcHWu7YAvL/4/lLYr+A3n6XNLN366ZxnO/TbpEdu0U8SsUbSltaF5IedDQukQjQtK78A25XW++k+6UoO6wzYduuP30xqLDPy0uYRagiOw6QGB4QmT+QH6EzjMXsBkw4Kv8DCkt1Deo3jokQiuuFbGKsi6/QpTVBkWdPfWqase5yCcUSal/gTaZlcVC5AgyXidzV6ddjUn+OQOfUpuBAUzpGlfND80nHtzaWrLW+LT/8chxjf0NsciU3e9CHYNSioffscQr9FSrpTuobAKZ6FAJblE6BgMXrZ6qDVZnxXJVlsKmbNr",
+                         "publishedAtUtc":  "2026-07-25T21:04:28.9356438+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.14.1/BlenkVoice.Server-0.14.1-win-x64.zip",
+                         "sizeBytes":  111920339,
+                         "sha256":  "7820f7c089d2f97459085e18f214e1241dc231be778154bc5e90ac0ed6d6e66b",
+                         "signature":  "CqQEQ1sUKsxK3iv+FOo1wKRM72m5y4TY05SwCX9MXwEb/2IG5hWVoGfsgh6d7qlzO/2Vk6te8iBRtEtzSLjqDFklpaDg8HaZGWnx08tar9MoYARMzV7rgvnSydWWqcfUTqb2+uz2MT5d5Az34138UgAV1KwzH2CN0E9brDmAp+SOxvB0kBD8zoLL5FYBKTMvYkmkXYth5qPlBQkF0zH2hIL50MsAb9O0QNaCJYGcJ3272Xccvu89urz1o6eDQkxR+nCw73E3p7GFuiR2lmeH0az2TqmT+2dAhmoDMSlTC3Im33t0KLicxX0UY4yP2EMGR7L64ANH6qyc6+6EJ0cjro30bilCt2w+MFmHkRc22PE/w+FdAUVWZ24MXDRxQe7OdeeMn8o4HNa22fRrUyyAvn3M1PKXK+y/FOJaX1YIkm4NieufNcTqDfD1a9EM8nho3BfBPB9KEcy1tGYHkGPc4z93PU49jNZh+eF44VPB3Ph8R5mqTfp4yJlFLFthq5nx",
                          "releaseNotes":  [
-                                              "YouTube-Radio-Links werden auf das ausgewählte Video reduziert und nicht mehr als endlose Radio-Playlist interpretiert",
-                                              "Aktuelles yt-dlp sowie die benötigte Deno-JavaScript-Laufzeit werden portabel im signierten Serverpaket mitgeliefert",
-                                              "Fehler von YouTube und Twitch werden nachvollziehbar protokolliert und im Chat verständlicher gemeldet",
-                                              "Neuer filmischer öffentlicher Community-Viewer mit Live-Räumen, Mitgliedern und Streamstatus",
-                                              "Servergebundene Registrierung im Viewer über HTTPS erzeugt ausschließlich normale Mitgliedskonten",
-                                              "Private und persönlich unsichtbare Räume sowie deren Streams bleiben vollständig verborgen",
-                                              "Instanzdaten, Konten, Serveridentität, Zertifikate und Administration bleiben beim Update erhalten"
+                                              "Serververwaltung bleibt beim Öffnen verbunden,Protokoll 26 bleibt mit Client 0.18.5 kompatibel,Protokoll 27 unterstützt Viewer-Konfiguration und zukünftige Adminfelder,Instanzdaten und Serveridentität bleiben beim Update erhalten"
                                           ]
                      }
                  ]
