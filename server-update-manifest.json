@@ -1,18 +1,28 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T12:54:26.2173179+00:00",
+    "generatedAtUtc":  "2026-07-25T13:53:22.3796162+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.5",
+                         "version":  "0.13.6",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T12:54:26.2122825+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.5/BlenkVoice.Server-0.13.5-win-x64.zip",
-                         "sizeBytes":  60983878,
-                         "sha256":  "636290f6676cab6cfe08a6a7643848cca12c0883f35d1f9e35d3a23a9d1f79a7",
-                         "signature":  "AxCKmJl+SfLNk9dYAQj1C1moER8Zw1PMbJGKiohWsJRDbo3BxN2b4818yIgdLYbukGpoXfQRPjd9hxmIgjcnH4oQT2ucoVthT1ZOCkzJXjkMzlpO7SK9KlgPKXNCAFiCFwi9l8Q4BKFQc3Fqxkjh3ikVb7x5hIim0pFBUkx5/a3gSpcDwwwcKp0eS6LWX5oAbjraGMiUhLAnlq+LariiLJtC1iYkkon6priMXqdE8J9zhOVg5KlX3nFK0cv2afwPquqv5/cYbnpWK4Pd4K9HSKylIvNlVMH4vTSTGh2LJLnwgHGuoYBltjtwJfNn1yY+baFhyDZnbMMu3mEUBER8YjfypOiMi9jFCb1DwNH8IIKP7BEPClbfg6VmWVyc0y1rCz2kVn7HytyzdBTaa/tQeB663z4OGsgq+uCvrZoi3rj83LX9ozBwfSLjEoDI7MpIsdD8VufKbe0pK1Vm/QSvOg3qlnSMGr/podQXMEPI+9tnQqNy2Qb9mJwwN5i+XJrJ",
+                         "publishedAtUtc":  "2026-07-25T13:53:22.3776082+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.6/BlenkVoice.Server-0.13.6-win-x64.zip",
+                         "sizeBytes":  61016013,
+                         "sha256":  "1199670a1a02dbccdeea42d34e6630d00ec813315e88b3f0e19249ad7c4c14bb",
+                         "signature":  "BG4mda1ufs3uKXmNMV3oyfm6C4yvaFLNjYqXkDe7a2tUA/nOVcw0NUraw/w5mfTNv4PO8DnOrs03sg9rEckO9+Ai7I55EjTlBn6VL7/SiQcQxe16LknJSbO9kRtB97os/2V3VYKPUhJfMOgHAa/eRJH3aqV/MXJXazCKGvdOHiFsp5ewe9RjLaOTONI2XutgKBTHMn0UzeTS+jXFd51pQsI+Z7+mN8KvB4bqXrmwoukruS/m1U22ZvBJh8nniybBmEU4ZOV0QE+hMSm050H3i2H8WKT3tdDUunyXGOBBr+v4LKvCln9hDrzotQfhKWobejwTfZBOZlWyiF+HN+a3RPTpUh8YFbVzqg2ybBgk9awj90IkRO43wDE4R3pGCfhQ5a9hgbXvNFp5DY0D4oJssRFIJJUN6YSEa+TBrnWUaIa/7ZJ8MoJhCJETzelVW6OXUJ3nZm6zBdjcy6p5JYfdABZR+QRWslrpUgCh3q5O7PNt+Giyt25m2jAgLw5pynEj",
                          "releaseNotes":  [
-                                              "Aktuelle Webtreffer werden als faktische Datenquelle genutzt,Wetter- und Nachrichtenfragen werden konkret beantwortet statt pauschal abgelehnt,Prompt-Injection-Schutz gilt gezielt für eingebettete Webseitenanweisungen,Schneller adaptiver KI-Kontext aus Server 0.13.4 bleibt erhalten,Kompatibel mit blnk Voice Client 0.18.4,Instanzdaten, Ollama-Modell, API-Key und Serverkonfiguration bleiben erhalten"
+                                              "Schnelle allgemeine Bot-Antworten Ã¼ber Ollama Cloud mit automatischem lokalen Fallback",
+                                              "Direkte Wetterdaten ohne langsamen Sprachmodell-Umweg",
+                                              "Antworttext wird schon wÃ¤hrend der Generierung im Chat sichtbar",
+                                              "Der API-Key wird getrennt mit Windows DPAPI verschlÃ¼sselt und niemals an Clients zurÃ¼ckgegeben",
+                                              "Radiosender wechseln ohne vorherigen Stopp direkt im Raumchat",
+                                              "Kompatibel mit blnk Voice Client 0.18.5",
+                                              "Kurzlebige oder fehlerhafte Quellen werden nicht mehr in einer Endlosschleife wiederholt",
+                                              "Der Musikbot erscheint als eigener Raumteilnehmer und bleibt pro Client individuell regelbar",
+                                              "Fortlaufende Bot-PaketzÃ¤hler verhindern Aussetzer beim Senderwechsel",
+                                              "FFmpeg und yt-dlp werden portabel im signierten Serverpaket mitgeliefert",
+                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
                                           ]
                      }
                  ]
