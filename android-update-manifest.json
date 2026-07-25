@@ -1,9 +1,9 @@
 {
-    "version":  "0.18.3",
-    "versionCode":  18003,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.3/BlenkVoice-Android-v0.18.3-arm64.apk",
-    "sha256":  "5768630131040d7154974265d7a7b0cfb4637b6654fe2e2c01f244fc97840dad",
-    "notes":  "Mehrraum-Musikbot mit eigenem Radio-Autostart je Channel, mitgelieferter Medien-Engine und schnellerer lokaler KI",
+    "version":  "0.18.4",
+    "versionCode":  18004,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.4/BlenkVoice-Android-v0.18.4-arm64.apk",
+    "sha256":  "9000380d5564e8b7de63c0312b45be1ae551cec9de5058feb91f1da726e8a807",
+    "notes":  "Optionale Ollama-Websuche mit geschÃ¼tztem API-Key, Radio-Schnellwechsel, stabile Live-Wiedergabe und sichtbarer Musikbot",
     "required":  false,
     "minimumSupportedVersion":  null
 }

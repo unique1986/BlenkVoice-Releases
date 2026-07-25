@@ -1,13 +1,13 @@
 {
-    "version":  "0.18.3",
-    "notes":  "Mehrraum-Musikbot mit eigenem Radio-Autostart je Channel, mitgelieferter Medien-Engine und schnellerer lokaler KI",
-    "pub_date":  "2026-07-25T08:54:01.2617937+00:00",
+    "version":  "0.18.4",
+    "notes":  "Optionale Ollama-Websuche mit geschÃ¼tztem API-Key, Radio-Schnellwechsel, stabile Live-Wiedergabe und sichtbarer Musikbot",
+    "pub_date":  "2026-07-25T12:14:04.5968571+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlkeU1OQ244ZituSjFDclE5cDZ1bEc4UENZbXFpQWdkbStOZDJFTTVhZUZQMWpDeXlLWmt0M2hrL3ZTc2lCOGQ1SEllRVBUa0J4Mkk4RDcza3F2WUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY5NjQxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTguM194NjQtc2V0dXAuZXhlCjZBWGF0WWNCTUcyeUxQWWpnaisvMktCcWNJR2xmRCtBWFpMWFZCNk1udWVOM2RvV2R5ZnZKTTBNOFArZk9CblBPWE5NNWVhZnF5YzVZOXlZb0pGZkJnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.3/BlenkVoice-0.18.3-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxTR1NEaHBaRlNkL1ZLVDJFVE9jbWxhVmFsSExpWnJzVWJnOTZiTFVnMTR1clVxMXNYRGJYak5GVTZXTGJuandRTERFeDlLQ1EyLy9UK0QyTkdVOHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTgxNjQ0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguNF94NjQtc2V0dXAuZXhlCndud3dCL1pVc1hyelFiRlBuaEp3NGRwR24wa1lmaE5McHcwYXowUEtDRHd6LzlEY01USU9kYXZ3R2hIME9RK25aai85TmNVckVWSXo3dFh1Sk5KekRBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.4/BlenkVoice-0.18.4-windows-x86_64-setup.exe"
                                          }
                   }
 }
