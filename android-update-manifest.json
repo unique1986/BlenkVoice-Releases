@@ -1,9 +1,9 @@
 {
-    "version":  "0.18.0",
-    "versionCode":  18000,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.0/BlenkVoice-Android-v0.18.0-arm64.apk",
-    "sha256":  "d68ce33847cfb595325b402eb0bc1ba4a5ef8d4bfa5f3a9d222832eabf55f96e",
-    "notes":  "Vollstaendiger persistenter Chat mit Textkanaelen, Direkt- und Gruppenchats, Antworten, Erwaehnungen, Bearbeiten, Loeschen, Suche und mobilem Chat",
-    "required":  true,
-    "minimumSupportedVersion":  "0.18.0"
+    "version":  "0.18.2",
+    "versionCode":  18002,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.2/BlenkVoice-Android-v0.18.2-arm64.apk",
+    "sha256":  "0a85dbe7bc34a46d7d023c7decbe0531471272915aff442c89d612e56334846b",
+    "notes":  "Mobiler Chat mit Touch-Scroll und intelligenter Automatik; stabile lokale KI mit Modellvorwaermung, Streaming und sichtbarem Antwortstatus",
+    "required":  false,
+    "minimumSupportedVersion":  null
 }
