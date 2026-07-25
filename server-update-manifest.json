@@ -1,20 +1,24 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T16:45:49.4280817+00:00",
+    "generatedAtUtc":  "2026-07-25T20:13:18.3508916+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.9",
+                         "version":  "0.14.0",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T16:45:49.4240831+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.9/BlenkVoice.Server-0.13.9-win-x64.zip",
-                         "sizeBytes":  61023658,
-                         "sha256":  "c64c3aa759ed55e55df2efba77e2bddb1309e7f48b01516789c0843883b38cd3",
-                         "signature":  "eP4OE0NKJn+RHPfsxWZ3/Y/TXtr9yC0BQTeLlxgxXxLorUm2ibdA+D8PBzeV21V+i9lLthkruKABuzYxtcHxV/SWQ7HC3QSqDpNtaE6K8f5FB+pc4Casc4NBYMa3PM51/1pdlt3IrqKtPW+tF1R8DhgEXm3BNB9+wd9wB+w+d/oyYeiWJzSgTvXVzvzm1jYm2jvXuIJo4ofYuLwAcTWeE8AKwht9AWNinqUoKF51DhenJZavJweeKEJngNyloYJEiWnnYA62UO1yjcoT6j848KA6K/xuwrfW0M7B3JWmgWnz7ikrcmxYCI4WyumnVcEmaPtm74BVY/TK6R/SzMm9RarmwgEzYwQbH7om6hYge4uZp1wo766j6pLk3tLj4CZS12YbCfqOVe/6BWXL+jgXibg6nUnZ3RBUwD01rIMA00HxkrpuH9WlUZK7u3QgS5aaZO1YS3yro1JSKKHS1sLYp39ml+0CmhRN1kgOOIDKyK/SqVGA1rNvSyUEQIq2Zjqb",
+                         "publishedAtUtc":  "2026-07-25T20:13:18.3463734+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.14.0/BlenkVoice.Server-0.14.0-win-x64.zip",
+                         "sizeBytes":  111886704,
+                         "sha256":  "2ef9c0ee3fde394541c215f14c271fe85536707c462cd4ec99da230d5e7e17e6",
+                         "signature":  "GDsFSlE5RL1qBx3odCgC7WJvh55E7vTHqJyAekEcbHvifY8R4ADuJmTF4sUVhXlqt61YoC4rnR1JG9GBzvacOnP3wbjggmjO3A6jd2UZJjdOf3vLensNK/eIHa0Zp7mJqT8bJMmFGp1Wuqs4zMs5zad4oC+T6IJeYc/EnFAbArHrrtLWCDkuA35348giQ6m+RIBkQM0IOoZTnN3tcHWu7YAvL/4/lLYr+A3n6XNLN366ZxnO/TbpEdu0U8SsUbSltaF5IedDQukQjQtK78A25XW++k+6UoO6wzYduuP30xqLDPy0uYRagiOw6QGB4QmT+QH6EzjMXsBkw4Kv8DCkt1Deo3jokQiuuFbGKsi6/QpTVBkWdPfWqase5yCcUSal/gTaZlcVC5AgyXidzV6ddjUn+OQOfUpuBAUzpGlfND80nHtzaWrLW+LT/8chxjf0NsciU3e9CHYNSioffscQr9FSrpTuobAKZ6FAJblE6BgMXrZ6qDVZnxXJVlsKmbNr",
                          "releaseNotes":  [
-                                              "Ollama Cloud verwendet den minimalen dokumentierten JSON-Aufruf.",
-                                              "Cloud-Antworten werden ohne lokalen Streamingparser verarbeitet.",
-                                              "Cloud-Fehler werden verständlich klassifiziert und vollständig protokolliert."
+                                              "YouTube-Radio-Links werden auf das ausgewählte Video reduziert und nicht mehr als endlose Radio-Playlist interpretiert",
+                                              "Aktuelles yt-dlp sowie die benötigte Deno-JavaScript-Laufzeit werden portabel im signierten Serverpaket mitgeliefert",
+                                              "Fehler von YouTube und Twitch werden nachvollziehbar protokolliert und im Chat verständlicher gemeldet",
+                                              "Neuer filmischer öffentlicher Community-Viewer mit Live-Räumen, Mitgliedern und Streamstatus",
+                                              "Servergebundene Registrierung im Viewer über HTTPS erzeugt ausschließlich normale Mitgliedskonten",
+                                              "Private und persönlich unsichtbare Räume sowie deren Streams bleiben vollständig verborgen",
+                                              "Instanzdaten, Konten, Serveridentität, Zertifikate und Administration bleiben beim Update erhalten"
                                           ]
                      }
                  ]
