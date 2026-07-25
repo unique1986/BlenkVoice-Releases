@@ -1,20 +1,20 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T16:11:04.9970809+00:00",
+    "generatedAtUtc":  "2026-07-25T16:34:02.2097633+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.7",
+                         "version":  "0.13.8",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T16:11:04.9915042+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.7/BlenkVoice.Server-0.13.7-win-x64.zip",
-                         "sizeBytes":  61018323,
-                         "sha256":  "64a8b29080718eb68cfc4b8dafde6e2c4884dc05aa3cb54695b1b5f19247d9ae",
-                         "signature":  "LcdSzFUiHnFlVmvgotAeaf9nqtmLJdcbn8Q9s4y3b848jj7Kj8v3Gl0G8y2P4F7ix92GoylIClcFS2SaJV6gpYcdVI3yUoa0p2rFiILD3JVmzDcohZfZdIIx4CPSluFYMPnRzEXlXmrNgc45nqnr+K4+taYbinE6WBzYgf9QLeFln4Jbph56tNd8sP9N967Z6PUloprAVcFtvAIK+x7Cq9DSDaquGBh+W8BDzlhALvyqQb/pU/dcKIEx+ntyHLMFJVi6JUrW7J6UgrNuw4OzJcYV0fvxAw61Su/CqEbS1E4PV54KPMrU1KAmQHkGF4SaLdKL5+l1KYZp2a4HGj2bBIH5nmBxEm6KECgIis4HRcz1jvSJrYiBWecICQ3ySOtG36EByzyBjcFCuwNXALy3YizYAMNQsbP4mb5ipvTRIVJCOqMiFOJJ+s1Fg1efsdXjR3VOZtz5uvcFAmFTvcqZmtPuhGUlyF1gE3EhGXMljzDVUWD7/HuxG2P5puwXfuu6",
+                         "publishedAtUtc":  "2026-07-25T16:34:02.2047337+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.8/BlenkVoice.Server-0.13.8-win-x64.zip",
+                         "sizeBytes":  61018254,
+                         "sha256":  "e4d238f9be636003e051f2455be99b2635964b32248c4f9d0cf4421f4b16331b",
+                         "signature":  "Gtflmc57fCmwpIAv5aSnF+YCcW8as1dU9TKMB4KLhN43e9Zr1f7PBSZRaQ7ynPV5gob/0Z5rYQzhNPi26wgXt9g/UWuM2fX8nlJtTLChP7Ee1uo6B5nn2+j/Y2wk/E2o4ZhD+rJhwccLIH2Iy5/HG7PLBWCQHho/ipeSoZOtjkvrfBObuetl9QNk0w/n+TPOQ6/PjjBUMmEziQlgX1QPalbk3QBiN2xMYogjit8eqqopVZr2zjdxDB3zFCTVRushkWFTf8RLdbQeCPFpEYvvhCA2Gg23FtEPfS3IuGa0TyrstS+RZR5tHxl6Hr/8rxB0Ao4AmHAAcIvghPy5Wn7giZOKIFyX0IlCglbEIjKUZacpDnWHxhY8+ia985lOJTo0vPohYum0EkVFfMuM0QdYPDckDa4tiN3Thi2DL1qaZk7uwSHvn6/py3YctJ/o5/WKoQcdKx/9MJR0aYHoYZs44ea4OMYGoooARjauzbBb6s1ShztU5el5qwi9GOkAvDG1",
                          "releaseNotes":  [
-                                              "Schneller Wetterpfad funktioniert unabhängig von der allgemeinen Websuche.",
-                                              "Fragen nach dem morgigen Wetter verwenden tatsächlich den Folgetag.",
-                                              "Ollama Cloud verwendet das korrekte Cloud-Modell gpt-oss:20b-cloud."
+                                              "Direkter Ollama-Cloud-Zugriff verwendet den korrekten API-Modellnamen.",
+                                              "Wetter-Rückfragen übernehmen den zuletzt genannten Ort aus dem Gespräch.",
+                                              "Ein ausdrücklich genanntes Reiseziel hat immer Vorrang."
                                           ]
                      }
                  ]
