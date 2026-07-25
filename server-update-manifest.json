@@ -1,18 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T12:47:01.0287599+00:00",
+    "generatedAtUtc":  "2026-07-25T12:54:26.2173179+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.4",
+                         "version":  "0.13.5",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T12:47:01.0227214+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.4/BlenkVoice.Server-0.13.4-win-x64.zip",
-                         "sizeBytes":  60984098,
-                         "sha256":  "40d33f526eaea6f2b2360bb534953970b3f613c9846d78aa0d006e5a203b0bd8",
-                         "signature":  "GEC7CUmi5d+a7OE7Uj6VAaawonc0akCZH3E8UE7PJStfRFHsCqPEw5KXu4D6q/fHI4/3R/U/grF62veylV4f8chir8M2p+nLzjH6Mdq5BrWVzMnJYDVLB1NMHnZRl/grFag2bcO8Y0cgUVzY5DNAwvUSJ1abMjs5T0nW+uatyU0h/DZtctnZh3ll4sjuXRDZc+8XZf44qnF/tMe0q9d6fas0WRbnIEm/Bhb70q2N2+B7P0WG6vQuIN0K41ny+i1LtzPuEhl8g2f4xM0ussBSzff8K/By3b+vuHEkvcumV1FDwROkN61fbW1tVeF7Q8gEusuVvDKoaGzQPJVRk8Qb24focA7pT8qr6kedgrzD2bzcv2M7C5X69B0MPBSKHkN00OqIYcNQxvjXuc86GwV41O2jUhC2Hd3IMT1MfJK4oYPvryE882MfXU99Us+T7u81zn/fFH6WrK1tLo6B+XrU2nhhWPg4YMDFcW6fwAYhW7EbwwG137w5931G4Zbm4wK6",
+                         "publishedAtUtc":  "2026-07-25T12:54:26.2122825+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.5/BlenkVoice.Server-0.13.5-win-x64.zip",
+                         "sizeBytes":  60983878,
+                         "sha256":  "636290f6676cab6cfe08a6a7643848cca12c0883f35d1f9e35d3a23a9d1f79a7",
+                         "signature":  "AxCKmJl+SfLNk9dYAQj1C1moER8Zw1PMbJGKiohWsJRDbo3BxN2b4818yIgdLYbukGpoXfQRPjd9hxmIgjcnH4oQT2ucoVthT1ZOCkzJXjkMzlpO7SK9KlgPKXNCAFiCFwi9l8Q4BKFQc3Fqxkjh3ikVb7x5hIim0pFBUkx5/a3gSpcDwwwcKp0eS6LWX5oAbjraGMiUhLAnlq+LariiLJtC1iYkkon6priMXqdE8J9zhOVg5KlX3nFK0cv2afwPquqv5/cYbnpWK4Pd4K9HSKylIvNlVMH4vTSTGh2LJLnwgHGuoYBltjtwJfNn1yY+baFhyDZnbMMu3mEUBER8YjfypOiMi9jFCb1DwNH8IIKP7BEPClbfg6VmWVyc0y1rCz2kVn7HytyzdBTaa/tQeB663z4OGsgq+uCvrZoi3rj83LX9ozBwfSLjEoDI7MpIsdD8VufKbe0pK1Vm/QSvOg3qlnSMGr/podQXMEPI+9tnQqNy2Qb9mJwwN5i+XJrJ",
                          "releaseNotes":  [
-                                              "Deutlich schnellere lokale KI-Antworten durch adaptiven Gesprächskontext,Kürzere natürliche Chatantworten statt unnötig langer Generierung,Kompaktere Online-Suchergebnisse bei unveränderter Wetter- und Nachrichtensuche,Smalltalk mit heute oder morgen startet keine unnötige Websuche,Messbare KI-Antwortzeiten im Serverlog,Kompatibel mit blnk Voice Client 0.18.4,Instanzdaten, Ollama-Modell, API-Key und Serverkonfiguration bleiben erhalten"
+                                              "Aktuelle Webtreffer werden als faktische Datenquelle genutzt,Wetter- und Nachrichtenfragen werden konkret beantwortet statt pauschal abgelehnt,Prompt-Injection-Schutz gilt gezielt für eingebettete Webseitenanweisungen,Schneller adaptiver KI-Kontext aus Server 0.13.4 bleibt erhalten,Kompatibel mit blnk Voice Client 0.18.4,Instanzdaten, Ollama-Modell, API-Key und Serverkonfiguration bleiben erhalten"
                                           ]
                      }
                  ]
