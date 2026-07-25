@@ -1,20 +1,20 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T16:34:02.2097633+00:00",
+    "generatedAtUtc":  "2026-07-25T16:45:49.4280817+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.8",
+                         "version":  "0.13.9",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T16:34:02.2047337+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.8/BlenkVoice.Server-0.13.8-win-x64.zip",
-                         "sizeBytes":  61018254,
-                         "sha256":  "e4d238f9be636003e051f2455be99b2635964b32248c4f9d0cf4421f4b16331b",
-                         "signature":  "Gtflmc57fCmwpIAv5aSnF+YCcW8as1dU9TKMB4KLhN43e9Zr1f7PBSZRaQ7ynPV5gob/0Z5rYQzhNPi26wgXt9g/UWuM2fX8nlJtTLChP7Ee1uo6B5nn2+j/Y2wk/E2o4ZhD+rJhwccLIH2Iy5/HG7PLBWCQHho/ipeSoZOtjkvrfBObuetl9QNk0w/n+TPOQ6/PjjBUMmEziQlgX1QPalbk3QBiN2xMYogjit8eqqopVZr2zjdxDB3zFCTVRushkWFTf8RLdbQeCPFpEYvvhCA2Gg23FtEPfS3IuGa0TyrstS+RZR5tHxl6Hr/8rxB0Ao4AmHAAcIvghPy5Wn7giZOKIFyX0IlCglbEIjKUZacpDnWHxhY8+ia985lOJTo0vPohYum0EkVFfMuM0QdYPDckDa4tiN3Thi2DL1qaZk7uwSHvn6/py3YctJ/o5/WKoQcdKx/9MJR0aYHoYZs44ea4OMYGoooARjauzbBb6s1ShztU5el5qwi9GOkAvDG1",
+                         "publishedAtUtc":  "2026-07-25T16:45:49.4240831+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.9/BlenkVoice.Server-0.13.9-win-x64.zip",
+                         "sizeBytes":  61023658,
+                         "sha256":  "c64c3aa759ed55e55df2efba77e2bddb1309e7f48b01516789c0843883b38cd3",
+                         "signature":  "eP4OE0NKJn+RHPfsxWZ3/Y/TXtr9yC0BQTeLlxgxXxLorUm2ibdA+D8PBzeV21V+i9lLthkruKABuzYxtcHxV/SWQ7HC3QSqDpNtaE6K8f5FB+pc4Casc4NBYMa3PM51/1pdlt3IrqKtPW+tF1R8DhgEXm3BNB9+wd9wB+w+d/oyYeiWJzSgTvXVzvzm1jYm2jvXuIJo4ofYuLwAcTWeE8AKwht9AWNinqUoKF51DhenJZavJweeKEJngNyloYJEiWnnYA62UO1yjcoT6j848KA6K/xuwrfW0M7B3JWmgWnz7ikrcmxYCI4WyumnVcEmaPtm74BVY/TK6R/SzMm9RarmwgEzYwQbH7om6hYge4uZp1wo766j6pLk3tLj4CZS12YbCfqOVe/6BWXL+jgXibg6nUnZ3RBUwD01rIMA00HxkrpuH9WlUZK7u3QgS5aaZO1YS3yro1JSKKHS1sLYp39ml+0CmhRN1kgOOIDKyK/SqVGA1rNvSyUEQIq2Zjqb",
                          "releaseNotes":  [
-                                              "Direkter Ollama-Cloud-Zugriff verwendet den korrekten API-Modellnamen.",
-                                              "Wetter-Rückfragen übernehmen den zuletzt genannten Ort aus dem Gespräch.",
-                                              "Ein ausdrücklich genanntes Reiseziel hat immer Vorrang."
+                                              "Ollama Cloud verwendet den minimalen dokumentierten JSON-Aufruf.",
+                                              "Cloud-Antworten werden ohne lokalen Streamingparser verarbeitet.",
+                                              "Cloud-Fehler werden verständlich klassifiziert und vollständig protokolliert."
                                           ]
                      }
                  ]
