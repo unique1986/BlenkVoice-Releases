@@ -1,13 +1,13 @@
 {
-    "version":  "0.17.9",
-    "notes":  "blnk Bot mit Begruessung, Hilfe, Radio, YouTube, Twitch und optionaler lokaler Ollama-Gespraechs-KI",
-    "pub_date":  "2026-07-24T22:27:58.7338392+00:00",
-    "required":  false,
-    "minimumSupportedVersion":  null,
+    "version":  "0.18.0",
+    "notes":  "Vollstaendiger persistenter Chat mit Textkanaelen, Direkt- und Gruppenchats, Antworten, Erwaehnungen, Bearbeiten, Loeschen, Suche und mobilem Chat",
+    "pub_date":  "2026-07-25T05:03:47.1401415+00:00",
+    "required":  true,
+    "minimumSupportedVersion":  "0.18.0",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHB0MGFGZFlJN2N3OGE4TXExbWRnc1NZdzhWdU9EK3piTnpoMWNjeWhMYms5TEh0WElvRkZpaGlWdlBQUytQQ0I5b2dCSGlMMXQwQ0RLelViYjFTNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTMyMDc4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTcuOV94NjQtc2V0dXAuZXhlCkxyRTQ3eVhUa0E1NkQxUmdJcjFhUmdEVWlLSmkyTmo0UkJpNlFOYTVjWFczeVBSYjk2VHlhcGtva053Z3YrUXJHVDRkRVdOUys4aWszWStsVGNLZEJnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.17.9/BlenkVoice-0.17.9-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHIyQ2IwUWRXVHlRdEFBd3RGdkRqZFh6azdHa3NKaDJkL2FTZ1BVYWRGanN2dmNJUjRaMGxjMEV6bEFpRXl2TEx6V2VYVnRabHVHMUQzK2l5RVFTM2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTU1ODI2CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguMF94NjQtc2V0dXAuZXhlCkZnUWh0cVpJUjRjYUwwS2xOQU5jTzdPRkwvYWxVUjVvcHdEOGtBVTBxcU1zeU5yT20wcW5JMGk1UFVKeEVVbko3cDNDNUY0WmVhVU5HRG1xc2tkTURnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.0/BlenkVoice-0.18.0-windows-x86_64-setup.exe"
                                          }
                   }
 }
