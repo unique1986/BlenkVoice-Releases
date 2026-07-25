@@ -1,26 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T12:15:52.6793189+00:00",
+    "generatedAtUtc":  "2026-07-25T12:47:01.0287599+00:00",
     "releases":  [
                      {
-                         "version":  "0.13.3",
+                         "version":  "0.13.4",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T12:15:52.6773199+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.3/BlenkVoice.Server-0.13.3-win-x64.zip",
-                         "sizeBytes":  60981467,
-                         "sha256":  "10ecaf44554d7b9d43e11677c09ccfaff71b233d8759332ca1edfba9f2505aeb",
-                         "signature":  "CxPhOTCchRsJnDRrg+r7yYhyrLeV4eAHDrqaVUlUdFTm7Gpk4fBMeC+c0ZXKKRfoweZX29jG6YeGa7e6EEDVmcZiVngZTYxk2jBEU8uJ1WElrACLwIVQt8vbUtSv5roXBAAamtTSjDhYonBtmLpJkISa+4gN8Z421+w7Y/qLQERnPjBLdzjKrIg6o0Dw0fzHayr/rS69vUcTPQP+Z8yHoQHlQd9XeZ0xnOTHcjYXED7iLKwuJ/Qbo8h3Eevm94qpVSFGkp5qGtXMmVwxdrjyKKHVgIWjDcWhWEzsUjR712O5WgCF3w3Y+qX2NhX9UPn7gOLxMXg35dowOuvyV0Xar+SJiXMfzcSxLfZQDK/HEtnCzOwvpDLwWfYKFOhcjVxDfxV/gzsk1M1Uu1dBDlapUElD1qJgvpfQ6Ofiw8FE6w2ZUdp8YPoi9y9mZm1F4SG4BKC4zCv1wXhmiri8vVJkln6pT1FOawveYy6uJMrsHeKtUtZlYPNsPfTCXn6YMBI6",
+                         "publishedAtUtc":  "2026-07-25T12:47:01.0227214+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.13.4/BlenkVoice.Server-0.13.4-win-x64.zip",
+                         "sizeBytes":  60984098,
+                         "sha256":  "40d33f526eaea6f2b2360bb534953970b3f613c9846d78aa0d006e5a203b0bd8",
+                         "signature":  "GEC7CUmi5d+a7OE7Uj6VAaawonc0akCZH3E8UE7PJStfRFHsCqPEw5KXu4D6q/fHI4/3R/U/grF62veylV4f8chir8M2p+nLzjH6Mdq5BrWVzMnJYDVLB1NMHnZRl/grFag2bcO8Y0cgUVzY5DNAwvUSJ1abMjs5T0nW+uatyU0h/DZtctnZh3ll4sjuXRDZc+8XZf44qnF/tMe0q9d6fas0WRbnIEm/Bhb70q2N2+B7P0WG6vQuIN0K41ny+i1LtzPuEhl8g2f4xM0ussBSzff8K/By3b+vuHEkvcumV1FDwROkN61fbW1tVeF7Q8gEusuVvDKoaGzQPJVRk8Qb24focA7pT8qr6kedgrzD2bzcv2M7C5X69B0MPBSKHkN00OqIYcNQxvjXuc86GwV41O2jUhC2Hd3IMT1MfJK4oYPvryE882MfXU99Us+T7u81zn/fFH6WrK1tLo6B+XrU2nhhWPg4YMDFcW6fwAYhW7EbwwG137w5931G4Zbm4wK6",
                          "releaseNotes":  [
-                                              "Optionale Ollama-Websuche fÃ¼r aktuelle Fragen und ausdrÃ¼ckliche Online-Recherchen",
-                                              "Der API-Key wird getrennt mit Windows DPAPI verschlÃ¼sselt und niemals an Clients zurÃ¼ckgegeben",
-                                              "Radiosender wechseln ohne vorherigen Stopp direkt im Raumchat",
-                                              "Kompatibel mit blnk Voice Client 0.18.4",
-                                              "Kurzlebige oder fehlerhafte Quellen werden nicht mehr in einer Endlosschleife wiederholt",
-                                              "Der Musikbot erscheint als eigener Raumteilnehmer und bleibt pro Client individuell regelbar",
-                                              "Fortlaufende Bot-PaketzÃ¤hler verhindern Aussetzer beim Senderwechsel",
-                                              "FFmpeg und yt-dlp werden portabel im signierten Serverpaket mitgeliefert",
-                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
+                                              "Deutlich schnellere lokale KI-Antworten durch adaptiven Gesprächskontext,Kürzere natürliche Chatantworten statt unnötig langer Generierung,Kompaktere Online-Suchergebnisse bei unveränderter Wetter- und Nachrichtensuche,Smalltalk mit heute oder morgen startet keine unnötige Websuche,Messbare KI-Antwortzeiten im Serverlog,Kompatibel mit blnk Voice Client 0.18.4,Instanzdaten, Ollama-Modell, API-Key und Serverkonfiguration bleiben erhalten"
                                           ]
                      }
                  ]
