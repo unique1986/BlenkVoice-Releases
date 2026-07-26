@@ -1,13 +1,13 @@
 {
-    "version":  "0.18.6",
-    "notes":  "Serververwaltung bleibt beim Öffnen verbunden; Viewer-Konfiguration und zukünftige Adminfelder sind protokollkompatibel",
-    "pub_date":  "2026-07-25T21:03:04.4651017+00:00",
+    "version":  "0.18.7",
+    "notes":  "Korrigierte Android-Navigation mit freiem Verbindungsdialog, sauberer Safe-Area und uebersichtlicher mobiler Kopfleiste",
+    "pub_date":  "2026-07-26T07:44:08.7684512+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGpYZUNXZnZaa3hjTGF3OGVIc3NsN1NVZG5NeC9lY1J3LzZhdkRGa1V6eVd6bmZLZFpHM09wOVBRV1Q4NC9UZ3pwUU1xWUU0NUFqTUUwbjVxWGVJVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDEzMzg0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguNl94NjQtc2V0dXAuZXhlCkRNS1ErVUhsWFBZWEJPd0FCYmcwVlRuRnhnWG9FTVFZVnUxekh4Mzd0NC9qUVlmVFBNWnYwQUh3UWdnT3BkWmVLL1VsRmJoSzZDQTF1Q0lTSXZ2RUFnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.6/BlenkVoice-0.18.6-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG84ekdRMThPR1cxMkI3OVZsWlMyY0o1Z3NwUGdYM2xEdC9RSVlnSkw2QU9CcmVVbTBMQmVDRk5xeStCY25ybGJPT3h1Y0c5cnNMUmF6TzVFbGlmS1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDUxODQ4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguN194NjQtc2V0dXAuZXhlClhZTkZVR0hkSndZaGZhY0Z4YWJwQTlZeUdndEt2d3RnNFFpZ0xzMHg1YWNWaEtJOGp5WTFySmtyY1AvSE9LS0R0NExPbndLd3dtdXA2OFBzRCs4c0FBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.7/BlenkVoice-0.18.7-windows-x86_64-setup.exe"
                                          }
                   }
 }

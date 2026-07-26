@@ -1,9 +1,9 @@
 {
-    "version":  "0.18.6",
-    "versionCode":  18006,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.6/BlenkVoice-Android-v0.18.6-arm64.apk",
-    "sha256":  "a0273002f29364f566ba148aff0abf6c721cb53ebed1b2a96f47388d8b4687e4",
-    "notes":  "Protokollkompatible Administration; Serververwaltung bleibt beim Öffnen verbunden",
+    "version":  "0.18.7",
+    "versionCode":  18007,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.7/BlenkVoice-Android-v0.18.7-arm64.apk",
+    "sha256":  "3fbe5b006839c1a0d4928eec3e95af3643f59b65c4feb0fd3cf68ea5c31aef4b",
+    "notes":  "Korrigierte Android-Navigation mit freiem Verbindungsdialog, sauberer Safe-Area und uebersichtlicher mobiler Kopfleiste",
     "required":  false,
     "minimumSupportedVersion":  null
 }
