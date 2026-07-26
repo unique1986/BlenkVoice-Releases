@@ -1,13 +1,13 @@
 {
-    "version":  "0.18.7",
-    "notes":  "Korrigierte Android-Navigation mit freiem Verbindungsdialog, sauberer Safe-Area und uebersichtlicher mobiler Kopfleiste",
-    "pub_date":  "2026-07-26T07:44:08.7684512+00:00",
+    "version":  "0.18.8",
+    "notes":  "blnk Voice 0.18.8 - Ingame Micro Overlay",
+    "pub_date":  "2026-07-26T12:07:02.2037077+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG84ekdRMThPR1cxMkI3OVZsWlMyY0o1Z3NwUGdYM2xEdC9RSVlnSkw2QU9CcmVVbTBMQmVDRk5xeStCY25ybGJPT3h1Y0c5cnNMUmF6TzVFbGlmS1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDUxODQ4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTguN194NjQtc2V0dXAuZXhlClhZTkZVR0hkSndZaGZhY0Z4YWJwQTlZeUdndEt2d3RnNFFpZ0xzMHg1YWNWaEtJOGp5WTFySmtyY1AvSE9LS0R0NExPbndLd3dtdXA2OFBzRCs4c0FBPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.7/BlenkVoice-0.18.7-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGgxT0pyN0dsMENNekVQV29ZV1Q2SzArUTY2NDdidFFLaVZVRDRGZzYrSzRicFRHRDBmZHV3LzBtVnBsMXh3azlwRTV2K1ZzYSt3MkZTZkd2N2NXbndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDY3NjIxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTguOF94NjQtc2V0dXAuZXhlClRRbGFwbUowMTdibkIwTEU0UlZrUzdHeHY5VCs5cVJmSWgvVEI2V1g4SVlsbXpMT3pJcGRYczBMYUdOQ1Q5T1J6QW1EdndPeTdqNkhoaFNScktFS0R3PT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.8/BlenkVoice-0.18.8-windows-x86_64-setup.exe"
                                          }
                   }
 }
