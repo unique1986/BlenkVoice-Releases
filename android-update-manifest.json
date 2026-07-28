@@ -1,9 +1,9 @@
 {
-    "version":  "0.18.7",
-    "versionCode":  18007,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.18.7/BlenkVoice-Android-v0.18.7-arm64.apk",
-    "sha256":  "3fbe5b006839c1a0d4928eec3e95af3643f59b65c4feb0fd3cf68ea5c31aef4b",
-    "notes":  "Korrigierte Android-Navigation mit freiem Verbindungsdialog, sauberer Safe-Area und uebersichtlicher mobiler Kopfleiste",
+    "version":  "0.19.0",
+    "versionCode":  19000,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.0/BlenkVoice-Android-v0.19.0-arm64.apk",
+    "sha256":  "95f88fdb4bc352a0b5ac191ae0a016c5771faa9891d8508ed6ee6ffdb8d9992c",
+    "notes":  "Persoenliche deutsche Raum- und Streamansagen mit serverseitiger Offline-Sprachsynthese und getrennten Client-Einstellungen",
     "required":  false,
     "minimumSupportedVersion":  null
 }

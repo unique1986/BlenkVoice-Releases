@@ -1,13 +1,13 @@
 {
-    "version":  "0.18.9",
-    "notes":  "blnk Voice 0.18.9 - Hinweistoene fuer Beitritt, Verlassen, Verbindung, Mikrofon und Ausgabe",
-    "pub_date":  "2026-07-26T16:00:32.6840171+00:00",
+    "version":  "0.19.0",
+    "notes":  "Persoenliche deutsche Raum- und Streamansagen mit serverseitiger Offline-Sprachsynthese und getrennten Client-Einstellungen",
+    "pub_date":  "2026-07-28T13:47:11.1087070+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGtvSWdWZUg5SE0yRlFBWEVGdis4S2QxSmd6dnRGa3JoQWw3REV3TlNKRXZDNHRSVzNGcWtvNk5OaDRXdDUvWGxZaEpIWTRIYVkwUzI2TzRsSEdWaFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDgxNjMxCWZpbGU6YmxuayAtIFZvaWNlXzAuMTguOV94NjQtc2V0dXAuZXhlCkxYd1RKZVpIMFNYYnEyWUNtY1lJKzhkVklDVForZVdUUEhwVUg3UnJwU3Ztb3BuMjJnazh3K01wakFCcXpadVBBMUZ1ZVp1NjNwVEZJY0JTNkh2RkR3PT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.18.9/BlenkVoice-0.18.9-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGlwOWhzNksrL3JjLytDZHBBTFJnMmcyc1dRL2lwcUovMS9lOVRtS091NlJYbTd0SDNrZ0dEaWxLM2N0U2FmTzVoT3kwVjF5b1MvSThtNzFNWWFtbHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ2NDMwCWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuMF94NjQtc2V0dXAuZXhlCkMreFpibEJMNS9IZkhQQXZJaVhNM0lKZDM0ZUVqbHl0b3Q4aW5DaDBaWHV4SkFkWFduelVBVFM5OW1OVjhDc0hLdXNULzQ5MkErcWpHWnM1MmZLK0NnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.0/BlenkVoice-0.19.0-windows-x86_64-setup.exe"
                                          }
                   }
 }

@@ -1,18 +1,24 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-25T21:04:28.9406788+00:00",
+    "generatedAtUtc":  "2026-07-28T13:49:44.5097907+00:00",
     "releases":  [
                      {
-                         "version":  "0.14.1",
+                         "version":  "0.15.0",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-25T21:04:28.9356438+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.14.1/BlenkVoice.Server-0.14.1-win-x64.zip",
-                         "sizeBytes":  111920339,
-                         "sha256":  "7820f7c089d2f97459085e18f214e1241dc231be778154bc5e90ac0ed6d6e66b",
-                         "signature":  "CqQEQ1sUKsxK3iv+FOo1wKRM72m5y4TY05SwCX9MXwEb/2IG5hWVoGfsgh6d7qlzO/2Vk6te8iBRtEtzSLjqDFklpaDg8HaZGWnx08tar9MoYARMzV7rgvnSydWWqcfUTqb2+uz2MT5d5Az34138UgAV1KwzH2CN0E9brDmAp+SOxvB0kBD8zoLL5FYBKTMvYkmkXYth5qPlBQkF0zH2hIL50MsAb9O0QNaCJYGcJ3272Xccvu89urz1o6eDQkxR+nCw73E3p7GFuiR2lmeH0az2TqmT+2dAhmoDMSlTC3Im33t0KLicxX0UY4yP2EMGR7L64ANH6qyc6+6EJ0cjro30bilCt2w+MFmHkRc22PE/w+FdAUVWZ24MXDRxQe7OdeeMn8o4HNa22fRrUyyAvn3M1PKXK+y/FOJaX1YIkm4NieufNcTqDfD1a9EM8nho3BfBPB9KEcy1tGYHkGPc4z93PU49jNZh+eF44VPB3Ph8R5mqTfp4yJlFLFthq5nx",
+                         "publishedAtUtc":  "2026-07-28T13:49:44.5067799+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.15.0/BlenkVoice.Server-0.15.0-win-x64.zip",
+                         "sizeBytes":  155775998,
+                         "sha256":  "defa9bcb0915f73a78d0f4f247ecaf7f84e4717c00dfc843ec6debd74c8d4e60",
+                         "signature":  "fpkmdikP9HQCFbwBSV1xro3qToz6Esu7W/XVJGhFhyxDJDwPfzGTZi4RijEn+ee6ljjQ0mmtG1RtJ2L+bI43sjDrmWL7/SdsD7sZ4ho74YmS0qXtEeek8f+whEip4mIz5KWQjweG0xF+HQ3r9Nx+Xsphio32VfJmzmxtEjdIvyonqfAkWk5aOmY/U9+4TFsNcc8aDBi69PokaXFjzjlB9iYykhk28hDXNp94OUkDG8ckD74xoX6twRUBtG0BkDxyF0G8P8N6PIJ3g1tIOD7KY7R5D4Kunjw6zaudmhhT0fYygxO+ed5mLG2JdErADTVHZH/Ws/plVvS1pkAn3RIIU3VwLpFMO+8cVgkgRvpaUcGBrUN8xU963jqkYPggL21gBto53wnfcKA+WJr4/802ExceL/mt3sPYAo/6cF1H12nsfCMdl6E+dOwgiktybpinge+Eu2jcSv5cDOJ4zDPaDYoey6DRhoy97gesAhVBK5Vn3vCHQw2lVMJ/74FUPcKq",
                          "releaseNotes":  [
-                                              "Serververwaltung bleibt beim Öffnen verbunden,Protokoll 26 bleibt mit Client 0.18.5 kompatibel,Protokoll 27 unterstützt Viewer-Konfiguration und zukünftige Adminfelder,Instanzdaten und Serveridentität bleiben beim Update erhalten"
+                                              "Persoenliche deutsche Ansagen fuer Beitritt, Verlassen, Streamstart und Streamende",
+                                              "Die Ansage verwendet den tatsaechlichen Anzeigenamen des Mitglieds",
+                                              "Sprachsynthese laeuft vollstaendig lokal auf dem selbst gehosteten Windows-Server",
+                                              "Fest versionierte Sprachengine und deutsches Modell mit SHA-256-Pruefung",
+                                              "Kompatibel mit blnk Voice Client 0.19.0",
+                                              "Aeltere Clients behalten ihre bisherigen generischen Hinweistoene",
+                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
                                           ]
                      }
                  ]
