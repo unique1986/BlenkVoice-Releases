@@ -1,13 +1,13 @@
 {
-    "version":  "0.19.1",
-    "notes":  "Echter Low-Latency-Stream mit Live-Edge-Wiedergabe und sofortigen deutschen Namensansagen",
-    "pub_date":  "2026-07-28T15:14:24.3513300+00:00",
+    "version":  "0.19.2",
+    "notes":  "Multiview bleibt live, lädt seltener nach und der freigegebene Entwicklungsraum ist vollständig enthalten.",
+    "pub_date":  "2026-07-28T19:06:13.1091305+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHR6QnRCQVFSRmJ5aCt5YXZtZUh0UnludFBCOTgxa1dJcWdtZ0Z2MlFGdDhZYlVCZVl4bXJCUEJuZnJzNU4ybmYwT2hsWURuMERyQ05rWlN3YUlzclFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjUxNjY0CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuMV94NjQtc2V0dXAuZXhlCll6dE9vSzZVOUhzL0VaRU83eGpIRG1IUnpCbmNGTnFQM0sxMVhrUmxlcUQveVhvMml2c3NGOVByeGgwQmhoRlFkV1hPMDlrMUZKNXV6eDRzMG9pM0RBPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.1/BlenkVoice-0.19.1-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHI0VGJHeWhIYkl2THpCaFBmVzVrK3RaSS9aVS9STWNWMEd4aWpTdkpzTkw2OW1BbTI3R1drb2N4SlpnWHhhQnprZ0o0L2liaGNOTXU3SHVwNCtlREE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjY1NTcyCWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuMl94NjQtc2V0dXAuZXhlCkZ1dTV3UGxsL05LQTMwMUpSYTlYTGE5Y3l2RDdidUJ3dVRTT2F6T0tkcUhtZFRUdkorRTJtOUVoYmVlRXJFZCs5UnBFUE50RTE5VzE4MFo2eUxWQ0NBPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.2/BlenkVoice-0.19.2-windows-x86_64-setup.exe"
                                          }
                   }
 }
