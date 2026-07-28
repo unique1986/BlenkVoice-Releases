@@ -1,9 +1,9 @@
 {
-    "version":  "0.19.0",
-    "versionCode":  19000,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.0/BlenkVoice-Android-v0.19.0-arm64.apk",
-    "sha256":  "95f88fdb4bc352a0b5ac191ae0a016c5771faa9891d8508ed6ee6ffdb8d9992c",
-    "notes":  "Persoenliche deutsche Raum- und Streamansagen mit serverseitiger Offline-Sprachsynthese und getrennten Client-Einstellungen",
+    "version":  "0.19.1",
+    "versionCode":  19001,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.1/BlenkVoice-Android-v0.19.1-arm64.apk",
+    "sha256":  "5fd7d9044cc97ad1e6dacbe10acf3a9263746fdb645274274cfb71e432076cc7",
+    "notes":  "Echter Low-Latency-Stream mit Live-Edge-Wiedergabe und sofortigen deutschen Namensansagen",
     "required":  false,
     "minimumSupportedVersion":  null
 }
