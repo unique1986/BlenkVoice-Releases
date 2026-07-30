@@ -1,13 +1,13 @@
 {
-  "version": "0.19.3",
-  "notes": "Multiview funktioniert wieder und kurze Stream-Pufferungen wurden stabilisiert.",
-  "pub_date": "2026-07-28T19:45:56.5490426+00:00",
-  "required": false,
-  "minimumSupportedVersion": null,
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHZablhQKzZ3N0JBZWtSNVlQNHcvSzZwUFN0ZGlOSFBWUDYyNVZpbGNIQWJyN0l6YTFsV2ZhMk5PY1pBU2h3T0xuWndVdUxPU09vWjk0Y2tjR2tzOFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjY3OTU2CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuM194NjQtc2V0dXAuZXhlCnpsNTBZTkRkVDVCK3JLUXBRMHVFTEE4alN0OWRDYm00b1l4UVdyVFBZVW9NMnFqUnAwRklTdUU5RDJGTDV0c0gweGhWRVhvS1F4clVYWkowUWtxQ0RRPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.3/BlenkVoice-0.19.3-windows-x86_64-setup.exe"
-    }
-  }
+    "version":  "0.19.4",
+    "notes":  "AFK-Garten mit sechs Belegungsstufen, echtes 60-FPS-Survival-Feuer und stabilisierte Vier-Stream-Multiview-Wiedergabe",
+    "pub_date":  "2026-07-30T11:38:48.4988208+00:00",
+    "required":  false,
+    "minimumSupportedVersion":  null,
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxPVzMrdUtKQmplQVo3UU5PSFJxUC9PdkFrT2lPNGxWQWMwbUpJNGRweTVBaDBSdnJjQVhEQ3RaRDVZVFBnYzIxTjlvcEZrZ2ZpOTNycVh2NThXMWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDExNTI4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuNF94NjQtc2V0dXAuZXhlCnE2WEJsS0VFb1p5QUU1TjJWK3BLMDNUbFZ1WE9ySnJGRFpNQUFSYmQ1OFQvUDhCNzNWQkVEOTNNSlptNGpBUDZKUFRQeVViakdEd3J1T0FPSkF0NUJRPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.4/BlenkVoice-0.19.4-windows-x86_64-setup.exe"
+                                         }
+                  }
 }
