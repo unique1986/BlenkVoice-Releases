@@ -1,24 +1,18 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-28T15:17:07.5453539+00:00",
+    "generatedAtUtc":  "2026-07-31T14:53:21.9124332+00:00",
     "releases":  [
                      {
-                         "version":  "0.15.1",
+                         "version":  "0.16.0",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-28T15:17:07.5423415+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.15.1/BlenkVoice.Server-0.15.1-win-x64.zip",
-                         "sizeBytes":  155777120,
-                         "sha256":  "f2ce4e0661cde81c674dd21e7c01907e0a5fed32593f7191012c7fd561c39de2",
-                         "signature":  "O/w+vhpEXkyicOAaq41m+7UgxrMrl0GPBg4yAYcLhmRN6PDwpKAa2fKvrCwsdCTIYG+iTdvWuc9QxvBXG/Ak5Oe82eVVpa3An9T04L09+lPAXtwMyPwlgg2nvsNi/0Axc8sVLiXjXEAY7StddHPjjSJ8SFXU383+RM5hwtI6KvKdvh67Hj25Asctd7b6Z6oVO99hne7HTQie57IkymPv9tUni9BTra7KlyN2PtybDt4COz7rhL+uo6X5F9FzQ3kLIXydRZ/9rKUDkfmv4vTP6VJbpG8CIGxK+ThN2I1hJmDFtHOwF+18dKnE3sPcZURqHN3gf7ZPUPa/BXyN6ckb+aHqiuTquc9JgOrD5D6dazROux+3c4n1ScJvsul8HPiwriwtR3v/D6JwUt7p6vD+OuzBuAKUrFQXglHpC+RcWS3pOw/Id0o3vSubn3hsySD22x8t3ftRSp7ZCuHzC7Rvm/44OpGTEHSPMtS67pcl2xDg0kFjAUu1GIpC7T6+4+nl",
+                         "publishedAtUtc":  "2026-07-31T14:53:21.9084023+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.16.0/BlenkVoice.Server-0.16.0-win-x64.zip",
+                         "sizeBytes":  155896758,
+                         "sha256":  "c6a5dc8303d55eed158dbf3cc1bf1b48434c73a7f5932889ee16142dfb5dcbf6",
+                         "signature":  "nYFSqxK3QMBVcynNXnBzPJhL/0+bnWJHoTnE6Vgy2Qd9WuXleMaVd99smbpd/5Fe4yjM1nriUIjg8latoCO7eB6+gw2qWeM15ST+9z+im7hOT9j6K7asfZCTdfn82G/gICj+z65mQzSxW7rGfBzN7mSlZforxDI8WwqKv2BeYnbJ1GQx3Si53RbVma6gCmVZzDYH+W3uiJDcd3Ml4t5+8hb42mj2GxWhnplHu2Lh75BUKGwxzL6He5axKQ72St6JdhGieUBF3/YQ0HRgqpBVaGkgoTacYtuzTrg9iCPbn1e2chpTS6ooJqkRmGTfWlfXGq7KouhLbdwBohBSOegARWjWEptPpcG4DV6PpGDu5z3m7/byOLumdSfh9tC2Hej60iS65uOelGtTtFDq+ixTw9JNqZ0sop6S+r3iIrNWob2Zof7yGwrhhmQbxl6LJHSnJSaff32SSfKN6Tr7DK3ryJY4elzlS+Uq/zd4Qxv+W2Jdlbcy3qwC3nugb4c2crum",
                          "releaseNotes":  [
-                                              "Bekannte Mitgliedsnamen werden beim Serverstart fuer sofortige Ansagen vorgeladen",
-                                              "Wiederkehrende Ansagen bleiben dauerhaft im Instanzcache und zusaetzlich im Arbeitsspeicher",
-                                              "Ansagen werden im Client in kurzen Echtzeitintervallen abgerufen",
-                                              "Fest versionierte Sprachengine und deutsches Modell mit SHA-256-Pruefung",
-                                              "Kompatibel mit blnk Voice Client 0.19.1",
-                                              "Aeltere Clients behalten ihre bisherigen generischen Hinweistoene",
-                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
+                                              "Servergebundene Anmeldung und Registrierung im Community-Viewer,Räume, Teilnehmer und gemeinsamer Raumchat im Browser,Erster Browser-zu-Browser-WebRTC-Sprachpfad,Installierbare PWA mit responsiver Mobilansicht,HTTPS-, Same-Origin- und Sitzungsabsicherung,Desktop- und Android-Clients bleiben kompatibel"
                                           ]
                      }
                  ]
