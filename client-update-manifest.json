@@ -1,13 +1,13 @@
 {
-    "version":  "0.19.4",
-    "notes":  "AFK-Garten mit sechs Belegungsstufen, echtes 60-FPS-Survival-Feuer und stabilisierte Vier-Stream-Multiview-Wiedergabe",
-    "pub_date":  "2026-07-30T11:38:48.4988208+00:00",
-    "required":  false,
-    "minimumSupportedVersion":  null,
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxPVzMrdUtKQmplQVo3UU5PSFJxUC9PdkFrT2lPNGxWQWMwbUpJNGRweTVBaDBSdnJjQVhEQ3RaRDVZVFBnYzIxTjlvcEZrZ2ZpOTNycVh2NThXMWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDExNTI4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuNF94NjQtc2V0dXAuZXhlCnE2WEJsS0VFb1p5QUU1TjJWK3BLMDNUbFZ1WE9ySnJGRFpNQUFSYmQ1OFQvUDhCNzNWQkVEOTNNSlptNGpBUDZKUFRQeVViakdEd3J1T0FPSkF0NUJRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.4/BlenkVoice-0.19.4-windows-x86_64-setup.exe"
-                                         }
-                  }
+  "version": "0.19.5",
+  "notes": "Multiview synchronisiert laufende Streams neu, Stream-Wiedergabe bleibt näher an Live und Sprache besitzt mehr Pegelreserve.",
+  "pub_date": "2026-07-30T20:05:06.8247459+00:00",
+  "required": false,
+  "minimumSupportedVersion": null,
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxCQVBLK0d3bkFJU085WjN5WVdZNWdnVk9xU25RQnExOHVzQ3JURzBjaWtqSCtFbm80RE9SRDR6dlpNcXpRSVc3Nzdxak5JWmp0czZvSXIvdHU1cWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQxOTA1CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuNV94NjQtc2V0dXAuZXhlCnYzeTd5NUI5d2lJYWg4ajZzSWZNaXRGVFV3MWtGOWhCWDZLTHRiQjl6bnBjOGNic2drVXljWkszOHZvQXBrcmdyM1JGRjlEMzVaTzUwUEFVaHlZcENBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.5/BlenkVoice-0.19.5-windows-x86_64-setup.exe"
+    }
+  }
 }
