@@ -1,13 +1,13 @@
 {
-  "version": "0.19.5",
-  "notes": "Multiview synchronisiert laufende Streams neu, Stream-Wiedergabe bleibt näher an Live und Sprache besitzt mehr Pegelreserve.",
-  "pub_date": "2026-07-30T20:05:06.8247459+00:00",
-  "required": false,
-  "minimumSupportedVersion": null,
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxCQVBLK0d3bkFJU085WjN5WVdZNWdnVk9xU25RQnExOHVzQ3JURzBjaWtqSCtFbm80RE9SRDR6dlpNcXpRSVc3Nzdxak5JWmp0czZvSXIvdHU1cWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQxOTA1CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuNV94NjQtc2V0dXAuZXhlCnYzeTd5NUI5d2lJYWg4ajZzSWZNaXRGVFV3MWtGOWhCWDZLTHRiQjl6bnBjOGNic2drVXljWkszOHZvQXBrcmdyM1JGRjlEMzVaTzUwUEFVaHlZcENBPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.5/BlenkVoice-0.19.5-windows-x86_64-setup.exe"
-    }
-  }
+    "version":  "0.19.6",
+    "notes":  "Stabilisierte Live-Stream-Wiedergabe mit kontrolliertem Puffer, begrenztem Live-Aufholen und automatischer Wiederherstellung schwarzer oder festgefrorener Streams.",
+    "pub_date":  "2026-07-31T11:34:18.3878909+00:00",
+    "required":  false,
+    "minimumSupportedVersion":  null,
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHV5VzZDWVNCUFIzYzYwQURhRkRuMzh5R1BPemJYaGgvRS9XUzRQRUNNY3dQNVpCeU1jNXB0R2RJaElWQUZadnRHYlg4VkkvZStWQUJIUHBHWW5lUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDk3NjU4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuNl94NjQtc2V0dXAuZXhlClhZYmpKQ2diOGcwOEVLc0FUT1VHWVZWbC8rdkh3bTVUSHdkVlhNNUJ2d1JwSEFYTVJNVVczNndQaG9EZndaeTU5VXdSVjZnRm9NU0FUd3VUZ1lZK0J3PT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.6/BlenkVoice-0.19.6-windows-x86_64-setup.exe"
+                                         }
+                  }
 }
