@@ -1,13 +1,13 @@
 {
-    "version":  "0.19.7",
-    "notes":  "Einklappbarer Chat und stabilere Sprache bei hoher Spiellast",
-    "pub_date":  "2026-07-31T18:07:45.7631132+00:00",
+    "version":  "0.19.8",
+    "notes":  "AFK-Modus mit sicherer Audio-Wiederherstellung, raumfuellende Ansicht bei eingeklapptem Chat und berechtigungsgeprueftes Verschieben von Mitgliedern per Drag-and-drop",
+    "pub_date":  "2026-07-31T19:25:59.4427414+00:00",
     "required":  false,
     "minimumSupportedVersion":  null,
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVPTGRFTjFCYWZjcnlFajB4emRlWStOVzFkTlQ3N054dFA0VnFQNmszVFZScGpsbjVUdVE4bCtabHNCcHBVZFhDU3dLR3Rud01tK1MrdFVlNUFyTWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTIxMjY1CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuN194NjQtc2V0dXAuZXhlCk5qZVllRVFtcFFnellxblZxWVFpT05SaDdzVDhiQnRWSXJMS2RyR1Y0UHJ0YjJkekh1WmZNRlllSkRiQ1UyRWRDcDF4aSt2NUNZTDVJYk00RWd6K0NRPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.7/BlenkVoice-0.19.7-windows-x86_64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHFvSXp0SEg1MjFHdXlGWURJdjA1TmpTRHllNG9KRHVoa1lkZXpCbk5vYWRkWTIyU25vZ2t1c2hxRGdDYlQ4cExxWXJNT0dMNzlyU2x0ZFovRkw4MndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI1OTU3CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuOF94NjQtc2V0dXAuZXhlCnhhYkZodlJPZWRyM3llejI4Z3B1QXhkNHJ5V2tlOXk5eDhkeEpvTGh4aGxkT3VkOHZGcUhGaXZDVHNKbFRDWFQ4ZzRSQjVybDZrNmFhTUI1ZC96YkJnPT0K",
+                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.8/BlenkVoice-0.19.8-windows-x86_64-setup.exe"
                                          }
                   }
 }

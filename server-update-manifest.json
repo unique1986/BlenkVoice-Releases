@@ -1,18 +1,24 @@
 {
     "schemaVersion":  1,
     "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-31T17:29:00.4568375+00:00",
+    "generatedAtUtc":  "2026-07-31T19:34:05.2915090+00:00",
     "releases":  [
                      {
-                         "version":  "0.16.1",
+                         "version":  "0.16.2",
                          "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-31T17:29:00.4498087+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.16.1/BlenkVoice.Server-0.16.1-win-x64.zip",
-                         "sizeBytes":  156116662,
-                         "sha256":  "49f762210d44d0c800dc3b212756a29896413b7d4cbc6edcebe3a0d357839688",
-                         "signature":  "Ylnf0I1YYRXX8JmmyvcSR2pGavD0HYLmai0YilV2fz6TP9UB7SdCYeSn5jKWvaViScQAw+at14wVNi8q14lY64zSdt1e8QpcK5qlbCzKqYIUQiKxgpklMsGl/QTMcn0pb2cfh/rHt3sMjOt8952ltsRp02I4gPTxp3kfcEwkxbGsIlMhXXvdZxvi2I4i7ZEichn7/2tU4NZVKnijyj2swfEz7A7TpryzSt8d2TrU5kA4VMAYXyPFyBmPBEADef8P0DI1WI7VZTMEkZTnHo3MtQUVTwztQVF3v7RsKMpuzsGvwqVoZwqGOoHrZE+rJ8O4ujztgcP9AVyATca4ZPjtpbP3t9neE/K2gYwOddkPbwNofTFYxal9alYRUB0KCbL2KfW8ILFXLTo+ZsbvRCjL230Wy9x5fmWsWphK2ACyb0Owc6QaL3Npw9EQdnY0NsPiXcLAhcxx+fzVU5bRTcm7GzfwHyEkb0cVFS3MUG0AT8Gf1VYr+G20Yl99/HILGYzu",
+                         "publishedAtUtc":  "2026-07-31T19:34:05.2804665+00:00",
+                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.16.2/BlenkVoice.Server-0.16.2-win-x64.zip",
+                         "sizeBytes":  156112441,
+                         "sha256":  "44373eb7fda9605e9dec548aec13b8b057dc7f9c4f50be883a6f95695916f0c8",
+                         "signature":  "OnXVskliwTRNZL9eJKeJ+qt6mI7Woe3JdJpwvSXGWDk6cHJDcjgjE3Ayee7hEL12ss8Y2LtJabju9neldbXm+2Vnz5/sTDqWt6ik7gJVhWxUGcrY+7MnEhgTFNbHu488ODgtxjBnalYR8odkwxDO9i5QjQEZJLFWH82TmfDcMWKvadZX6T0DfKTv/dY5fvwIwMZWsiPSgaEP8FuagLHMVxNYuJ5tSd+MDTUIei13rzP4CQ9P9g4OwFUf4jQlHf+CCZbHat+uJZ9NqV1DKfHUQo4a7T+vhOJK+EHdESBk10dsxP2sJp0urYM4i1EBUHPMEePAhUoTXomvm+pgihzmnbrJbU9Ws5aasuqakFskGXdB2EXLDIW+sMEkMyYsHmcvewzGwE/+BQPh60lm2CVfnmbX/q8a8hm1xYLhVHKqklY2OIYkSrzek1fV97KiWvc+qRztvdFzMiCKOOZVDl9OH/H3OyfPXP5RNDikJ1gX4/omXMglj5AbS/mXYFMnBM3x",
                          "releaseNotes":  [
-                                              "PWA-Beitritt ist eine echte Voice-Sitzung und im Windows-Client sichtbar,Browser-Mikrofon und native Teilnehmer sind bidirektional verbunden,Bot- und Radio-Audio ist im Browser hörbar,Browser-Sitzungen werden beim Verlassen sofort entfernt,Instanzdaten, Konten, Räume und Identität bleiben erhalten"
+                                              "Berechtigte Moderatoren und Besitzer koennen Mitglieder zwischen sichtbaren Sprachraeumen verschieben",
+                                              "Der Server prueft Rollenrang, Raumrechte und Mitgliedersichtbarkeit vor jeder Verschiebung",
+                                              "Jede erfolgreiche Mitgliederverschiebung wird im Moderationsprotokoll dokumentiert",
+                                              "Protokoll 29 mit kontrollierter Rueckwaertskompatibilitaet",
+                                              "Kompatibel mit blnk Voice Client 0.19.8",
+                                              "Aeltere Clients koennen weiterhin verbinden, besitzen jedoch keine Mitgliederverschiebung",
+                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
                                           ]
                      }
                  ]

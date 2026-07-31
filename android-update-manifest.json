@@ -1,9 +1,9 @@
 {
-    "version":  "0.19.4",
-    "versionCode":  19004,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.4/BlenkVoice-Android-v0.19.4-arm64.apk",
-    "sha256":  "0ba55c32661a20560469831b0823450d5534e8a4af03effd00ffdea761352081",
-    "notes":  "AFK-Garten mit sechs Belegungsstufen, echtes 60-FPS-Survival-Feuer und stabilisierte Vier-Stream-Multiview-Wiedergabe",
+    "version":  "0.19.8",
+    "versionCode":  19008,
+    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.8/BlenkVoice-Android-v0.19.8-arm64.apk",
+    "sha256":  "395fd43c2ed5a8588476040d5b240c6a64c6066544d8bcacd0ba620a41ebae38",
+    "notes":  "AFK-Modus mit sicherer Audio-Wiederherstellung, raumfuellende Ansicht bei eingeklapptem Chat und berechtigungsgeprueftes Verschieben von Mitgliedern per Drag-and-drop",
     "required":  false,
     "minimumSupportedVersion":  null
 }
