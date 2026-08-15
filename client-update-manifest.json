@@ -1,13 +1,13 @@
 {
-    "version":  "0.19.8",
-    "notes":  "AFK-Modus mit sicherer Audio-Wiederherstellung, raumfuellende Ansicht bei eingeklapptem Chat und berechtigungsgeprueftes Verschieben von Mitgliedern per Drag-and-drop",
-    "pub_date":  "2026-07-31T19:25:59.4427414+00:00",
-    "required":  false,
-    "minimumSupportedVersion":  null,
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHFvSXp0SEg1MjFHdXlGWURJdjA1TmpTRHllNG9KRHVoa1lkZXpCbk5vYWRkWTIyU25vZ2t1c2hxRGdDYlQ4cExxWXJNT0dMNzlyU2x0ZFovRkw4MndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI1OTU3CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuOF94NjQtc2V0dXAuZXhlCnhhYkZodlJPZWRyM3llejI4Z3B1QXhkNHJ5V2tlOXk5eDhkeEpvTGh4aGxkT3VkOHZGcUhGaXZDVHNKbFRDWFQ4ZzRSQjVybDZrNmFhTUI1ZC96YkJnPT0K",
-                                             "url":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.8/BlenkVoice-0.19.8-windows-x86_64-setup.exe"
-                                         }
-                  }
+  "version": "0.19.10",
+  "notes": "Private Direktnachrichten, stabiler Live-Puffer fuer Einzelstream und Multiview sowie zuverlaessigeres Mitgliederverschieben",
+  "pub_date": "2026-08-15T11:27:58.6528856+00:00",
+  "required": false,
+  "minimumSupportedVersion": null,
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG0wQzZBUHdWYlloOHQvS0xXK2NiLy8yVEUyRkZNbWNuTVdIanNnckFldVlFU0V2dFFRVHY1aldyOEtSL0JSL2hBc0FITnU4dkg5VGw0WEo5TmdUMUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzkzMjc4CWZpbGU6YmxuayAtIFZvaWNlXzAuMTkuMTBfeDY0LXNldHVwLmV4ZQoraHIreEFZc3lEVHJ2WDhuNjNXRU5pR3U0SFhYNHoxOVk4ME9rNXJwSkthd3lvZmYvYXErZEk2cXRudXZnSUE3R3I1RkJBNE4vMWdlZlBwUThiZUhCdz09Cg==",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.19.10/BlenkVoice-0.19.10-windows-x86_64-setup.exe"
+    }
+  }
 }

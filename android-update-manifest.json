@@ -1,9 +1,9 @@
 {
-    "version":  "0.19.8",
-    "versionCode":  19008,
-    "apkUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.8/BlenkVoice-Android-v0.19.8-arm64.apk",
-    "sha256":  "395fd43c2ed5a8588476040d5b240c6a64c6066544d8bcacd0ba620a41ebae38",
-    "notes":  "AFK-Modus mit sicherer Audio-Wiederherstellung, raumfuellende Ansicht bei eingeklapptem Chat und berechtigungsgeprueftes Verschieben von Mitgliedern per Drag-and-drop",
-    "required":  false,
-    "minimumSupportedVersion":  null
+  "version": "0.19.10",
+  "versionCode": 19010,
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.10/BlenkVoice-Android-v0.19.10-arm64.apk",
+  "sha256": "7d7bf4f05bf75768d9dc37ff9185bbbbaf7a5af3ebe9714abbdc29781fb684bb",
+  "notes": "Private Direktnachrichten, stabiler Live-Puffer fuer Einzelstream und Multiview sowie zuverlaessigeres Mitgliederverschieben",
+  "required": false,
+  "minimumSupportedVersion": null
 }
