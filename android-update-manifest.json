@@ -1,9 +1,9 @@
 {
-  "version": "0.19.10",
-  "versionCode": 19010,
-  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.19.10/BlenkVoice-Android-v0.19.10-arm64.apk",
-  "sha256": "7d7bf4f05bf75768d9dc37ff9185bbbbaf7a5af3ebe9714abbdc29781fb684bb",
-  "notes": "Private Direktnachrichten, stabiler Live-Puffer fuer Einzelstream und Multiview sowie zuverlaessigeres Mitgliederverschieben",
-  "required": false,
-  "minimumSupportedVersion": null
+  "version": "0.20.0",
+  "versionCode": 20000,
+  "apkUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/android-v0.20.0/BlenkVoice-Android-v0.20.0-arm64.apk",
+  "sha256": "21ee053ef121ab7e634e7eb3d502b36a9921d4fa414e9aab27a8aa7b3b7267fd",
+  "notes": "Neues selbst gehostetes WebRTC-Streaming mit waehlbarer Qualitaet, Multiview und Tablet-Vollbild",
+  "required": true,
+  "minimumSupportedVersion": "0.20.0"
 }

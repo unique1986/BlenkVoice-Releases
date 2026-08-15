@@ -1,25 +1,25 @@
 {
-    "schemaVersion":  1,
-    "product":  "Blenk Voice Server",
-    "generatedAtUtc":  "2026-07-31T19:34:05.2915090+00:00",
-    "releases":  [
-                     {
-                         "version":  "0.16.2",
-                         "channel":  "beta",
-                         "publishedAtUtc":  "2026-07-31T19:34:05.2804665+00:00",
-                         "packageUrl":  "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.16.2/BlenkVoice.Server-0.16.2-win-x64.zip",
-                         "sizeBytes":  156112441,
-                         "sha256":  "44373eb7fda9605e9dec548aec13b8b057dc7f9c4f50be883a6f95695916f0c8",
-                         "signature":  "OnXVskliwTRNZL9eJKeJ+qt6mI7Woe3JdJpwvSXGWDk6cHJDcjgjE3Ayee7hEL12ss8Y2LtJabju9neldbXm+2Vnz5/sTDqWt6ik7gJVhWxUGcrY+7MnEhgTFNbHu488ODgtxjBnalYR8odkwxDO9i5QjQEZJLFWH82TmfDcMWKvadZX6T0DfKTv/dY5fvwIwMZWsiPSgaEP8FuagLHMVxNYuJ5tSd+MDTUIei13rzP4CQ9P9g4OwFUf4jQlHf+CCZbHat+uJZ9NqV1DKfHUQo4a7T+vhOJK+EHdESBk10dsxP2sJp0urYM4i1EBUHPMEePAhUoTXomvm+pgihzmnbrJbU9Ws5aasuqakFskGXdB2EXLDIW+sMEkMyYsHmcvewzGwE/+BQPh60lm2CVfnmbX/q8a8hm1xYLhVHKqklY2OIYkSrzek1fV97KiWvc+qRztvdFzMiCKOOZVDl9OH/H3OyfPXP5RNDikJ1gX4/omXMglj5AbS/mXYFMnBM3x",
-                         "releaseNotes":  [
-                                              "Berechtigte Moderatoren und Besitzer koennen Mitglieder zwischen sichtbaren Sprachraeumen verschieben",
-                                              "Der Server prueft Rollenrang, Raumrechte und Mitgliedersichtbarkeit vor jeder Verschiebung",
-                                              "Jede erfolgreiche Mitgliederverschiebung wird im Moderationsprotokoll dokumentiert",
-                                              "Protokoll 29 mit kontrollierter Rueckwaertskompatibilitaet",
-                                              "Kompatibel mit blnk Voice Client 0.19.8",
-                                              "Aeltere Clients koennen weiterhin verbinden, besitzen jedoch keine Mitgliederverschiebung",
-                                              "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
-                                          ]
-                     }
-                 ]
+  "schemaVersion": 1,
+  "product": "Blenk Voice Server",
+  "generatedAtUtc": "2026-08-15T19:57:33.9970935+00:00",
+  "releases": [
+    {
+      "version": "0.17.0",
+      "channel": "beta",
+      "publishedAtUtc": "2026-08-15T19:57:33.9946631+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.17.0/BlenkVoice.Server-0.17.0-win-x64.zip",
+      "sizeBytes": 158650196,
+      "sha256": "73bbbcaa8ad48c1537589597877c3dfb043b4edc3bc9d64012bc595856252697",
+      "signature": "l15DyofoZh4IE7Jkksf1EfOzpc9mKysk+xabrA00O9Uid5k/ljSDJVsB9DqJrd7lMCofWR5LZHAM/aKu9GiUGtkzazXlcZWC9OTT/VbCd/vhvPN5h89RXgPo+9OldmUdMFcThFIQHDwHfp6ioni3RVNAHkpRxDyezKfSlSRT37+wehDkumVVg95xkLkRctkoe3FNFIDQhRDDEmzqcEuBCXeExP8HjbgAxlEOeEIW5P48d913sR6wHFJm2OUly8dOdU03pCDlO4JdTOQKhP7zwttrPDkDmfvPEcrG9IVo7/XpdEvSsGchVx4KZVYYclSQ/OeYOMIL62WtrhQQKowBQ/YKTdiqY2rp+nlLrBP9sGiZI95YQ+iKLSLG5vlc6WQrqKKk2xnQ/cLMVSu9yexLJ/U0pAOi+7ajfy7SKlo92yINYPhlP64VBIPL/XvFE4duwAxovbwyOIpozAAim8mwEUp8XLFpw6Ebk/LZMpIzkglZ8ymM+CpvPScVeERqX1/x",
+      "releaseNotes": [
+        "Bildschirmstreams verwenden selbst gehostetes LiveKit/WebRTC statt WebM-Bloecken ueber QUIC",
+        "Kurzlebige Publisher- und Viewer-Tokens sind an Benutzer, Raum und Stream gebunden",
+        "Protokoll 31 entfernt den alten Bildschirm-Medienpfad vollstaendig",
+        "Kompatibel mit blnk Voice Client 0.20.0",
+        "Client und Server muessen wegen des Medienprotokollwechsels gemeinsam aktualisiert werden",
+        "Streaming benoetigt den separaten selbst gehosteten LiveKit-Dienst und die drei LIVEKIT-Umgebungsvariablen",
+        "Instanzdaten, Serveridentitaet und Administration bleiben erhalten"
+      ]
+    }
+  ]
 }
