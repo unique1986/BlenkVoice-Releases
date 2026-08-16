@@ -1,13 +1,13 @@
 {
-  "version": "0.20.0",
-  "notes": "Neues selbst gehostetes WebRTC-Streaming mit waehlbarer Qualitaet, Multiview und Tablet-Vollbild",
-  "pub_date": "2026-08-15T19:55:23.4687516+00:00",
-  "required": true,
+  "version": "0.20.1",
+  "notes": "Hochwertiges CC0-Soundboard mit 32 neuen Sounds; Stream direkt im Voice-Dock beenden",
+  "pub_date": "2026-08-16T08:19:32.0579853+00:00",
+  "required": false,
   "minimumSupportedVersion": "0.20.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHY3dWtJWVRKK2hJTHlhVW5VcUxtYU5kdUVLdGx3TXhGNkpWSFJPVWFFYzJRemtiYXZKeXBhTW1tOG1UdXc4Rk0rTHp4SkJxRmxEUU4rdzBOQjNjRndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODIzNzIzCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuMF94NjQtc2V0dXAuZXhlCkxjVVhUZ2lSNVlnTldZTGZTSm9wYnF4RkhrSkRtWENHaDdLMFRGbVdBd1RIbVNVSW9wOVFYMGVqajFMK0hBTnYwSW5TQzFZMU16OWdkR0I2UTZqYUR3PT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.0/BlenkVoice-0.20.0-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHB6Nm9TMTEzS3F2YlZia29BWWJoYUJMdzNrM2g5OTRtMC9sbTlIbnJYUjF5TnRXcVI0R093UUV1VFVYV05IWEtBMUFoVHhhR0ZybGVHYTk4c3VHZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODY4MzcxCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuMV94NjQtc2V0dXAuZXhlClUwMUpBUUlqZTlPVG1MSGlzMzhxaE5KS28rT2N3R2Uvcy9vYU1zQjFJc2NmSXB0STJDU1czWllmcU9SSk0zWnlEb3BCNjJzMmFDb24vZHdYd2hiRENBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.1/BlenkVoice-0.20.1-windows-x86_64-setup.exe"
     }
   }
 }
