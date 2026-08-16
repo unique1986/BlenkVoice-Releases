@@ -1,13 +1,13 @@
 {
-  "version": "0.20.3",
-  "notes": "Sicherer Stream-Systemton: Voice, Soundboard und Blenk-Töne werden per Windows Process Loopback aus dem Stream ausgeschlossen.",
-  "pub_date": "2026-08-16T09:26:23.0120702+00:00",
+  "version": "0.20.4",
+  "notes": "4K/60, automatische AFK-Aufhebung und driftstabiler geschützter Streamton. Android und PWA folgen in einem späteren Testzyklus.",
+  "pub_date": "2026-08-16T10:14:03.9830326+00:00",
   "required": false,
-  "minimumSupportedVersion": "0.20.0",
+  "minimumSupportedVersion": null,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHF2czNIV3IyeHlmMCtZT1Z5UC9LYkdPVzkza1JFeHFuQWxYWkhTOWJmUTgwamk4N3U4VFVYakZQWGdDaytDeGhaYldnSitKM01hN0JxblQ5MEg2RUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODcyMzgyCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuM194NjQtc2V0dXAuZXhlCkk4QXBXSENER3FxcWd3eU5PR0NLZ0FoekVYWGU0VzdvUE9IWWdMc2pTMDBoT2tnMnpuUVpVSGdvdThaQVJnSEhINy9xNmJTV2k4UzVEdm03NitiR0RBPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.3/BlenkVoice-0.20.3-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHNiRzlPQk5SMUR2RC80dndHd0hLNXBDbitLUzBTM3htbG9EMG9UUEJ6T1NndW1nS2RybnlHSFhIY25PdENCWVdZS1VLTWtqQ2pQem8xWk9uZkdFUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODc1MjQzCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuNF94NjQtc2V0dXAuZXhlCjF5dDJRRTdvdTVwR2RJTDhVbXFkN1d3L3FIZlVvK0wvem1kR1A5aTNjckFUcURYWTNzTXQwN2pqVmZXMEtkaHZXU2w3WnowMHJNK0dQSXF5b01MY0RRPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.4/BlenkVoice-0.20.4-windows-x86_64-setup.exe"
     }
   }
 }
