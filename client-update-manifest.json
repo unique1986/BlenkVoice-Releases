@@ -1,13 +1,13 @@
 {
-  "version": "0.20.2",
-  "notes": "Direkter Streamstart mit einmaliger Windows-Tonauswahl, gespeicherter Qualitätswahl und verbesserten Comedy-Sounds.",
-  "pub_date": "2026-08-16T08:51:51.4132578+00:00",
+  "version": "0.20.3",
+  "notes": "Sicherer Stream-Systemton: Voice, Soundboard und Blenk-Töne werden per Windows Process Loopback aus dem Stream ausgeschlossen.",
+  "pub_date": "2026-08-16T09:26:23.0120702+00:00",
   "required": false,
   "minimumSupportedVersion": "0.20.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG5IL0dLY1VGL2gzRklqMm5HWEpVeHRwWTlNT2o2R2FITTd5OTBDbnFtWSthR2lFODdYaFRBTlhYdmZLNkVCcVJ6QlJDdm5TN0d2dnhBdUpzeWV1NndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODcwMzExCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuMl94NjQtc2V0dXAuZXhlCi9INndycVZPNnZWMVN0cmtsRTVrL3hpV09DYmxyL1BVVCsxNTl2OVFManRTWmkxcjJBQ1JnaC91eUdITEl3aXdFUElsY2VPZGh5TzBiYmp2Rkp3NkRnPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.2/BlenkVoice-0.20.2-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHF2czNIV3IyeHlmMCtZT1Z5UC9LYkdPVzkza1JFeHFuQWxYWkhTOWJmUTgwamk4N3U4VFVYakZQWGdDaytDeGhaYldnSitKM01hN0JxblQ5MEg2RUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODcyMzgyCWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuM194NjQtc2V0dXAuZXhlCkk4QXBXSENER3FxcWd3eU5PR0NLZ0FoekVYWGU0VzdvUE9IWWdMc2pTMDBoT2tnMnpuUVpVSGdvdThaQVJnSEhINy9xNmJTV2k4UzVEdm03NitiR0RBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.3/BlenkVoice-0.20.3-windows-x86_64-setup.exe"
     }
   }
 }
