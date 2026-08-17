@@ -1,13 +1,13 @@
 {
-  "version": "0.20.6",
-  "notes": "Hotfix: vollständiger Chat in allen Designs und stabiler Updatekanal",
-  "pub_date": "2026-08-17T15:09:29.8682225+00:00",
+  "version": "0.20.7",
+  "notes": "Channel-Mitglieder direkt in allen neuen Designs, sichtbarer AFK-Schalter und zuverlässige Mitglieder-Verschieben-Steuerung. Server 0.17.1 ergänzt die rückwärtskompatible Channel-Belegung.",
+  "pub_date": "2026-08-17T16:20:05.1795503+00:00",
   "required": false,
   "minimumSupportedVersion": null,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxZdnR5dGdrQzg0c0RrRkhhM1kvdVl0MnFmMFg5dS9qM0drSWQxWng3MXloNFRMQU5VVFFSdjhwNi9GdVFXdnFTeEpFcTFQNFRza0FXRUpVM1RwWWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTc5MzY5CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuNl94NjQtc2V0dXAuZXhlCnorWkV0WWtoNEZlbnp3eGZIQk9IV0Q0bHpVVHQ3UmZUZ3NWbzNScjQ5RXNOb3pPTU5abytHdUdSVlhwdDlBUjBPdEZPaWMzUUx4M1hqK0c0NVVCRkJ3PT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.6/BlenkVoice-0.20.6-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVCT0xKOFVkeDdtUDFDcElIMU5sY1ZjWUIxSmZzVVpaekZMRWZ4bmh6SzRma0JVeGVWcUVxQUcyR1Q4MEFKN2RXRTBpRkV2b04zaHAyMndUejErUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTgzNjA0CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuN194NjQtc2V0dXAuZXhlCm5kMXNERDBYdFp0bEN6MlRNa2p0UVNEYTExcEVNemJWZ1o2UXJwTFl4Q2wyL0FCRnlnZjhwMlhuNS8zNTBXWFA1cDkrQUJNWHNmUHlFN05udGFROURnPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.7/BlenkVoice-0.20.7-windows-x86_64-setup.exe"
     }
   }
 }

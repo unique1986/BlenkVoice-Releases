@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "product": "Blenk Voice Server",
-  "generatedAtUtc": "2026-08-15T19:57:33.9970935+00:00",
+  "generatedAtUtc": "2026-08-17T16:21:08.1775223+00:00",
   "releases": [
+    {
+      "version": "0.17.1",
+      "channel": "stable",
+      "publishedAtUtc": "2026-08-17T16:21:08.1738423+00:00",
+      "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.17.1/BlenkVoice.Server-0.17.1-win-x64.zip",
+      "sizeBytes": 158655147,
+      "sha256": "65f366a32f40d0f83cc4cde8e1879232fa5563d4b31346c702c08131d3b87ce8",
+      "signature": "XPAHVbAYOE39ihWJ/iWsADkaiVWWzizmD7iDCWU6JFP2Jcr87ag25tHoDh9G825ZtLXN4d25KSdSV+Q8v3FU+tsVcvxXXG6+oJDOdyK8GX8w+P+jL9IoEt7OLPVjaTTdQQ0Fx0c1eA3ypWDwfonIbm0TSDt98mRyuB8JCrKTR8jSHTMOiC65L7kC8ETCi2HYLrDxTquoxVyXyCSlzGoRiBzjcr/ROe7F6/lT6JxwRqiValn7APnGuAxRuf9lyvJA/cIB30L6BpF+8F0nPgYPPuZ4A4cTN9exRjnmkEMbdHXBefCuOWEcIqfWphRWwcHxD5/DRRPKAD9+ZH84VVAeISHEiDJ78nTJOZinZ5BvouS4K2d+x7Go2xG8nDVE+xDGyOhV5YRH7V1kv6c7t0fMyqgiwl06T6/uSzdSG13iD3CD7CyG6TtTgC/Z/xgSs7QmWvZyHkSDp7DTpcd9YaKajhwbHEY/CXLzyRV9wef/UCN1ZuD6q70bmTBjBcX0sVRC",
+      "releaseNotes": [
+        "Channel-Belegung liefert Namen für alle sichtbaren Voice-Räume",
+        "Protokoll 32 bleibt vollständig kompatibel mit Client und Server auf Protokoll 31",
+        "Voice, WebRTC, Chat, Dateien und Administration bleiben unverändert"
+      ]
+    },
     {
       "version": "0.17.0",
       "channel": "beta",
