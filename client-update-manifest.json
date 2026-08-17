@@ -1,13 +1,13 @@
 {
-  "version": "0.20.5",
-  "notes": "Neue auswählbare Voice-Designs und verbesserter Einstellungszugang",
-  "pub_date": "2026-08-17T00:50:47.3489101+00:00",
+  "version": "0.20.6",
+  "notes": "Hotfix: vollständiger Chat in allen Designs und stabiler Updatekanal",
+  "pub_date": "2026-08-17T15:09:29.8682225+00:00",
   "required": false,
   "minimumSupportedVersion": null,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aG1Vem44YW9odFRWUHN5aHVhNUYzUEllY3g0TUJMRkE1R2x4eE9FRWZjMGp4VFBiSHpPcU1NNC9nVjhkTFg4RHNDL1lwUGNDT0NxbkJETyt2TXpWNkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI3ODQ2CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuNV94NjQtc2V0dXAuZXhlCkIzajlsaEZOckJ2R25GV0ZiWUt0QXgrS3dRQUFreEEyVTFpTy8yWjg0OXRWSUNxL1NyelBqQnRZOXZDajN4eUQvUUF3Sk1VNVJHdkRYN2hFS3ptTURRPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.5/BlenkVoice-0.20.5-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGxZdnR5dGdrQzg0c0RrRkhhM1kvdVl0MnFmMFg5dS9qM0drSWQxWng3MXloNFRMQU5VVFFSdjhwNi9GdVFXdnFTeEpFcTFQNFRza0FXRUpVM1RwWWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTc5MzY5CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuNl94NjQtc2V0dXAuZXhlCnorWkV0WWtoNEZlbnp3eGZIQk9IV0Q0bHpVVHQ3UmZUZ3NWbzNScjQ5RXNOb3pPTU5abytHdUdSVlhwdDlBUjBPdEZPaWMzUUx4M1hqK0c0NVVCRkJ3PT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.6/BlenkVoice-0.20.6-windows-x86_64-setup.exe"
     }
   }
 }
