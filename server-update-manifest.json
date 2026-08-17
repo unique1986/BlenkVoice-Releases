@@ -5,7 +5,7 @@
   "releases": [
     {
       "version": "0.17.1",
-      "channel": "stable",
+      "channel": "beta",
       "publishedAtUtc": "2026-08-17T16:21:08.1738423+00:00",
       "packageUrl": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/server-v0.17.1/BlenkVoice.Server-0.17.1-win-x64.zip",
       "sizeBytes": 158655147,
