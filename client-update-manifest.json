@@ -1,13 +1,13 @@
 {
-  "version": "0.20.7",
-  "notes": "Channel-Mitglieder direkt in allen neuen Designs, sichtbarer AFK-Schalter und zuverlässige Mitglieder-Verschieben-Steuerung. Server 0.17.1 ergänzt die rückwärtskompatible Channel-Belegung.",
-  "pub_date": "2026-08-17T16:20:05.1795503+00:00",
+  "version": "0.20.8",
+  "notes": "Daily: neue Voice-Verarbeitungsmodi Natuerlich+, maximale Filterung und unverarbeitet/Studio; bestehende Modi bleiben erhalten.",
+  "pub_date": "2026-08-19T21:16:26.6999640+00:00",
   "required": false,
   "minimumSupportedVersion": null,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aHVCT0xKOFVkeDdtUDFDcElIMU5sY1ZjWUIxSmZzVVpaekZMRWZ4bmh6SzRma0JVeGVWcUVxQUcyR1Q4MEFKN2RXRTBpRkV2b04zaHAyMndUejErUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTgzNjA0CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuN194NjQtc2V0dXAuZXhlCm5kMXNERDBYdFp0bEN6MlRNa2p0UVNEYTExcEVNemJWZ1o2UXJwTFl4Q2wyL0FCRnlnZjhwMlhuNS8zNTBXWFA1cDkrQUJNWHNmUHlFN05udGFROURnPT0K",
-      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.7/BlenkVoice-0.20.7-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUalFKRllBMFA2aGdFTjM4SUlhNXo0RGZLY3hCVTI2akN2VUpIMmtyWmkzN3ZMbjBrT1hKem1US2RqOEJLTzJrWWZZT0tjcTFObldSLy8rbGRvUWNDbWdXOFZObEwybGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTc0MTg2CWZpbGU6YmxuayAtIFZvaWNlXzAuMjAuOF94NjQtc2V0dXAuZXhlCm0yOGhRdU1sbndjODJEdWR5YVhLOGIzNVU5M2dGODdtYUVTbTNQZzlyVjlkYkV4MjJ1cVRYaDFyRkJWVFo4cXJqRDF4a1kycHUxaVhZOTJCMGdkcUFBPT0K",
+      "url": "https://github.com/unique1986/BlenkVoice-Releases/releases/download/client-v0.20.8/BlenkVoice-0.20.8-windows-x86_64-setup.exe"
     }
   }
 }
